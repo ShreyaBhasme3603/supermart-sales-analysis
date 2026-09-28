@@ -1,0 +1,1201 @@
+Order ID,Customer Name,Order Date,Ship Date,Category,Sub Category,City,State,Region,Quantity,Unit Price,Discount,Sales,Profit,Payment Mode,Order Month,Profit Margin %,Order Value
+SM100001,Vivaan Jadhav,2025-11-24,2025-11-29,Personal Care,Skin Care,Mumbai,Maharashtra,West,4,255,0.0,1020.0,257.47,Cash,2025-11,25.24,1020.0
+SM100002,Pooja Kulkarni,2025-01-17,2025-01-22,Household,Cleaning,Mumbai,Maharashtra,West,1,540,0.15,459.0,59.23,Cash,2025-01,12.9,459.0
+SM100003,Rahul Sharma,2025-10-29,2025-10-31,Household,Storage,Chennai,Tamil Nadu,South,7,690,0.02,4733.4,980.72,UPI,2025-10,20.72,4733.4
+SM100004,Priya Sharma,2025-07-14,2025-07-18,Personal Care,Oral Care,Kolhapur,Maharashtra,West,5,415,0.15,1763.75,371.4,Cash,2025-07,21.06,1763.75
+SM100005,Meera Sharma,2025-02-10,2025-02-12,Personal Care,Oral Care,New Delhi,Delhi,North,4,365,0.0,1460.0,341.85,Credit Card,2025-02,23.41,1460.0
+SM100006,Rohan Naik,2025-02-21,2025-02-23,Stationery,Office Supplies,Vadodara,Gujarat,West,6,190,0.05,1083.0,164.23,UPI,2025-02,15.16,1083.0
+SM100007,Saanvi Kadam,2025-11-08,2025-11-13,Household,Cleaning,Hyderabad,Telangana,South,8,390,0.15,2652.0,456.09,Debit Card,2025-11,17.2,2652.0
+SM100008,Arjun Kadam,2025-01-29,2025-02-01,Personal Care,Hair Care,Bengaluru,Karnataka,South,5,140,0.1,630.0,134.94,Cash,2025-01,21.42,630.0
+SM100009,Rohan Naik,2025-07-22,2025-07-27,Household,Kitchen,Warangal,Telangana,South,3,445,0.1,1201.5,172.13,Net Banking,2025-07,14.33,1201.5
+SM100010,Diya Deshmukh,2025-08-08,2025-08-09,Personal Care,Skin Care,New Delhi,Delhi,North,3,660,0.0,1980.0,502.06,Credit Card,2025-08,25.36,1980.0
+SM100011,Diya Kadam,2025-12-15,2025-12-16,Stationery,Notebooks,Ahmedabad,Gujarat,West,8,205,0.1,1476.0,182.16,Net Banking,2025-12,12.34,1476.0
+SM100012,Amit Bhosale,2025-05-17,2025-05-20,Food,Bakery,Durgapur,West Bengal,East,7,75,0.0,525.0,77.89,Credit Card,2025-05,14.84,525.0
+SM100013,Aarav Jadhav,2025-09-17,2025-09-22,Household,Cleaning,Kolhapur,Maharashtra,West,6,705,0.1,3807.0,613.11,Debit Card,2025-09,16.1,3807.0
+SM100014,Vivaan Naik,2025-09-08,2025-09-09,Personal Care,Hair Care,Mumbai,Maharashtra,West,4,135,0.1,486.0,71.52,Cash,2025-09,14.72,486.0
+SM100015,Amit Verma,2025-02-05,2025-02-08,Household,Storage,Kolkata,West Bengal,East,8,1710,0.02,13406.4,1982.5,Net Banking,2025-02,14.79,13406.4
+SM100016,Diya Kulkarni,2025-08-05,2025-08-09,Personal Care,Hair Care,Mysuru,Karnataka,South,6,485,0.1,2619.0,473.89,Credit Card,2025-08,18.09,2619.0
+SM100017,Saanvi Sharma,2025-02-02,2025-02-03,Household,Storage,Chennai,Tamil Nadu,South,4,130,0.15,442.0,47.37,UPI,2025-02,10.72,442.0
+SM100018,Riya Singh,2025-06-19,2025-06-24,Household,Kitchen,Nashik,Maharashtra,West,8,400,0.02,3136.0,623.61,Credit Card,2025-06,19.89,3136.0
+SM100019,Pooja Singh,2025-08-31,2025-09-04,Household,Cleaning,Durgapur,West Bengal,East,2,620,0.05,1178.0,182.35,UPI,2025-08,15.48,1178.0
+SM100020,Arjun Kulkarni,2025-12-11,2025-12-13,Food,Dairy,Hyderabad,Telangana,South,6,410,0.0,2460.0,306.74,Net Banking,2025-12,12.47,2460.0
+SM100021,Priya Sharma,2025-08-18,2025-08-22,Household,Kitchen,Mangaluru,Karnataka,South,8,450,0.0,3600.0,851.91,UPI,2025-08,23.66,3600.0
+SM100022,Karan Shah,2025-11-30,2025-12-02,Food,Beverages,New Delhi,Delhi,North,3,215,0.08,593.4,70.23,UPI,2025-11,11.84,593.4
+SM100023,Nisha Deshmukh,2025-03-26,2025-03-31,Stationery,Notebooks,Ahmedabad,Gujarat,West,8,130,0.15,884.0,100.94,Credit Card,2025-03,11.42,884.0
+SM100024,Amit Deshmukh,2025-06-01,2025-06-06,Food,Bakery,Bengaluru,Karnataka,South,1,45,0.08,41.4,0.86,UPI,2025-06,2.08,41.4
+SM100025,Diya Shah,2025-09-18,2025-09-22,Food,Staples,Pune,Maharashtra,West,2,560,0.02,1097.6,150.8,Net Banking,2025-09,13.74,1097.6
+SM100026,Saanvi Joshi,2025-05-07,2025-05-10,Food,Dairy,New Delhi,Delhi,North,6,470,0.02,2763.6,424.97,Cash,2025-05,15.38,2763.6
+SM100027,Diya Sharma,2025-03-09,2025-03-14,Stationery,Notebooks,Warangal,Telangana,South,2,45,0.1,81.0,7.48,Net Banking,2025-03,9.23,81.0
+SM100028,Ishita Singh,2025-04-20,2025-04-23,Household,Kitchen,New Delhi,Delhi,North,2,1330,0.05,2527.0,472.28,Net Banking,2025-04,18.69,2527.0
+SM100029,Diya Shah,2025-12-27,2025-12-30,Personal Care,Oral Care,Chennai,Tamil Nadu,South,2,475,0.02,931.0,201.08,UPI,2025-12,21.6,931.0
+SM100030,Amit Singh,2025-10-11,2025-10-14,Personal Care,Oral Care,Hubballi,Karnataka,South,4,375,0.02,1470.0,328.85,Debit Card,2025-10,22.37,1470.0
+SM100031,Ishita Naik,2025-01-27,2025-01-30,Personal Care,Skin Care,Nagpur,Maharashtra,West,1,465,0.02,455.7,98.41,Cash,2025-01,21.6,455.7
+SM100032,Priya Patil,2025-10-10,2025-10-12,Food,Snacks,Warangal,Telangana,South,2,335,0.15,569.5,79.05,Debit Card,2025-10,13.88,569.5
+SM100033,Sneha Kulkarni,2025-10-26,2025-10-27,Stationery,Pens,New Delhi,Delhi,North,1,70,0.2,56.0,5.0,Credit Card,2025-10,8.93,56.0
+SM100034,Ishita Shah,2025-12-08,2025-12-10,Stationery,Office Supplies,Kolhapur,Maharashtra,West,3,930,0.02,2734.2,395.25,Cash,2025-12,14.46,2734.2
+SM100035,Karan Verma,2025-01-13,2025-01-14,Stationery,Office Supplies,Hubballi,Karnataka,South,4,290,0.2,928.0,102.6,UPI,2025-01,11.06,928.0
+SM100036,Saanvi Patil,2025-08-29,2025-08-31,Stationery,Notebooks,Mysuru,Karnataka,South,5,295,0.2,1180.0,70.19,Credit Card,2025-08,5.95,1180.0
+SM100037,Rahul Patil,2025-07-24,2025-07-29,Food,Bakery,Madurai,Tamil Nadu,South,6,205,0.08,1131.6,146.23,UPI,2025-07,12.92,1131.6
+SM100038,Pooja Jadhav,2025-05-14,2025-05-17,Food,Snacks,Hubballi,Karnataka,South,7,145,0.2,812.0,17.06,Net Banking,2025-05,2.1,812.0
+SM100039,Arjun Pawar,2025-03-01,2025-03-06,Personal Care,Skin Care,Surat,Gujarat,West,7,100,0.2,560.0,65.41,Cash,2025-03,11.68,560.0
+SM100040,Meera Kadam,2025-02-05,2025-02-10,Personal Care,Oral Care,Warangal,Telangana,South,2,375,0.05,712.5,158.48,Cash,2025-02,22.24,712.5
+SM100041,Neha Jadhav,2025-06-17,2025-06-19,Household,Cleaning,Vadodara,Gujarat,West,7,625,0.08,4025.0,734.41,Debit Card,2025-06,18.25,4025.0
+SM100042,Rahul Singh,2025-07-27,2025-08-01,Personal Care,Hair Care,New Delhi,Delhi,North,4,475,0.1,1710.0,340.78,Cash,2025-07,19.93,1710.0
+SM100043,Neha Pawar,2025-08-15,2025-08-20,Stationery,Office Supplies,Hyderabad,Telangana,South,3,670,0.05,1909.5,295.23,UPI,2025-08,15.46,1909.5
+SM100044,Neha Verma,2025-05-01,2025-05-05,Household,Cleaning,Warangal,Telangana,South,3,100,0.02,294.0,53.94,UPI,2025-05,18.35,294.0
+SM100045,Diya Bhosale,2025-08-22,2025-08-23,Stationery,Notebooks,Surat,Gujarat,West,7,115,0.15,684.25,51.69,Cash,2025-08,7.55,684.25
+SM100046,Aditya Bhosale,2025-04-23,2025-04-27,Food,Staples,Mangaluru,Karnataka,South,4,740,0.0,2960.0,420.33,Cash,2025-04,14.2,2960.0
+SM100047,Ishita Naik,2025-12-08,2025-12-12,Stationery,Office Supplies,New Delhi,Delhi,North,7,835,0.1,5260.5,649.59,Cash,2025-12,12.35,5260.5
+SM100048,Vivaan Naik,2025-08-19,2025-08-23,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,8,330,0.05,2508.0,611.77,Debit Card,2025-08,24.39,2508.0
+SM100049,Aditya Naik,2025-05-01,2025-05-05,Personal Care,Oral Care,Madurai,Tamil Nadu,South,2,110,0.02,215.6,51.66,Credit Card,2025-05,23.96,215.6
+SM100050,Karan Shah,2025-02-02,2025-02-06,Personal Care,Oral Care,Rajkot,Gujarat,West,8,235,0.02,1842.4,344.39,Net Banking,2025-02,18.69,1842.4
+SM100051,Pooja More,2025-12-23,2025-12-27,Stationery,Notebooks,Nashik,Maharashtra,West,1,330,0.05,313.5,51.92,Net Banking,2025-12,16.56,313.5
+SM100052,Karan Naik,2025-11-05,2025-11-08,Household,Kitchen,Mangaluru,Karnataka,South,7,780,0.08,5023.2,775.45,Credit Card,2025-11,15.44,5023.2
+SM100053,Vikram Deshmukh,2025-08-28,2025-08-30,Stationery,Office Supplies,Bengaluru,Karnataka,South,1,110,0.08,101.2,12.54,UPI,2025-08,12.39,101.2
+SM100054,Pooja Joshi,2025-05-14,2025-05-17,Household,Kitchen,Vadodara,Gujarat,West,6,575,0.08,3174.0,569.07,UPI,2025-05,17.93,3174.0
+SM100055,Aarav Kulkarni,2025-08-29,2025-08-30,Food,Bakery,Nashik,Maharashtra,West,4,205,0.2,656.0,62.83,Credit Card,2025-08,9.58,656.0
+SM100056,Vikram Naik,2025-01-11,2025-01-13,Household,Cleaning,New Delhi,Delhi,North,8,630,0.1,4536.0,808.69,Debit Card,2025-01,17.83,4536.0
+SM100057,Karan Gupta,2025-07-08,2025-07-13,Household,Kitchen,Bengaluru,Karnataka,South,2,910,0.05,1729.0,270.62,Credit Card,2025-07,15.65,1729.0
+SM100058,Sneha More,2025-02-08,2025-02-09,Food,Bakery,New Delhi,Delhi,North,2,245,0.1,441.0,47.31,Cash,2025-02,10.73,441.0
+SM100059,Sneha Kadam,2025-12-05,2025-12-09,Personal Care,Skin Care,Chennai,Tamil Nadu,South,7,1005,0.0,7035.0,1746.66,Cash,2025-12,24.83,7035.0
+SM100060,Vikram Gupta,2025-12-29,2026-01-02,Household,Storage,Mangaluru,Karnataka,South,5,1155,0.1,5197.5,932.37,Net Banking,2025-12,17.94,5197.5
+SM100061,Neha Kadam,2025-05-18,2025-05-23,Food,Bakery,Coimbatore,Tamil Nadu,South,8,95,0.08,699.2,78.32,Cash,2025-05,11.2,699.2
+SM100062,Rahul Joshi,2025-06-22,2025-06-25,Personal Care,Skin Care,Nagpur,Maharashtra,West,8,335,0.2,2144.0,311.65,Net Banking,2025-06,14.54,2144.0
+SM100063,Saanvi Naik,2025-12-26,2025-12-31,Household,Cleaning,Chennai,Tamil Nadu,South,4,670,0.08,2465.6,336.16,Cash,2025-12,13.63,2465.6
+SM100064,Meera Kadam,2025-11-27,2025-11-29,Stationery,Pens,Warangal,Telangana,South,2,65,0.08,119.6,13.63,Net Banking,2025-11,11.4,119.6
+SM100065,Meera Joshi,2025-07-08,2025-07-11,Stationery,Office Supplies,Vadodara,Gujarat,West,6,370,0.08,2042.4,335.59,Credit Card,2025-07,16.43,2042.4
+SM100066,Rohan Naik,2025-03-03,2025-03-07,Personal Care,Skin Care,Hyderabad,Telangana,South,3,310,0.15,790.5,163.16,Net Banking,2025-03,20.64,790.5
+SM100067,Aarav Naik,2025-09-26,2025-09-29,Food,Beverages,New Delhi,Delhi,North,5,140,0.02,686.0,102.35,Net Banking,2025-09,14.92,686.0
+SM100068,Diya Verma,2025-03-06,2025-03-10,Food,Staples,Chennai,Tamil Nadu,South,5,575,0.02,2817.5,496.13,UPI,2025-03,17.61,2817.5
+SM100069,Nisha Sharma,2025-10-21,2025-10-24,Stationery,Notebooks,Salem,Tamil Nadu,South,6,95,0.0,570.0,107.75,UPI,2025-10,18.9,570.0
+SM100070,Saanvi Sharma,2025-07-25,2025-07-26,Food,Beverages,Ahmedabad,Gujarat,West,3,375,0.05,1068.75,129.72,Net Banking,2025-07,12.14,1068.75
+SM100071,Meera Jadhav,2025-08-02,2025-08-06,Stationery,Notebooks,New Delhi,Delhi,North,8,130,0.1,936.0,134.82,Net Banking,2025-08,14.4,936.0
+SM100072,Saanvi Deshmukh,2025-01-31,2025-02-02,Household,Storage,New Delhi,Delhi,North,4,565,0.0,2260.0,538.9,Net Banking,2025-01,23.85,2260.0
+SM100073,Meera Naik,2025-02-08,2025-02-11,Stationery,Notebooks,Bengaluru,Karnataka,South,8,130,0.02,1019.2,173.37,Cash,2025-02,17.01,1019.2
+SM100074,Aditya Shah,2025-02-06,2025-02-08,Personal Care,Oral Care,Hyderabad,Telangana,South,4,240,0.1,864.0,202.28,Debit Card,2025-02,23.41,864.0
+SM100075,Karan Joshi,2025-03-14,2025-03-17,Household,Kitchen,Mumbai,Maharashtra,West,5,715,0.08,3289.0,323.99,Net Banking,2025-03,9.85,3289.0
+SM100076,Neha Joshi,2025-10-04,2025-10-07,Food,Staples,Rajkot,Gujarat,West,1,720,0.15,612.0,69.19,UPI,2025-10,11.31,612.0
+SM100077,Amit Kadam,2025-02-16,2025-02-20,Personal Care,Oral Care,Bengaluru,Karnataka,South,1,395,0.02,387.1,90.26,Cash,2025-02,23.32,387.1
+SM100078,Diya Verma,2025-05-23,2025-05-26,Stationery,Pens,Mangaluru,Karnataka,South,8,75,0.05,570.0,85.51,Credit Card,2025-05,15.0,570.0
+SM100079,Vikram Sharma,2025-06-18,2025-06-19,Personal Care,Oral Care,Rajkot,Gujarat,West,7,415,0.1,2614.5,515.83,Debit Card,2025-06,19.73,2614.5
+SM100080,Pooja Patil,2025-05-10,2025-05-14,Stationery,Office Supplies,Chennai,Tamil Nadu,South,1,670,0.1,603.0,51.44,Credit Card,2025-05,8.53,603.0
+SM100081,Vikram Shah,2025-09-23,2025-09-26,Stationery,Pens,Salem,Tamil Nadu,South,4,60,0.02,235.2,38.93,Cash,2025-09,16.55,235.2
+SM100082,Pooja Sharma,2025-03-04,2025-03-09,Household,Storage,Nashik,Maharashtra,West,3,640,0.0,1920.0,401.14,Credit Card,2025-03,20.89,1920.0
+SM100083,Nisha Singh,2025-02-28,2025-03-04,Household,Kitchen,Ahmedabad,Gujarat,West,5,810,0.05,3847.5,825.09,Credit Card,2025-02,21.44,3847.5
+SM100084,Rahul Shah,2025-08-22,2025-08-26,Stationery,Pens,New Delhi,Delhi,North,3,175,0.05,498.75,72.09,Net Banking,2025-08,14.45,498.75
+SM100085,Aditya Singh,2025-05-17,2025-05-21,Personal Care,Oral Care,Kolkata,West Bengal,East,5,425,0.1,1912.5,334.28,Net Banking,2025-05,17.48,1912.5
+SM100086,Riya Gupta,2025-09-05,2025-09-07,Stationery,Notebooks,Madurai,Tamil Nadu,South,6,310,0.15,1581.0,158.03,Credit Card,2025-09,10.0,1581.0
+SM100087,Nisha Patil,2025-07-30,2025-08-01,Stationery,Office Supplies,Kolhapur,Maharashtra,West,7,405,0.15,2409.75,326.24,Credit Card,2025-07,13.54,2409.75
+SM100088,Aditya Gupta,2025-09-15,2025-09-16,Food,Dairy,New Delhi,Delhi,North,2,280,0.08,515.2,68.12,Credit Card,2025-09,13.22,515.2
+SM100089,Priya Gupta,2025-02-08,2025-02-11,Personal Care,Oral Care,Vadodara,Gujarat,West,7,340,0.2,1904.0,260.38,Debit Card,2025-02,13.68,1904.0
+SM100090,Saanvi Naik,2025-11-17,2025-11-20,Food,Staples,Warangal,Telangana,South,2,235,0.15,399.5,42.08,UPI,2025-11,10.53,399.5
+SM100091,Anaya Joshi,2025-08-11,2025-08-14,Stationery,Pens,Mumbai,Maharashtra,West,5,180,0.0,900.0,164.18,Debit Card,2025-08,18.24,900.0
+SM100092,Ishita Deshmukh,2025-07-11,2025-07-13,Household,Storage,Surat,Gujarat,West,7,1070,0.2,5992.0,804.22,UPI,2025-07,13.42,5992.0
+SM100093,Vikram Joshi,2025-11-09,2025-11-12,Household,Kitchen,Durgapur,West Bengal,East,3,425,0.15,1083.75,124.58,UPI,2025-11,11.5,1083.75
+SM100094,Rohan Singh,2025-08-27,2025-08-31,Food,Dairy,Coimbatore,Tamil Nadu,South,6,495,0.05,2821.5,364.84,Debit Card,2025-08,12.93,2821.5
+SM100095,Meera Patil,2025-04-12,2025-04-15,Food,Beverages,Rajkot,Gujarat,West,7,280,0.1,1764.0,185.57,Cash,2025-04,10.52,1764.0
+SM100096,Neha Bhosale,2025-05-21,2025-05-23,Food,Staples,Nashik,Maharashtra,West,8,675,0.05,5130.0,517.68,Debit Card,2025-05,10.09,5130.0
+SM100097,Meera Bhosale,2025-04-23,2025-04-24,Personal Care,Oral Care,Hyderabad,Telangana,South,3,335,0.15,854.25,153.68,Cash,2025-04,17.99,854.25
+SM100098,Arjun Deshmukh,2025-01-18,2025-01-20,Household,Cleaning,New Delhi,Delhi,North,5,350,0.08,1610.0,274.55,Net Banking,2025-01,17.05,1610.0
+SM100099,Diya Singh,2025-07-07,2025-07-10,Household,Kitchen,New Delhi,Delhi,North,8,1455,0.05,11058.0,1964.21,UPI,2025-07,17.76,11058.0
+SM100100,Rohan More,2025-03-14,2025-03-15,Stationery,Office Supplies,Kolkata,West Bengal,East,6,120,0.08,662.4,91.5,UPI,2025-03,13.81,662.4
+SM100101,Aarav Jadhav,2025-08-21,2025-08-25,Stationery,Office Supplies,Madurai,Tamil Nadu,South,6,135,0.02,793.8,107.65,Net Banking,2025-08,13.56,793.8
+SM100102,Anaya Patil,2025-06-17,2025-06-19,Food,Dairy,New Delhi,Delhi,North,5,340,0.0,1700.0,254.12,Debit Card,2025-06,14.95,1700.0
+SM100103,Pooja Jadhav,2025-09-10,2025-09-15,Household,Storage,Mumbai,Maharashtra,West,3,775,0.05,2208.75,373.13,Credit Card,2025-09,16.89,2208.75
+SM100104,Sneha Kulkarni,2025-08-01,2025-08-02,Stationery,Office Supplies,Hyderabad,Telangana,South,7,940,0.05,6251.0,859.16,Cash,2025-08,13.74,6251.0
+SM100105,Diya Verma,2025-08-16,2025-08-18,Food,Bakery,Hubballi,Karnataka,South,6,45,0.05,256.5,34.23,Cash,2025-08,13.35,256.5
+SM100106,Arjun Sharma,2025-02-16,2025-02-21,Food,Snacks,Hyderabad,Telangana,South,6,115,0.02,676.2,108.94,Net Banking,2025-02,16.11,676.2
+SM100107,Rohan Verma,2025-04-17,2025-04-18,Household,Kitchen,New Delhi,Delhi,North,3,1205,0.1,3253.5,657.71,Credit Card,2025-04,20.22,3253.5
+SM100108,Riya Pawar,2025-03-08,2025-03-10,Household,Cleaning,New Delhi,Delhi,North,1,190,0.05,180.5,32.83,UPI,2025-03,18.19,180.5
+SM100109,Nisha Singh,2025-03-31,2025-04-01,Household,Storage,Chennai,Tamil Nadu,South,7,1005,0.15,5979.75,830.82,Debit Card,2025-03,13.89,5979.75
+SM100110,Meera Singh,2025-09-20,2025-09-25,Stationery,Office Supplies,New Delhi,Delhi,North,4,945,0.0,3780.0,673.36,UPI,2025-09,17.81,3780.0
+SM100111,Vivaan Pawar,2025-02-01,2025-02-02,Stationery,Office Supplies,Rajkot,Gujarat,West,2,505,0.08,929.2,89.23,Net Banking,2025-02,9.6,929.2
+SM100112,Meera Singh,2025-03-17,2025-03-22,Personal Care,Oral Care,Pune,Maharashtra,West,6,220,0.1,1188.0,230.87,Net Banking,2025-03,19.43,1188.0
+SM100113,Rahul Verma,2025-11-06,2025-11-10,Food,Staples,Ahmedabad,Gujarat,West,4,380,0.02,1489.6,227.17,Cash,2025-11,15.25,1489.6
+SM100114,Nisha Sharma,2025-07-24,2025-07-26,Personal Care,Hair Care,Ahmedabad,Gujarat,West,6,690,0.05,3933.0,1097.63,UPI,2025-07,27.91,3933.0
+SM100115,Priya Pawar,2025-02-13,2025-02-18,Food,Bakery,Nagpur,Maharashtra,West,3,180,0.1,486.0,53.55,UPI,2025-02,11.02,486.0
+SM100116,Arjun Deshmukh,2025-07-30,2025-08-04,Food,Bakery,Salem,Tamil Nadu,South,5,125,0.1,562.5,68.93,Cash,2025-07,12.25,562.5
+SM100117,Saanvi Bhosale,2025-04-25,2025-04-30,Personal Care,Oral Care,Kolkata,West Bengal,East,6,100,0.05,570.0,123.48,Cash,2025-04,21.66,570.0
+SM100118,Rahul Pawar,2025-10-15,2025-10-18,Personal Care,Skin Care,Kolkata,West Bengal,East,3,400,0.2,960.0,115.95,UPI,2025-10,12.08,960.0
+SM100119,Amit Kulkarni,2025-04-03,2025-04-04,Stationery,Pens,Kolkata,West Bengal,East,3,150,0.0,450.0,93.86,Cash,2025-04,20.86,450.0
+SM100120,Neha Sharma,2025-08-03,2025-08-08,Household,Kitchen,Vadodara,Gujarat,West,5,1110,0.2,4440.0,571.86,UPI,2025-08,12.88,4440.0
+SM100121,Vikram Gupta,2025-03-21,2025-03-26,Food,Bakery,Bengaluru,Karnataka,South,8,210,0.08,1545.6,222.22,Debit Card,2025-03,14.38,1545.6
+SM100122,Nisha More,2025-04-21,2025-04-26,Personal Care,Hair Care,Kolkata,West Bengal,East,2,340,0.15,578.0,86.56,Debit Card,2025-04,14.98,578.0
+SM100123,Rohan Joshi,2025-01-24,2025-01-26,Food,Snacks,Mangaluru,Karnataka,South,4,135,0.02,529.2,98.47,Debit Card,2025-01,18.61,529.2
+SM100124,Amit More,2025-03-03,2025-03-05,Stationery,Pens,Nagpur,Maharashtra,West,3,80,0.15,204.0,15.8,Debit Card,2025-03,7.75,204.0
+SM100125,Riya Gupta,2025-02-06,2025-02-09,Stationery,Pens,Ahmedabad,Gujarat,West,8,185,0.2,1184.0,123.93,Net Banking,2025-02,10.47,1184.0
+SM100126,Neha Singh,2025-07-27,2025-07-29,Personal Care,Skin Care,Warangal,Telangana,South,7,125,0.05,831.25,226.32,Debit Card,2025-07,27.23,831.25
+SM100127,Rahul Kulkarni,2025-02-15,2025-02-18,Household,Kitchen,Ahmedabad,Gujarat,West,7,835,0.08,5377.4,748.73,Debit Card,2025-02,13.92,5377.4
+SM100128,Aditya Kulkarni,2025-03-28,2025-03-31,Food,Staples,Nashik,Maharashtra,West,4,730,0.05,2774.0,342.15,UPI,2025-03,12.33,2774.0
+SM100129,Ishita Bhosale,2025-03-16,2025-03-17,Household,Storage,Coimbatore,Tamil Nadu,South,3,1395,0.15,3557.25,480.2,Cash,2025-03,13.5,3557.25
+SM100130,Vikram Kadam,2025-08-26,2025-08-30,Personal Care,Oral Care,Durgapur,West Bengal,East,6,120,0.0,720.0,163.74,Debit Card,2025-08,22.74,720.0
+SM100131,Anaya Pawar,2025-05-21,2025-05-22,Personal Care,Oral Care,New Delhi,Delhi,North,2,190,0.08,349.6,57.77,Debit Card,2025-05,16.52,349.6
+SM100132,Arjun Pawar,2025-02-09,2025-02-14,Stationery,Notebooks,Hyderabad,Telangana,South,1,180,0.2,144.0,13.21,Net Banking,2025-02,9.17,144.0
+SM100133,Vivaan More,2025-09-01,2025-09-04,Food,Dairy,New Delhi,Delhi,North,2,415,0.2,664.0,28.85,Credit Card,2025-09,4.34,664.0
+SM100134,Pooja Bhosale,2025-01-21,2025-01-25,Stationery,Office Supplies,Mangaluru,Karnataka,South,3,385,0.05,1097.25,185.81,Debit Card,2025-01,16.93,1097.25
+SM100135,Meera Joshi,2025-12-14,2025-12-18,Personal Care,Skin Care,New Delhi,Delhi,North,6,205,0.15,1045.5,156.32,Net Banking,2025-12,14.95,1045.5
+SM100136,Aditya Jadhav,2025-03-18,2025-03-22,Household,Kitchen,Chennai,Tamil Nadu,South,5,1455,0.15,6183.75,1058.96,UPI,2025-03,17.12,6183.75
+SM100137,Sneha Patil,2025-06-08,2025-06-13,Personal Care,Skin Care,New Delhi,Delhi,North,2,810,0.08,1490.4,274.86,Debit Card,2025-06,18.44,1490.4
+SM100138,Vivaan Joshi,2025-06-08,2025-06-10,Personal Care,Hair Care,Mysuru,Karnataka,South,4,290,0.02,1136.8,253.45,UPI,2025-06,22.3,1136.8
+SM100139,Ishita Verma,2025-09-17,2025-09-19,Personal Care,Oral Care,Kolkata,West Bengal,East,3,320,0.02,940.8,236.46,Net Banking,2025-09,25.13,940.8
+SM100140,Neha Joshi,2025-03-26,2025-03-30,Food,Dairy,Warangal,Telangana,South,6,350,0.02,2058.0,247.43,Cash,2025-03,12.02,2058.0
+SM100141,Vikram Bhosale,2025-04-30,2025-05-04,Personal Care,Hair Care,New Delhi,Delhi,North,4,420,0.1,1512.0,303.44,Debit Card,2025-04,20.07,1512.0
+SM100142,Sneha More,2025-07-15,2025-07-19,Household,Cleaning,New Delhi,Delhi,North,3,795,0.0,2385.0,554.94,UPI,2025-07,23.27,2385.0
+SM100143,Pooja Sharma,2025-12-31,2026-01-02,Personal Care,Skin Care,Kolkata,West Bengal,East,3,400,0.1,1080.0,167.2,Credit Card,2025-12,15.48,1080.0
+SM100144,Vivaan Pawar,2025-08-19,2025-08-23,Stationery,Pens,Chennai,Tamil Nadu,South,7,105,0.02,720.3,126.5,Credit Card,2025-08,17.56,720.3
+SM100145,Aditya Bhosale,2025-01-15,2025-01-19,Personal Care,Skin Care,Chennai,Tamil Nadu,South,3,140,0.2,336.0,52.58,Cash,2025-01,15.65,336.0
+SM100146,Neha More,2025-08-18,2025-08-23,Food,Snacks,New Delhi,Delhi,North,5,105,0.02,514.5,87.75,Cash,2025-08,17.06,514.5
+SM100147,Vikram Sharma,2025-02-26,2025-03-03,Household,Kitchen,Durgapur,West Bengal,East,2,165,0.08,303.6,40.4,UPI,2025-02,13.31,303.6
+SM100148,Sneha Kulkarni,2025-09-13,2025-09-18,Household,Storage,New Delhi,Delhi,North,3,610,0.0,1830.0,305.59,Net Banking,2025-09,16.7,1830.0
+SM100149,Karan Pawar,2025-08-02,2025-08-03,Personal Care,Skin Care,Bengaluru,Karnataka,South,1,530,0.08,487.6,105.83,Debit Card,2025-08,21.7,487.6
+SM100150,Aditya Patil,2025-01-09,2025-01-12,Personal Care,Skin Care,Chennai,Tamil Nadu,South,2,950,0.15,1615.0,290.58,Debit Card,2025-01,17.99,1615.0
+SM100151,Vivaan Naik,2025-10-07,2025-10-09,Stationery,Office Supplies,Coimbatore,Tamil Nadu,South,8,645,0.2,4128.0,397.37,Cash,2025-10,9.63,4128.0
+SM100152,Karan Verma,2025-01-19,2025-01-24,Food,Beverages,Coimbatore,Tamil Nadu,South,1,175,0.05,166.25,24.3,Net Banking,2025-01,14.62,166.25
+SM100153,Rohan Sharma,2025-08-31,2025-09-03,Household,Kitchen,Chennai,Tamil Nadu,South,6,1305,0.0,7830.0,1432.89,Debit Card,2025-08,18.3,7830.0
+SM100154,Amit Joshi,2025-08-12,2025-08-15,Stationery,Notebooks,Rajkot,Gujarat,West,3,195,0.08,538.2,80.63,UPI,2025-08,14.98,538.2
+SM100155,Meera Joshi,2025-08-06,2025-08-09,Household,Storage,Nagpur,Maharashtra,West,5,660,0.0,3300.0,684.18,Cash,2025-08,20.73,3300.0
+SM100156,Neha Gupta,2025-11-05,2025-11-08,Household,Storage,Warangal,Telangana,South,8,710,0.0,5680.0,1034.56,Debit Card,2025-11,18.21,5680.0
+SM100157,Aarav Deshmukh,2025-11-24,2025-11-26,Food,Dairy,Kolkata,West Bengal,East,6,275,0.15,1402.5,195.15,Net Banking,2025-11,13.91,1402.5
+SM100158,Sneha Gupta,2025-12-14,2025-12-17,Food,Beverages,Durgapur,West Bengal,East,2,145,0.15,246.5,25.72,Net Banking,2025-12,10.43,246.5
+SM100159,Aditya More,2025-01-17,2025-01-22,Stationery,Notebooks,New Delhi,Delhi,North,6,180,0.0,1080.0,162.23,Debit Card,2025-01,15.02,1080.0
+SM100160,Karan Shah,2025-07-23,2025-07-28,Household,Cleaning,Madurai,Tamil Nadu,South,1,685,0.08,630.2,113.7,Net Banking,2025-07,18.04,630.2
+SM100161,Diya Deshmukh,2025-03-02,2025-03-04,Stationery,Pens,Madurai,Tamil Nadu,South,5,140,0.08,644.0,77.04,UPI,2025-03,11.96,644.0
+SM100162,Meera Shah,2025-08-20,2025-08-25,Food,Bakery,Mangaluru,Karnataka,South,6,220,0.1,1188.0,160.0,Debit Card,2025-08,13.47,1188.0
+SM100163,Saanvi Bhosale,2025-03-22,2025-03-24,Personal Care,Oral Care,Hyderabad,Telangana,South,4,105,0.02,411.6,107.0,Cash,2025-03,26.0,411.6
+SM100164,Meera Gupta,2025-01-14,2025-01-15,Stationery,Office Supplies,Madurai,Tamil Nadu,South,3,625,0.0,1875.0,299.03,Cash,2025-01,15.95,1875.0
+SM100165,Amit Pawar,2025-09-27,2025-10-01,Food,Beverages,Rajkot,Gujarat,West,6,305,0.08,1683.6,249.31,Credit Card,2025-09,14.81,1683.6
+SM100166,Meera Deshmukh,2025-10-10,2025-10-12,Household,Kitchen,Hyderabad,Telangana,South,1,1265,0.1,1138.5,188.22,Credit Card,2025-10,16.53,1138.5
+SM100167,Priya Joshi,2025-06-15,2025-06-17,Personal Care,Oral Care,Hyderabad,Telangana,South,5,430,0.05,2042.5,486.22,Credit Card,2025-06,23.81,2042.5
+SM100168,Rahul Verma,2025-11-17,2025-11-22,Household,Storage,Chennai,Tamil Nadu,South,3,410,0.1,1107.0,224.08,Net Banking,2025-11,20.24,1107.0
+SM100169,Pooja Jadhav,2025-01-22,2025-01-27,Food,Snacks,Kolkata,West Bengal,East,5,240,0.2,960.0,61.31,UPI,2025-01,6.39,960.0
+SM100170,Meera Singh,2025-09-12,2025-09-16,Personal Care,Hair Care,Warangal,Telangana,South,4,820,0.15,2788.0,428.39,UPI,2025-09,15.37,2788.0
+SM100171,Aditya Pawar,2025-12-19,2025-12-24,Stationery,Notebooks,Pune,Maharashtra,West,8,185,0.05,1406.0,190.18,Debit Card,2025-12,13.53,1406.0
+SM100172,Rohan Singh,2025-06-26,2025-06-27,Personal Care,Oral Care,Surat,Gujarat,West,2,195,0.08,358.8,65.88,Credit Card,2025-06,18.36,358.8
+SM100173,Rahul Shah,2025-03-14,2025-03-16,Personal Care,Hair Care,Mumbai,Maharashtra,West,7,310,0.2,1736.0,257.05,Net Banking,2025-03,14.81,1736.0
+SM100174,Aarav Sharma,2025-06-10,2025-06-14,Stationery,Office Supplies,Mysuru,Karnataka,South,8,515,0.05,3914.0,649.84,Cash,2025-06,16.6,3914.0
+SM100175,Neha Shah,2025-09-16,2025-09-20,Household,Storage,Surat,Gujarat,West,6,200,0.05,1140.0,210.24,Cash,2025-09,18.44,1140.0
+SM100176,Karan Pawar,2025-05-27,2025-05-30,Food,Dairy,New Delhi,Delhi,North,3,445,0.15,1134.75,128.43,UPI,2025-05,11.32,1134.75
+SM100177,Priya Joshi,2025-07-25,2025-07-29,Household,Kitchen,Nashik,Maharashtra,West,5,205,0.1,922.5,143.29,Net Banking,2025-07,15.53,922.5
+SM100178,Sneha Bhosale,2025-12-15,2025-12-20,Household,Cleaning,New Delhi,Delhi,North,7,385,0.05,2560.25,547.48,Credit Card,2025-12,21.38,2560.25
+SM100179,Amit Singh,2025-04-12,2025-04-16,Food,Snacks,New Delhi,Delhi,North,1,80,0.05,76.0,9.66,Credit Card,2025-04,12.71,76.0
+SM100180,Riya Pawar,2025-11-07,2025-11-10,Personal Care,Oral Care,New Delhi,Delhi,North,6,125,0.1,675.0,177.53,Net Banking,2025-11,26.3,675.0
+SM100181,Pooja Jadhav,2025-09-18,2025-09-19,Personal Care,Hair Care,New Delhi,Delhi,North,1,420,0.15,357.0,67.17,Debit Card,2025-09,18.82,357.0
+SM100182,Ishita More,2025-12-19,2025-12-23,Stationery,Notebooks,Hyderabad,Telangana,South,4,265,0.1,954.0,108.35,Net Banking,2025-12,11.36,954.0
+SM100183,Pooja Deshmukh,2025-07-14,2025-07-17,Food,Staples,Mysuru,Karnataka,South,2,200,0.08,368.0,35.78,Cash,2025-07,9.72,368.0
+SM100184,Priya Pawar,2025-12-20,2025-12-22,Stationery,Office Supplies,Mangaluru,Karnataka,South,1,715,0.1,643.5,94.63,Cash,2025-12,14.71,643.5
+SM100185,Neha Singh,2025-09-27,2025-09-30,Household,Kitchen,Vadodara,Gujarat,West,6,865,0.15,4411.5,559.88,Credit Card,2025-09,12.69,4411.5
+SM100186,Rahul Singh,2025-05-07,2025-05-11,Household,Kitchen,Madurai,Tamil Nadu,South,5,1085,0.15,4611.25,693.3,Debit Card,2025-05,15.03,4611.25
+SM100187,Aditya Joshi,2025-10-14,2025-10-17,Personal Care,Skin Care,Durgapur,West Bengal,East,7,1085,0.08,6987.4,1508.1,UPI,2025-10,21.58,6987.4
+SM100188,Priya Joshi,2025-05-28,2025-05-30,Personal Care,Hair Care,Hyderabad,Telangana,South,5,770,0.02,3773.0,864.69,Net Banking,2025-05,22.92,3773.0
+SM100189,Saanvi Kadam,2025-12-23,2025-12-28,Food,Staples,Coimbatore,Tamil Nadu,South,4,240,0.15,816.0,58.21,Credit Card,2025-12,7.13,816.0
+SM100190,Aarav More,2025-01-27,2025-01-29,Personal Care,Oral Care,Nagpur,Maharashtra,West,8,95,0.2,608.0,68.17,Credit Card,2025-01,11.21,608.0
+SM100191,Meera Kadam,2025-07-28,2025-07-31,Stationery,Office Supplies,Warangal,Telangana,South,4,765,0.05,2907.0,425.4,UPI,2025-07,14.63,2907.0
+SM100192,Karan Bhosale,2025-02-15,2025-02-16,Food,Beverages,Hyderabad,Telangana,South,7,405,0.02,2778.3,479.01,Cash,2025-02,17.24,2778.3
+SM100193,Meera Singh,2025-04-06,2025-04-09,Food,Snacks,Warangal,Telangana,South,5,215,0.0,1075.0,177.75,Net Banking,2025-04,16.53,1075.0
+SM100194,Vikram Kadam,2025-09-26,2025-09-28,Stationery,Notebooks,Surat,Gujarat,West,4,290,0.05,1102.0,139.24,Debit Card,2025-09,12.64,1102.0
+SM100195,Pooja More,2025-04-06,2025-04-10,Personal Care,Oral Care,Kolhapur,Maharashtra,West,4,130,0.2,416.0,64.2,Debit Card,2025-04,15.43,416.0
+SM100196,Rohan Gupta,2025-02-14,2025-02-15,Household,Cleaning,Ahmedabad,Gujarat,West,8,345,0.02,2704.8,542.67,Credit Card,2025-02,20.06,2704.8
+SM100197,Anaya Kadam,2025-08-17,2025-08-19,Personal Care,Hair Care,Durgapur,West Bengal,East,1,320,0.05,304.0,59.4,UPI,2025-08,19.54,304.0
+SM100198,Sneha Jadhav,2025-08-27,2025-08-30,Stationery,Office Supplies,Coimbatore,Tamil Nadu,South,5,700,0.15,2975.0,346.12,Credit Card,2025-08,11.63,2975.0
+SM100199,Priya Bhosale,2025-04-23,2025-04-27,Household,Kitchen,Mangaluru,Karnataka,South,6,680,0.1,3672.0,574.5,Credit Card,2025-04,15.65,3672.0
+SM100200,Anaya Verma,2025-05-07,2025-05-08,Stationery,Office Supplies,Hyderabad,Telangana,South,6,105,0.1,567.0,60.34,Net Banking,2025-05,10.64,567.0
+SM100201,Nisha Sharma,2025-09-16,2025-09-21,Household,Kitchen,Mysuru,Karnataka,South,8,265,0.02,2077.6,415.41,Net Banking,2025-09,19.99,2077.6
+SM100202,Vikram Kadam,2025-08-17,2025-08-22,Stationery,Pens,Kolkata,West Bengal,East,7,95,0.0,665.0,129.02,Debit Card,2025-08,19.4,665.0
+SM100203,Priya Patil,2025-01-12,2025-01-13,Food,Beverages,Vadodara,Gujarat,West,2,70,0.05,133.0,21.89,UPI,2025-01,16.46,133.0
+SM100204,Sneha Shah,2025-08-30,2025-09-03,Stationery,Pens,Kolhapur,Maharashtra,West,3,155,0.15,395.25,54.88,Cash,2025-08,13.88,395.25
+SM100205,Ishita More,2025-08-18,2025-08-19,Stationery,Pens,Durgapur,West Bengal,East,3,135,0.05,384.75,47.35,Cash,2025-08,12.31,384.75
+SM100206,Pooja More,2025-09-28,2025-10-03,Food,Snacks,Mysuru,Karnataka,South,5,185,0.15,786.25,54.29,Cash,2025-09,6.9,786.25
+SM100207,Anaya Bhosale,2025-04-28,2025-04-29,Personal Care,Skin Care,Mangaluru,Karnataka,South,5,305,0.15,1296.25,240.29,Cash,2025-04,18.54,1296.25
+SM100208,Neha Kadam,2025-11-11,2025-11-15,Household,Cleaning,Kolkata,West Bengal,East,2,165,0.0,330.0,70.24,UPI,2025-11,21.28,330.0
+SM100209,Aditya More,2025-05-06,2025-05-07,Stationery,Notebooks,Hyderabad,Telangana,South,4,205,0.2,656.0,67.49,Debit Card,2025-05,10.29,656.0
+SM100210,Saanvi Gupta,2025-04-30,2025-05-05,Personal Care,Skin Care,Durgapur,West Bengal,East,5,1065,0.15,4526.25,1216.74,Debit Card,2025-04,26.88,4526.25
+SM100211,Karan Bhosale,2025-05-21,2025-05-24,Household,Storage,Nashik,Maharashtra,West,7,1055,0.0,7385.0,1582.4,Net Banking,2025-05,21.43,7385.0
+SM100212,Nisha Kulkarni,2025-06-13,2025-06-18,Stationery,Pens,Warangal,Telangana,South,5,80,0.2,320.0,37.88,Credit Card,2025-06,11.84,320.0
+SM100213,Aditya Gupta,2025-06-03,2025-06-08,Stationery,Pens,Kolkata,West Bengal,East,7,195,0.1,1228.5,195.15,Credit Card,2025-06,15.89,1228.5
+SM100214,Anaya Joshi,2025-05-11,2025-05-13,Food,Dairy,Hubballi,Karnataka,South,6,85,0.15,433.5,47.16,Cash,2025-05,10.88,433.5
+SM100215,Meera Shah,2025-12-11,2025-12-14,Food,Beverages,New Delhi,Delhi,North,4,240,0.2,768.0,47.71,UPI,2025-12,6.21,768.0
+SM100216,Rahul Bhosale,2025-04-19,2025-04-24,Stationery,Pens,Bengaluru,Karnataka,South,4,85,0.02,333.2,63.3,Debit Card,2025-04,19.0,333.2
+SM100217,Diya Bhosale,2025-07-14,2025-07-18,Personal Care,Hair Care,Vadodara,Gujarat,West,6,550,0.08,3036.0,560.69,Cash,2025-07,18.47,3036.0
+SM100218,Aarav Joshi,2025-06-13,2025-06-15,Personal Care,Hair Care,Hubballi,Karnataka,South,1,600,0.02,588.0,132.35,Net Banking,2025-06,22.51,588.0
+SM100219,Saanvi Singh,2025-10-27,2025-11-01,Personal Care,Skin Care,New Delhi,Delhi,North,4,465,0.08,1711.2,328.32,Net Banking,2025-10,19.19,1711.2
+SM100220,Ishita Deshmukh,2025-12-02,2025-12-05,Personal Care,Hair Care,Warangal,Telangana,South,8,505,0.15,3434.0,599.39,Net Banking,2025-12,17.45,3434.0
+SM100221,Saanvi Sharma,2025-09-08,2025-09-10,Food,Snacks,Bengaluru,Karnataka,South,1,275,0.08,253.0,46.01,Credit Card,2025-09,18.19,253.0
+SM100222,Priya More,2025-01-05,2025-01-06,Personal Care,Skin Care,Mangaluru,Karnataka,South,8,825,0.0,6600.0,1275.9,Cash,2025-01,19.33,6600.0
+SM100223,Ishita Sharma,2025-01-07,2025-01-11,Personal Care,Oral Care,Nashik,Maharashtra,West,5,60,0.2,240.0,40.12,UPI,2025-01,16.72,240.0
+SM100224,Vivaan Pawar,2025-09-26,2025-09-30,Household,Storage,Mysuru,Karnataka,South,5,1490,0.05,7077.5,970.91,Cash,2025-09,13.72,7077.5
+SM100225,Vivaan Gupta,2025-08-24,2025-08-25,Household,Kitchen,New Delhi,Delhi,North,2,1015,0.2,1624.0,159.48,Cash,2025-08,9.82,1624.0
+SM100226,Rahul Jadhav,2025-07-13,2025-07-17,Food,Snacks,New Delhi,Delhi,North,3,65,0.2,156.0,15.17,UPI,2025-07,9.72,156.0
+SM100227,Priya Jadhav,2025-09-28,2025-10-01,Household,Storage,Pune,Maharashtra,West,8,575,0.0,4600.0,927.39,UPI,2025-09,20.16,4600.0
+SM100228,Vivaan Joshi,2025-04-02,2025-04-06,Food,Beverages,Durgapur,West Bengal,East,3,350,0.15,892.5,58.51,Credit Card,2025-04,6.56,892.5
+SM100229,Amit Naik,2025-10-16,2025-10-17,Personal Care,Hair Care,Mangaluru,Karnataka,South,3,805,0.15,2052.75,317.39,Debit Card,2025-10,15.46,2052.75
+SM100230,Karan Bhosale,2025-01-28,2025-02-02,Household,Cleaning,Nagpur,Maharashtra,West,6,575,0.1,3105.0,534.03,Debit Card,2025-01,17.2,3105.0
+SM100231,Ishita Kadam,2025-01-16,2025-01-20,Stationery,Notebooks,Warangal,Telangana,South,4,150,0.08,552.0,69.41,Net Banking,2025-01,12.57,552.0
+SM100232,Aditya Naik,2025-12-05,2025-12-09,Personal Care,Skin Care,Ahmedabad,Gujarat,West,2,190,0.02,372.4,88.04,Cash,2025-12,23.64,372.4
+SM100233,Diya Deshmukh,2025-06-12,2025-06-15,Food,Snacks,Chennai,Tamil Nadu,South,5,180,0.2,720.0,51.22,UPI,2025-06,7.11,720.0
+SM100234,Neha Jadhav,2025-04-06,2025-04-07,Stationery,Pens,Rajkot,Gujarat,West,1,25,0.1,22.5,1.08,Debit Card,2025-04,4.8,22.5
+SM100235,Riya More,2025-07-17,2025-07-19,Stationery,Notebooks,Kolhapur,Maharashtra,West,2,265,0.1,477.0,89.96,Credit Card,2025-07,18.86,477.0
+SM100236,Ishita Gupta,2025-12-17,2025-12-18,Household,Kitchen,Surat,Gujarat,West,5,475,0.02,2327.5,481.44,Debit Card,2025-12,20.68,2327.5
+SM100237,Neha Jadhav,2025-08-04,2025-08-08,Food,Bakery,Salem,Tamil Nadu,South,5,285,0.15,1211.25,50.72,Credit Card,2025-08,4.19,1211.25
+SM100238,Rahul Singh,2025-08-23,2025-08-27,Personal Care,Skin Care,Pune,Maharashtra,West,7,465,0.1,2929.5,584.91,Debit Card,2025-08,19.97,2929.5
+SM100239,Rahul Joshi,2025-08-09,2025-08-13,Personal Care,Hair Care,Kolkata,West Bengal,East,4,520,0.02,2038.4,437.15,Cash,2025-08,21.45,2038.4
+SM100240,Diya Shah,2025-10-22,2025-10-25,Personal Care,Hair Care,Kolkata,West Bengal,East,5,830,0.08,3818.0,860.24,Net Banking,2025-10,22.53,3818.0
+SM100241,Pooja Kadam,2025-04-13,2025-04-14,Food,Dairy,New Delhi,Delhi,North,4,240,0.05,912.0,107.33,Cash,2025-04,11.77,912.0
+SM100242,Vivaan Singh,2025-03-13,2025-03-17,Household,Kitchen,Warangal,Telangana,South,3,1100,0.2,2640.0,282.83,Net Banking,2025-03,10.71,2640.0
+SM100243,Neha Kadam,2025-09-03,2025-09-08,Stationery,Office Supplies,New Delhi,Delhi,North,1,795,0.05,755.25,128.49,UPI,2025-09,17.01,755.25
+SM100244,Rahul Bhosale,2025-02-25,2025-03-01,Personal Care,Skin Care,Kolkata,West Bengal,East,1,720,0.15,612.0,118.82,Cash,2025-02,19.42,612.0
+SM100245,Riya Naik,2025-02-24,2025-02-28,Personal Care,Skin Care,Mumbai,Maharashtra,West,4,590,0.08,2171.2,377.77,Net Banking,2025-02,17.4,2171.2
+SM100246,Aditya Pawar,2025-03-19,2025-03-20,Stationery,Pens,Chennai,Tamil Nadu,South,5,90,0.0,450.0,77.24,Debit Card,2025-03,17.16,450.0
+SM100247,Rahul Sharma,2025-06-25,2025-06-29,Stationery,Notebooks,Surat,Gujarat,West,8,70,0.15,476.0,47.9,Debit Card,2025-06,10.06,476.0
+SM100248,Amit Deshmukh,2025-01-23,2025-01-25,Food,Bakery,Kolkata,West Bengal,East,2,215,0.02,421.4,56.75,Net Banking,2025-01,13.47,421.4
+SM100249,Karan Patil,2025-03-23,2025-03-27,Stationery,Pens,Salem,Tamil Nadu,South,7,130,0.02,891.8,191.86,Net Banking,2025-03,21.51,891.8
+SM100250,Riya Sharma,2025-04-12,2025-04-13,Stationery,Pens,Rajkot,Gujarat,West,4,50,0.2,160.0,16.02,Net Banking,2025-04,10.01,160.0
+SM100251,Amit Kadam,2025-04-06,2025-04-10,Household,Kitchen,Madurai,Tamil Nadu,South,2,465,0.2,744.0,58.39,Debit Card,2025-04,7.85,744.0
+SM100252,Meera Shah,2025-11-02,2025-11-04,Food,Bakery,Rajkot,Gujarat,West,6,260,0.1,1404.0,193.68,Net Banking,2025-11,13.79,1404.0
+SM100253,Aditya More,2025-10-30,2025-11-02,Personal Care,Skin Care,Pune,Maharashtra,West,4,435,0.02,1705.2,484.37,Cash,2025-10,28.41,1705.2
+SM100254,Priya Deshmukh,2025-08-03,2025-08-05,Stationery,Notebooks,New Delhi,Delhi,North,3,190,0.1,513.0,82.5,Cash,2025-08,16.08,513.0
+SM100255,Aditya Kulkarni,2025-05-28,2025-06-01,Personal Care,Hair Care,Mysuru,Karnataka,South,1,875,0.0,875.0,176.76,Cash,2025-05,20.2,875.0
+SM100256,Nisha Deshmukh,2025-10-15,2025-10-19,Stationery,Office Supplies,New Delhi,Delhi,North,8,435,0.2,2784.0,216.86,UPI,2025-10,7.79,2784.0
+SM100257,Vikram Jadhav,2025-10-17,2025-10-19,Personal Care,Skin Care,Pune,Maharashtra,West,5,345,0.05,1638.75,408.33,Cash,2025-10,24.92,1638.75
+SM100258,Vikram More,2025-10-09,2025-10-10,Food,Bakery,New Delhi,Delhi,North,6,175,0.2,840.0,43.94,Credit Card,2025-10,5.23,840.0
+SM100259,Vikram Verma,2025-08-06,2025-08-07,Personal Care,Skin Care,Pune,Maharashtra,West,8,390,0.2,2496.0,402.09,UPI,2025-08,16.11,2496.0
+SM100260,Anaya Jadhav,2025-05-02,2025-05-04,Stationery,Pens,Hubballi,Karnataka,South,3,160,0.2,384.0,42.0,Debit Card,2025-05,10.94,384.0
+SM100261,Diya Deshmukh,2025-09-30,2025-10-05,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,5,180,0.05,855.0,166.15,Cash,2025-09,19.43,855.0
+SM100262,Karan Singh,2025-01-31,2025-02-02,Household,Cleaning,Coimbatore,Tamil Nadu,South,3,665,0.2,1596.0,173.18,Credit Card,2025-01,10.85,1596.0
+SM100263,Karan More,2025-10-23,2025-10-24,Stationery,Notebooks,Warangal,Telangana,South,8,65,0.2,416.0,3.73,Debit Card,2025-10,0.9,416.0
+SM100264,Vikram Kadam,2025-12-22,2025-12-23,Stationery,Notebooks,Salem,Tamil Nadu,South,1,310,0.2,248.0,15.97,Debit Card,2025-12,6.44,248.0
+SM100265,Rahul More,2025-02-02,2025-02-05,Household,Kitchen,Durgapur,West Bengal,East,4,795,0.05,3021.0,517.15,Net Banking,2025-02,17.12,3021.0
+SM100266,Aarav Sharma,2025-03-08,2025-03-12,Personal Care,Oral Care,New Delhi,Delhi,North,1,70,0.15,59.5,6.52,Credit Card,2025-03,10.96,59.5
+SM100267,Rohan Sharma,2025-08-14,2025-08-16,Stationery,Pens,Ahmedabad,Gujarat,West,3,180,0.05,513.0,101.73,Debit Card,2025-08,19.83,513.0
+SM100268,Pooja Kadam,2025-05-09,2025-05-11,Household,Cleaning,Kolhapur,Maharashtra,West,7,595,0.15,3540.25,342.51,UPI,2025-05,9.67,3540.25
+SM100269,Vikram Patil,2025-12-27,2026-01-01,Household,Kitchen,Mumbai,Maharashtra,West,2,285,0.02,558.6,100.55,UPI,2025-12,18.0,558.6
+SM100270,Vivaan Naik,2025-12-23,2025-12-27,Stationery,Office Supplies,Chennai,Tamil Nadu,South,3,495,0.02,1455.3,253.61,UPI,2025-12,17.43,1455.3
+SM100271,Aditya Sharma,2025-02-22,2025-02-24,Personal Care,Skin Care,Madurai,Tamil Nadu,South,7,950,0.2,5320.0,989.69,Net Banking,2025-02,18.6,5320.0
+SM100272,Pooja Jadhav,2025-10-16,2025-10-18,Household,Kitchen,Nashik,Maharashtra,West,6,1110,0.15,5661.0,546.87,Cash,2025-10,9.66,5661.0
+SM100273,Aditya Kulkarni,2025-04-22,2025-04-25,Household,Cleaning,Mumbai,Maharashtra,West,7,370,0.08,2382.8,460.07,Debit Card,2025-04,19.31,2382.8
+SM100274,Arjun More,2025-11-27,2025-11-30,Personal Care,Oral Care,Pune,Maharashtra,West,1,430,0.15,365.5,63.14,Net Banking,2025-11,17.27,365.5
+SM100275,Nisha Gupta,2025-09-18,2025-09-20,Personal Care,Oral Care,Mangaluru,Karnataka,South,1,405,0.2,324.0,40.65,UPI,2025-09,12.55,324.0
+SM100276,Pooja Pawar,2025-05-04,2025-05-09,Food,Bakery,Ahmedabad,Gujarat,West,6,65,0.2,312.0,25.44,Net Banking,2025-05,8.15,312.0
+SM100277,Anaya Bhosale,2025-12-16,2025-12-17,Food,Snacks,Mangaluru,Karnataka,South,2,45,0.02,88.2,13.92,Cash,2025-12,15.78,88.2
+SM100278,Neha Deshmukh,2025-09-17,2025-09-22,Stationery,Office Supplies,Salem,Tamil Nadu,South,7,110,0.1,693.0,83.16,Debit Card,2025-09,12.0,693.0
+SM100279,Meera Naik,2025-02-12,2025-02-13,Household,Cleaning,Chennai,Tamil Nadu,South,6,400,0.15,2040.0,273.86,Cash,2025-02,13.42,2040.0
+SM100280,Meera Kadam,2025-05-03,2025-05-04,Food,Dairy,Pune,Maharashtra,West,2,250,0.1,450.0,47.42,Credit Card,2025-05,10.54,450.0
+SM100281,Rohan Deshmukh,2025-03-03,2025-03-08,Food,Beverages,Pune,Maharashtra,West,8,430,0.1,3096.0,364.83,Debit Card,2025-03,11.78,3096.0
+SM100282,Vivaan Joshi,2025-03-06,2025-03-11,Food,Snacks,Warangal,Telangana,South,6,290,0.05,1653.0,254.65,Net Banking,2025-03,15.41,1653.0
+SM100283,Ishita Pawar,2025-11-18,2025-11-23,Stationery,Office Supplies,Nagpur,Maharashtra,West,6,85,0.2,408.0,52.9,Credit Card,2025-11,12.97,408.0
+SM100284,Saanvi Patil,2025-05-11,2025-05-12,Food,Beverages,Kolkata,West Bengal,East,1,70,0.2,56.0,0.21,Cash,2025-05,0.38,56.0
+SM100285,Rahul Joshi,2025-07-06,2025-07-10,Household,Cleaning,Surat,Gujarat,West,7,265,0.02,1817.9,444.16,UPI,2025-07,24.43,1817.9
+SM100286,Vivaan Shah,2025-10-20,2025-10-24,Food,Beverages,Chennai,Tamil Nadu,South,4,370,0.0,1480.0,164.57,Cash,2025-10,11.12,1480.0
+SM100287,Riya Bhosale,2025-05-25,2025-05-28,Personal Care,Skin Care,Durgapur,West Bengal,East,8,110,0.02,862.4,195.94,Debit Card,2025-05,22.72,862.4
+SM100288,Priya Bhosale,2025-11-15,2025-11-17,Personal Care,Oral Care,Mangaluru,Karnataka,South,8,500,0.2,3200.0,527.07,Credit Card,2025-11,16.47,3200.0
+SM100289,Rahul Patil,2025-03-19,2025-03-20,Food,Beverages,Nagpur,Maharashtra,West,6,305,0.15,1555.5,154.81,Cash,2025-03,9.95,1555.5
+SM100290,Vivaan Patil,2025-06-07,2025-06-10,Household,Kitchen,Pune,Maharashtra,West,8,1445,0.02,11328.8,1987.44,Credit Card,2025-06,17.54,11328.8
+SM100291,Karan Sharma,2025-09-24,2025-09-26,Stationery,Office Supplies,Vadodara,Gujarat,West,2,595,0.1,1071.0,139.01,Net Banking,2025-09,12.98,1071.0
+SM100292,Rahul Pawar,2025-10-18,2025-10-22,Household,Cleaning,Nagpur,Maharashtra,West,5,295,0.05,1401.25,231.45,Cash,2025-10,16.52,1401.25
+SM100293,Vikram Pawar,2025-05-20,2025-05-24,Household,Cleaning,Bengaluru,Karnataka,South,2,205,0.02,401.8,70.82,Cash,2025-05,17.63,401.8
+SM100294,Vivaan Deshmukh,2025-03-03,2025-03-04,Household,Kitchen,New Delhi,Delhi,North,5,750,0.2,3000.0,393.72,Debit Card,2025-03,13.12,3000.0
+SM100295,Karan More,2025-12-27,2025-12-30,Household,Kitchen,Hyderabad,Telangana,South,3,230,0.02,676.2,135.19,UPI,2025-12,19.99,676.2
+SM100296,Saanvi Sharma,2025-12-13,2025-12-18,Household,Cleaning,Madurai,Tamil Nadu,South,7,780,0.1,4914.0,676.55,Cash,2025-12,13.77,4914.0
+SM100297,Arjun Verma,2025-02-22,2025-02-24,Food,Snacks,Kolkata,West Bengal,East,1,295,0.02,289.1,50.16,Cash,2025-02,17.35,289.1
+SM100298,Aditya Sharma,2025-07-10,2025-07-14,Personal Care,Skin Care,Hyderabad,Telangana,South,1,1195,0.02,1171.1,279.52,Debit Card,2025-07,23.87,1171.1
+SM100299,Aarav Gupta,2025-03-04,2025-03-08,Food,Beverages,Nagpur,Maharashtra,West,7,380,0.08,2447.2,353.18,Cash,2025-03,14.43,2447.2
+SM100300,Neha Jadhav,2025-03-30,2025-03-31,Household,Kitchen,Coimbatore,Tamil Nadu,South,5,725,0.02,3552.5,734.45,Net Banking,2025-03,20.67,3552.5
+SM100301,Aditya Gupta,2025-05-06,2025-05-10,Stationery,Notebooks,Warangal,Telangana,South,8,60,0.05,456.0,62.37,Credit Card,2025-05,13.68,456.0
+SM100302,Sneha Shah,2025-11-26,2025-11-30,Food,Dairy,Kolkata,West Bengal,East,6,260,0.2,1248.0,69.88,Net Banking,2025-11,5.6,1248.0
+SM100303,Rohan Patil,2025-09-15,2025-09-16,Personal Care,Skin Care,Salem,Tamil Nadu,South,1,450,0.02,441.0,110.11,Cash,2025-09,24.97,441.0
+SM100304,Anaya Bhosale,2025-09-29,2025-10-04,Household,Cleaning,Coimbatore,Tamil Nadu,South,4,620,0.05,2356.0,454.14,Credit Card,2025-09,19.28,2356.0
+SM100305,Riya Patil,2025-10-22,2025-10-25,Personal Care,Skin Care,Durgapur,West Bengal,East,3,360,0.05,1026.0,222.62,Debit Card,2025-10,21.7,1026.0
+SM100306,Anaya Kulkarni,2025-10-18,2025-10-19,Household,Kitchen,New Delhi,Delhi,North,5,345,0.0,1725.0,350.06,Net Banking,2025-10,20.29,1725.0
+SM100307,Rahul Naik,2025-04-23,2025-04-25,Stationery,Pens,Nashik,Maharashtra,West,6,185,0.02,1087.8,220.76,Credit Card,2025-04,20.29,1087.8
+SM100308,Sneha Sharma,2025-06-15,2025-06-20,Household,Storage,Mumbai,Maharashtra,West,3,1420,0.2,3408.0,324.48,Debit Card,2025-06,9.52,3408.0
+SM100309,Nisha Kadam,2025-12-27,2025-12-31,Food,Bakery,Warangal,Telangana,South,5,115,0.02,563.5,92.8,Debit Card,2025-12,16.47,563.5
+SM100310,Aditya Deshmukh,2025-03-31,2025-04-03,Household,Storage,Warangal,Telangana,South,3,755,0.15,1925.25,245.36,UPI,2025-03,12.74,1925.25
+SM100311,Riya Sharma,2025-12-26,2025-12-28,Food,Beverages,New Delhi,Delhi,North,6,420,0.1,2268.0,248.48,Cash,2025-12,10.96,2268.0
+SM100312,Vikram Patil,2025-03-14,2025-03-17,Household,Kitchen,Chennai,Tamil Nadu,South,6,335,0.0,2010.0,457.21,Debit Card,2025-03,22.75,2010.0
+SM100313,Vikram Naik,2025-04-18,2025-04-22,Personal Care,Hair Care,Bengaluru,Karnataka,South,2,745,0.0,1490.0,388.35,Cash,2025-04,26.06,1490.0
+SM100314,Saanvi Deshmukh,2025-03-27,2025-04-01,Stationery,Notebooks,Rajkot,Gujarat,West,7,70,0.08,450.8,74.08,Cash,2025-03,16.43,450.8
+SM100315,Rahul Deshmukh,2025-02-07,2025-02-08,Personal Care,Skin Care,Kolkata,West Bengal,East,6,385,0.0,2310.0,629.79,Cash,2025-02,27.26,2310.0
+SM100316,Neha Shah,2025-03-24,2025-03-26,Food,Bakery,Hyderabad,Telangana,South,8,220,0.08,1619.2,201.63,Cash,2025-03,12.45,1619.2
+SM100317,Rohan Kadam,2025-03-22,2025-03-27,Personal Care,Skin Care,Mumbai,Maharashtra,West,4,550,0.1,1980.0,419.86,Debit Card,2025-03,21.21,1980.0
+SM100318,Pooja Sharma,2025-06-02,2025-06-03,Food,Dairy,Bengaluru,Karnataka,South,8,110,0.05,836.0,108.47,Debit Card,2025-06,12.97,836.0
+SM100319,Vivaan Singh,2025-12-05,2025-12-08,Household,Cleaning,Warangal,Telangana,South,1,250,0.15,212.5,29.88,UPI,2025-12,14.06,212.5
+SM100320,Ishita Pawar,2025-06-07,2025-06-11,Stationery,Notebooks,Durgapur,West Bengal,East,5,70,0.1,315.0,41.5,Cash,2025-06,13.17,315.0
+SM100321,Riya Patil,2025-07-09,2025-07-12,Food,Bakery,Mangaluru,Karnataka,South,8,155,0.02,1215.2,186.44,Credit Card,2025-07,15.34,1215.2
+SM100322,Priya Patil,2025-12-23,2025-12-25,Food,Bakery,Hyderabad,Telangana,South,7,290,0.1,1827.0,237.29,Cash,2025-12,12.99,1827.0
+SM100323,Amit Jadhav,2025-09-25,2025-09-26,Household,Kitchen,Rajkot,Gujarat,West,5,210,0.2,840.0,75.22,Net Banking,2025-09,8.95,840.0
+SM100324,Arjun Deshmukh,2025-10-20,2025-10-22,Food,Dairy,Hyderabad,Telangana,South,3,475,0.02,1396.5,283.92,UPI,2025-10,20.33,1396.5
+SM100325,Vivaan Sharma,2025-08-05,2025-08-08,Household,Storage,Nagpur,Maharashtra,West,3,1520,0.05,4332.0,659.98,Cash,2025-08,15.23,4332.0
+SM100326,Riya More,2025-10-12,2025-10-17,Personal Care,Oral Care,Vadodara,Gujarat,West,8,465,0.0,3720.0,779.88,Cash,2025-10,20.96,3720.0
+SM100327,Meera Verma,2025-02-27,2025-02-28,Household,Storage,Surat,Gujarat,West,2,1675,0.1,3015.0,554.62,Net Banking,2025-02,18.4,3015.0
+SM100328,Ishita Joshi,2025-06-26,2025-06-27,Stationery,Office Supplies,Vadodara,Gujarat,West,8,585,0.08,4305.6,705.22,Cash,2025-06,16.38,4305.6
+SM100329,Rohan Shah,2025-03-15,2025-03-19,Food,Dairy,New Delhi,Delhi,North,6,360,0.0,2160.0,379.3,Debit Card,2025-03,17.56,2160.0
+SM100330,Saanvi Deshmukh,2025-01-11,2025-01-12,Personal Care,Hair Care,Madurai,Tamil Nadu,South,8,870,0.15,5916.0,1113.44,Debit Card,2025-01,18.82,5916.0
+SM100331,Vikram Kulkarni,2025-08-15,2025-08-17,Personal Care,Oral Care,Durgapur,West Bengal,East,7,320,0.0,2240.0,536.91,Cash,2025-08,23.97,2240.0
+SM100332,Karan Deshmukh,2025-09-06,2025-09-11,Food,Staples,Durgapur,West Bengal,East,3,110,0.15,280.5,19.65,Net Banking,2025-09,7.01,280.5
+SM100333,Sneha Naik,2025-10-19,2025-10-20,Household,Cleaning,Pune,Maharashtra,West,1,285,0.08,262.2,43.5,Credit Card,2025-10,16.59,262.2
+SM100334,Nisha Jadhav,2025-05-21,2025-05-24,Stationery,Office Supplies,Salem,Tamil Nadu,South,2,690,0.02,1352.4,208.37,Cash,2025-05,15.41,1352.4
+SM100335,Meera Patil,2025-04-01,2025-04-02,Personal Care,Hair Care,Durgapur,West Bengal,East,3,850,0.05,2422.5,585.95,Cash,2025-04,24.19,2422.5
+SM100336,Amit Patil,2025-01-26,2025-01-30,Household,Storage,Mysuru,Karnataka,South,4,1260,0.05,4788.0,832.27,UPI,2025-01,17.38,4788.0
+SM100337,Pooja Shah,2025-08-31,2025-09-03,Food,Beverages,Mysuru,Karnataka,South,5,295,0.05,1401.25,163.75,Cash,2025-08,11.69,1401.25
+SM100338,Karan Jadhav,2025-06-28,2025-07-03,Household,Kitchen,Vadodara,Gujarat,West,5,1050,0.2,4200.0,428.25,UPI,2025-06,10.2,4200.0
+SM100339,Rahul Verma,2025-01-04,2025-01-07,Personal Care,Hair Care,New Delhi,Delhi,North,2,525,0.05,997.5,227.25,Debit Card,2025-01,22.78,997.5
+SM100340,Karan Kadam,2025-05-14,2025-05-19,Household,Cleaning,Warangal,Telangana,South,4,820,0.2,2624.0,251.66,Debit Card,2025-05,9.59,2624.0
+SM100341,Anaya Jadhav,2025-12-15,2025-12-19,Stationery,Notebooks,Bengaluru,Karnataka,South,5,320,0.08,1472.0,181.71,Net Banking,2025-12,12.34,1472.0
+SM100342,Priya Deshmukh,2025-04-08,2025-04-10,Stationery,Office Supplies,Coimbatore,Tamil Nadu,South,6,520,0.2,2496.0,239.85,Debit Card,2025-04,9.61,2496.0
+SM100343,Saanvi Pawar,2025-02-19,2025-02-20,Personal Care,Oral Care,Surat,Gujarat,West,3,475,0.05,1353.75,302.73,Credit Card,2025-02,22.36,1353.75
+SM100344,Anaya Verma,2025-06-07,2025-06-11,Personal Care,Hair Care,Vadodara,Gujarat,West,5,505,0.0,2525.0,574.0,Net Banking,2025-06,22.73,2525.0
+SM100345,Meera Gupta,2025-10-25,2025-10-30,Stationery,Pens,New Delhi,Delhi,North,2,175,0.08,322.0,42.58,UPI,2025-10,13.22,322.0
+SM100346,Vivaan Singh,2025-03-19,2025-03-21,Personal Care,Hair Care,Mysuru,Karnataka,South,8,210,0.2,1344.0,209.4,Debit Card,2025-03,15.58,1344.0
+SM100347,Riya Bhosale,2025-11-20,2025-11-22,Food,Snacks,Hubballi,Karnataka,South,8,125,0.2,800.0,27.04,Credit Card,2025-11,3.38,800.0
+SM100348,Nisha Gupta,2025-09-08,2025-09-12,Household,Storage,Kolkata,West Bengal,East,7,1185,0.08,7631.4,983.03,UPI,2025-09,12.88,7631.4
+SM100349,Aarav Kadam,2025-01-20,2025-01-22,Personal Care,Skin Care,New Delhi,Delhi,North,6,935,0.1,5049.0,893.87,UPI,2025-01,17.7,5049.0
+SM100350,Amit Jadhav,2025-11-17,2025-11-21,Household,Storage,Hyderabad,Telangana,South,6,645,0.0,3870.0,753.35,Debit Card,2025-11,19.47,3870.0
+SM100351,Rahul Gupta,2025-03-27,2025-04-01,Personal Care,Hair Care,Mumbai,Maharashtra,West,8,750,0.1,5400.0,1094.97,Credit Card,2025-03,20.28,5400.0
+SM100352,Arjun Naik,2025-06-25,2025-06-27,Household,Cleaning,Vadodara,Gujarat,West,7,95,0.02,651.7,148.51,UPI,2025-06,22.79,651.7
+SM100353,Priya Jadhav,2025-10-29,2025-11-01,Food,Bakery,New Delhi,Delhi,North,1,130,0.15,110.5,12.79,UPI,2025-10,11.57,110.5
+SM100354,Priya Joshi,2025-11-01,2025-11-02,Food,Snacks,Mumbai,Maharashtra,West,2,170,0.08,312.8,37.54,Cash,2025-11,12.0,312.8
+SM100355,Rohan Jadhav,2025-12-26,2025-12-31,Food,Bakery,Mysuru,Karnataka,South,7,210,0.15,1249.5,114.98,Net Banking,2025-12,9.2,1249.5
+SM100356,Nisha Kulkarni,2025-12-25,2025-12-26,Food,Staples,Mangaluru,Karnataka,South,2,270,0.2,432.0,19.41,Net Banking,2025-12,4.49,432.0
+SM100357,Nisha Shah,2025-04-13,2025-04-18,Household,Kitchen,Durgapur,West Bengal,East,7,515,0.0,3605.0,719.33,Credit Card,2025-04,19.95,3605.0
+SM100358,Nisha Deshmukh,2025-12-19,2025-12-24,Household,Cleaning,Vadodara,Gujarat,West,1,630,0.0,630.0,121.45,UPI,2025-12,19.28,630.0
+SM100359,Vikram Patil,2025-09-19,2025-09-22,Personal Care,Oral Care,Mumbai,Maharashtra,West,4,255,0.05,969.0,218.58,UPI,2025-09,22.56,969.0
+SM100360,Anaya Patil,2025-03-31,2025-04-01,Personal Care,Hair Care,Kolkata,West Bengal,East,6,470,0.0,2820.0,618.48,Credit Card,2025-03,21.93,2820.0
+SM100361,Sneha Verma,2025-12-06,2025-12-07,Personal Care,Hair Care,Hyderabad,Telangana,South,8,960,0.05,7296.0,1681.61,Debit Card,2025-12,23.05,7296.0
+SM100362,Pooja Kadam,2025-04-04,2025-04-08,Stationery,Notebooks,Nagpur,Maharashtra,West,5,300,0.15,1275.0,192.29,Credit Card,2025-04,15.08,1275.0
+SM100363,Vikram Deshmukh,2025-02-27,2025-03-04,Household,Cleaning,Bengaluru,Karnataka,South,7,825,0.08,5313.0,856.89,Net Banking,2025-02,16.13,5313.0
+SM100364,Vikram Patil,2025-07-14,2025-07-18,Food,Beverages,Durgapur,West Bengal,East,8,420,0.0,3360.0,571.34,UPI,2025-07,17.0,3360.0
+SM100365,Amit More,2025-05-14,2025-05-17,Food,Staples,Warangal,Telangana,South,4,785,0.15,2669.0,292.93,Net Banking,2025-05,10.98,2669.0
+SM100366,Neha Patil,2025-02-18,2025-02-23,Stationery,Notebooks,Surat,Gujarat,West,7,85,0.2,476.0,38.07,UPI,2025-02,8.0,476.0
+SM100367,Rahul Joshi,2025-11-26,2025-11-28,Stationery,Pens,Mangaluru,Karnataka,South,2,155,0.05,294.5,48.03,UPI,2025-11,16.31,294.5
+SM100368,Vikram Sharma,2025-09-17,2025-09-22,Stationery,Pens,Mangaluru,Karnataka,South,2,95,0.2,152.0,13.73,Cash,2025-09,9.03,152.0
+SM100369,Priya More,2025-08-17,2025-08-18,Stationery,Office Supplies,Chennai,Tamil Nadu,South,1,130,0.08,119.6,17.52,UPI,2025-08,14.65,119.6
+SM100370,Saanvi Verma,2025-02-16,2025-02-17,Household,Storage,Durgapur,West Bengal,East,8,1715,0.05,13034.0,2061.65,Cash,2025-02,15.82,13034.0
+SM100371,Aarav Pawar,2025-06-19,2025-06-21,Personal Care,Oral Care,New Delhi,Delhi,North,8,100,0.2,640.0,96.39,Debit Card,2025-06,15.06,640.0
+SM100372,Aditya Verma,2025-11-21,2025-11-25,Personal Care,Oral Care,Durgapur,West Bengal,East,2,70,0.02,137.2,33.4,Cash,2025-11,24.34,137.2
+SM100373,Rahul Sharma,2025-02-24,2025-02-26,Household,Cleaning,Coimbatore,Tamil Nadu,South,7,255,0.2,1428.0,208.89,Cash,2025-02,14.63,1428.0
+SM100374,Anaya More,2025-01-24,2025-01-29,Stationery,Notebooks,Hyderabad,Telangana,South,3,340,0.0,1020.0,208.06,Cash,2025-01,20.4,1020.0
+SM100375,Neha Shah,2025-10-27,2025-11-01,Household,Storage,Surat,Gujarat,West,3,295,0.15,752.25,140.17,Debit Card,2025-10,18.63,752.25
+SM100376,Aditya Deshmukh,2025-09-16,2025-09-20,Household,Kitchen,Rajkot,Gujarat,West,7,1450,0.05,9642.5,1526.57,Cash,2025-09,15.83,9642.5
+SM100377,Sneha Shah,2025-11-05,2025-11-08,Personal Care,Oral Care,Warangal,Telangana,South,4,140,0.1,504.0,109.27,Credit Card,2025-11,21.68,504.0
+SM100378,Riya Jadhav,2025-12-30,2026-01-03,Personal Care,Oral Care,Hyderabad,Telangana,South,2,390,0.1,702.0,140.11,Cash,2025-12,19.96,702.0
+SM100379,Anaya Kulkarni,2025-12-12,2025-12-13,Stationery,Pens,Warangal,Telangana,South,2,15,0.02,29.4,11.6,Debit Card,2025-12,39.46,29.4
+SM100380,Sneha Verma,2025-03-24,2025-03-25,Household,Cleaning,Madurai,Tamil Nadu,South,5,245,0.1,1102.5,148.61,Cash,2025-03,13.48,1102.5
+SM100381,Karan Gupta,2025-02-22,2025-02-26,Stationery,Pens,New Delhi,Delhi,North,5,140,0.0,700.0,111.3,Debit Card,2025-02,15.9,700.0
+SM100382,Riya More,2025-10-10,2025-10-13,Personal Care,Skin Care,Mumbai,Maharashtra,West,8,1015,0.15,6902.0,1087.17,Net Banking,2025-10,15.75,6902.0
+SM100383,Ishita Naik,2025-04-11,2025-04-13,Personal Care,Hair Care,Kolkata,West Bengal,East,3,985,0.0,2955.0,552.3,Net Banking,2025-04,18.69,2955.0
+SM100384,Aarav Pawar,2025-03-03,2025-03-06,Stationery,Notebooks,Ahmedabad,Gujarat,West,5,80,0.1,360.0,43.87,Cash,2025-03,12.19,360.0
+SM100385,Meera Singh,2025-12-30,2026-01-04,Household,Kitchen,Bengaluru,Karnataka,South,1,1185,0.15,1007.25,114.34,Net Banking,2025-12,11.35,1007.25
+SM100386,Amit Deshmukh,2025-10-09,2025-10-10,Personal Care,Oral Care,Chennai,Tamil Nadu,South,4,480,0.1,1728.0,343.46,Cash,2025-10,19.88,1728.0
+SM100387,Rahul Pawar,2025-10-06,2025-10-09,Food,Bakery,New Delhi,Delhi,North,4,270,0.15,918.0,92.76,Debit Card,2025-10,10.1,918.0
+SM100388,Neha Kulkarni,2025-04-22,2025-04-27,Food,Snacks,Durgapur,West Bengal,East,6,180,0.15,918.0,127.97,UPI,2025-04,13.94,918.0
+SM100389,Amit Verma,2025-12-16,2025-12-17,Food,Dairy,Salem,Tamil Nadu,South,5,290,0.05,1377.5,222.14,Debit Card,2025-12,16.13,1377.5
+SM100390,Amit Sharma,2025-09-21,2025-09-24,Stationery,Pens,Durgapur,West Bengal,East,5,180,0.02,882.0,138.1,UPI,2025-09,15.66,882.0
+SM100391,Arjun More,2025-03-27,2025-03-28,Food,Beverages,Kolkata,West Bengal,East,4,395,0.08,1453.6,147.6,Cash,2025-03,10.15,1453.6
+SM100392,Vivaan Patil,2025-11-28,2025-11-29,Household,Cleaning,Kolkata,West Bengal,East,8,670,0.0,5360.0,1137.92,Credit Card,2025-11,21.23,5360.0
+SM100393,Pooja Pawar,2025-05-09,2025-05-13,Household,Kitchen,New Delhi,Delhi,North,7,645,0.15,3837.75,381.83,UPI,2025-05,9.95,3837.75
+SM100394,Vivaan Pawar,2025-07-19,2025-07-20,Food,Staples,Hyderabad,Telangana,South,2,620,0.1,1116.0,179.44,Net Banking,2025-07,16.08,1116.0
+SM100395,Nisha Deshmukh,2025-02-24,2025-02-25,Food,Bakery,Madurai,Tamil Nadu,South,8,135,0.2,864.0,85.96,Net Banking,2025-02,9.95,864.0
+SM100396,Aarav More,2025-04-23,2025-04-26,Personal Care,Oral Care,Mangaluru,Karnataka,South,3,185,0.2,444.0,61.39,Net Banking,2025-04,13.83,444.0
+SM100397,Arjun Naik,2025-03-14,2025-03-17,Food,Staples,Mumbai,Maharashtra,West,7,455,0.0,3185.0,373.19,Debit Card,2025-03,11.72,3185.0
+SM100398,Diya Deshmukh,2025-04-19,2025-04-21,Household,Cleaning,Surat,Gujarat,West,4,585,0.05,2223.0,469.82,Net Banking,2025-04,21.13,2223.0
+SM100399,Nisha Pawar,2025-01-28,2025-02-02,Food,Bakery,Durgapur,West Bengal,East,2,100,0.02,196.0,29.03,Debit Card,2025-01,14.81,196.0
+SM100400,Vikram Pawar,2025-03-07,2025-03-11,Food,Bakery,Hyderabad,Telangana,South,2,275,0.05,522.5,88.01,Net Banking,2025-03,16.84,522.5
+SM100401,Saanvi Naik,2025-12-04,2025-12-06,Personal Care,Hair Care,Coimbatore,Tamil Nadu,South,7,235,0.05,1562.75,277.61,Cash,2025-12,17.76,1562.75
+SM100402,Sneha Bhosale,2025-05-22,2025-05-26,Household,Storage,Durgapur,West Bengal,East,6,1595,0.08,8804.4,1311.99,Debit Card,2025-05,14.9,8804.4
+SM100403,Priya Kulkarni,2025-09-07,2025-09-09,Household,Storage,New Delhi,Delhi,North,2,1535,0.2,2456.0,270.48,Debit Card,2025-09,11.01,2456.0
+SM100404,Riya Kulkarni,2025-11-17,2025-11-21,Food,Staples,Mumbai,Maharashtra,West,1,660,0.1,594.0,69.01,UPI,2025-11,11.62,594.0
+SM100405,Meera Deshmukh,2025-10-10,2025-10-15,Household,Kitchen,Salem,Tamil Nadu,South,7,415,0.2,2324.0,229.49,Cash,2025-10,9.87,2324.0
+SM100406,Ishita Bhosale,2025-09-14,2025-09-19,Stationery,Notebooks,New Delhi,Delhi,North,1,245,0.2,196.0,20.69,Net Banking,2025-09,10.56,196.0
+SM100407,Anaya Kulkarni,2025-03-13,2025-03-16,Household,Storage,Surat,Gujarat,West,3,1355,0.08,3739.8,513.51,Cash,2025-03,13.73,3739.8
+SM100408,Karan Singh,2025-04-29,2025-05-02,Personal Care,Skin Care,Kolhapur,Maharashtra,West,1,835,0.1,751.5,143.87,Cash,2025-04,19.14,751.5
+SM100409,Priya Jadhav,2025-01-24,2025-01-29,Food,Staples,Kolhapur,Maharashtra,West,5,680,0.05,3230.0,453.84,Credit Card,2025-01,14.05,3230.0
+SM100410,Amit Gupta,2025-07-12,2025-07-14,Personal Care,Oral Care,Warangal,Telangana,South,2,280,0.08,515.2,111.73,Debit Card,2025-07,21.69,515.2
+SM100411,Amit Kadam,2025-06-26,2025-06-27,Food,Staples,Rajkot,Gujarat,West,3,385,0.02,1131.9,191.05,Debit Card,2025-06,16.88,1131.9
+SM100412,Diya Singh,2025-04-19,2025-04-22,Household,Kitchen,Mysuru,Karnataka,South,2,1025,0.08,1886.0,256.28,Cash,2025-04,13.59,1886.0
+SM100413,Ishita Deshmukh,2025-09-03,2025-09-08,Stationery,Pens,Mysuru,Karnataka,South,4,20,0.1,72.0,5.12,Net Banking,2025-09,7.11,72.0
+SM100414,Neha Jadhav,2025-01-21,2025-01-25,Food,Beverages,New Delhi,Delhi,North,5,420,0.1,1890.0,277.72,UPI,2025-01,14.69,1890.0
+SM100415,Ishita Kulkarni,2025-12-05,2025-12-09,Food,Beverages,Durgapur,West Bengal,East,8,295,0.08,2171.2,287.27,Cash,2025-12,13.23,2171.2
+SM100416,Vivaan Kulkarni,2025-11-04,2025-11-09,Personal Care,Skin Care,Mysuru,Karnataka,South,6,1115,0.1,6021.0,1061.43,Cash,2025-11,17.63,6021.0
+SM100417,Ishita Singh,2025-07-17,2025-07-18,Food,Beverages,Bengaluru,Karnataka,South,7,380,0.1,2394.0,368.15,Net Banking,2025-07,15.38,2394.0
+SM100418,Aarav Shah,2025-11-04,2025-11-09,Food,Snacks,Nashik,Maharashtra,West,8,245,0.1,1764.0,207.96,Cash,2025-11,11.79,1764.0
+SM100419,Karan Pawar,2025-09-25,2025-09-29,Food,Staples,Vadodara,Gujarat,West,7,230,0.2,1288.0,128.13,Net Banking,2025-09,9.95,1288.0
+SM100420,Meera Jadhav,2025-12-23,2025-12-24,Stationery,Pens,New Delhi,Delhi,North,5,100,0.02,490.0,84.62,Net Banking,2025-12,17.27,490.0
+SM100421,Rahul Gupta,2025-07-29,2025-07-31,Food,Snacks,Coimbatore,Tamil Nadu,South,2,200,0.08,368.0,64.59,Debit Card,2025-07,17.55,368.0
+SM100422,Karan Bhosale,2025-02-24,2025-02-27,Personal Care,Hair Care,Mangaluru,Karnataka,South,7,600,0.1,3780.0,902.98,Credit Card,2025-02,23.89,3780.0
+SM100423,Sneha Bhosale,2025-07-31,2025-08-05,Household,Kitchen,New Delhi,Delhi,North,8,455,0.05,3458.0,592.27,Cash,2025-07,17.13,3458.0
+SM100424,Rahul Bhosale,2025-03-12,2025-03-16,Household,Kitchen,Kolkata,West Bengal,East,3,240,0.1,648.0,116.18,Net Banking,2025-03,17.93,648.0
+SM100425,Nisha Shah,2025-11-11,2025-11-13,Household,Kitchen,Hyderabad,Telangana,South,1,1225,0.2,980.0,123.61,Net Banking,2025-11,12.61,980.0
+SM100426,Karan Jadhav,2025-08-11,2025-08-15,Personal Care,Skin Care,Mumbai,Maharashtra,West,6,190,0.0,1140.0,312.61,Net Banking,2025-08,27.42,1140.0
+SM100427,Meera Kulkarni,2025-05-27,2025-06-01,Household,Storage,Hyderabad,Telangana,South,8,855,0.02,6703.2,1118.61,UPI,2025-05,16.69,6703.2
+SM100428,Ishita Sharma,2025-11-03,2025-11-04,Household,Storage,New Delhi,Delhi,North,1,725,0.15,616.25,92.22,Debit Card,2025-11,14.96,616.25
+SM100429,Vivaan More,2025-07-24,2025-07-25,Stationery,Office Supplies,Salem,Tamil Nadu,South,4,530,0.15,1802.0,250.41,Debit Card,2025-07,13.9,1802.0
+SM100430,Karan Jadhav,2025-10-14,2025-10-18,Personal Care,Hair Care,New Delhi,Delhi,North,4,640,0.02,2508.8,469.22,UPI,2025-10,18.7,2508.8
+SM100431,Amit Joshi,2025-05-14,2025-05-15,Food,Staples,Mangaluru,Karnataka,South,2,430,0.05,817.0,88.17,Net Banking,2025-05,10.79,817.0
+SM100432,Vikram Kadam,2025-10-22,2025-10-25,Stationery,Office Supplies,Salem,Tamil Nadu,South,8,775,0.2,4960.0,193.54,Cash,2025-10,3.9,4960.0
+SM100433,Saanvi Bhosale,2025-10-28,2025-10-30,Stationery,Pens,Kolkata,West Bengal,East,5,25,0.15,106.25,11.14,Debit Card,2025-10,10.48,106.25
+SM100434,Vivaan More,2025-07-31,2025-08-03,Personal Care,Skin Care,Chennai,Tamil Nadu,South,5,200,0.15,850.0,161.87,Credit Card,2025-07,19.04,850.0
+SM100435,Nisha Naik,2025-09-01,2025-09-03,Household,Storage,Madurai,Tamil Nadu,South,5,425,0.15,1806.25,307.17,Credit Card,2025-09,17.01,1806.25
+SM100436,Sneha Deshmukh,2025-05-01,2025-05-06,Personal Care,Skin Care,Hyderabad,Telangana,South,4,325,0.02,1274.0,296.65,UPI,2025-05,23.28,1274.0
+SM100437,Rahul Singh,2025-03-03,2025-03-08,Food,Staples,Nagpur,Maharashtra,West,1,690,0.05,655.5,116.82,Net Banking,2025-03,17.82,655.5
+SM100438,Amit Bhosale,2025-05-21,2025-05-22,Personal Care,Hair Care,Surat,Gujarat,West,4,770,0.02,3018.4,593.11,Cash,2025-05,19.65,3018.4
+SM100439,Vikram Pawar,2025-09-02,2025-09-07,Personal Care,Hair Care,New Delhi,Delhi,North,3,500,0.0,1500.0,296.12,UPI,2025-09,19.74,1500.0
+SM100440,Ishita More,2025-01-07,2025-01-10,Stationery,Office Supplies,Hyderabad,Telangana,South,2,345,0.1,621.0,82.97,Debit Card,2025-01,13.36,621.0
+SM100441,Sneha Pawar,2025-05-02,2025-05-06,Personal Care,Hair Care,Salem,Tamil Nadu,South,3,540,0.02,1587.6,381.98,Cash,2025-05,24.06,1587.6
+SM100442,Saanvi More,2025-05-24,2025-05-27,Household,Storage,Surat,Gujarat,West,4,1490,0.15,5066.0,667.1,Cash,2025-05,13.17,5066.0
+SM100443,Amit More,2025-07-15,2025-07-17,Household,Kitchen,Mysuru,Karnataka,South,1,345,0.08,317.4,35.65,Debit Card,2025-07,11.23,317.4
+SM100444,Rohan Singh,2025-09-07,2025-09-09,Food,Dairy,Madurai,Tamil Nadu,South,2,360,0.0,720.0,113.6,UPI,2025-09,15.78,720.0
+SM100445,Sneha Patil,2025-08-19,2025-08-22,Personal Care,Hair Care,Warangal,Telangana,South,6,595,0.2,2856.0,335.26,Cash,2025-08,11.74,2856.0
+SM100446,Vikram Shah,2025-03-04,2025-03-08,Household,Kitchen,Coimbatore,Tamil Nadu,South,6,555,0.1,2997.0,514.71,UPI,2025-03,17.17,2997.0
+SM100447,Pooja Kadam,2025-07-15,2025-07-18,Stationery,Office Supplies,New Delhi,Delhi,North,3,870,0.15,2218.5,269.91,Net Banking,2025-07,12.17,2218.5
+SM100448,Rohan Jadhav,2025-10-20,2025-10-23,Food,Beverages,Ahmedabad,Gujarat,West,6,140,0.05,798.0,90.97,Cash,2025-10,11.4,798.0
+SM100449,Saanvi Kadam,2025-05-19,2025-05-21,Stationery,Notebooks,Vadodara,Gujarat,West,3,95,0.0,285.0,47.64,Debit Card,2025-05,16.72,285.0
+SM100450,Priya Patil,2025-12-25,2025-12-29,Household,Cleaning,Hyderabad,Telangana,South,7,165,0.0,1155.0,200.42,UPI,2025-12,17.35,1155.0
+SM100451,Saanvi Kulkarni,2025-07-23,2025-07-26,Food,Bakery,New Delhi,Delhi,North,3,55,0.08,151.8,18.59,Debit Card,2025-07,12.25,151.8
+SM100452,Rahul Verma,2025-08-15,2025-08-18,Household,Storage,Hyderabad,Telangana,South,3,170,0.15,433.5,67.79,Cash,2025-08,15.64,433.5
+SM100453,Pooja More,2025-08-28,2025-09-02,Stationery,Pens,Durgapur,West Bengal,East,3,120,0.08,331.2,39.53,Net Banking,2025-08,11.94,331.2
+SM100454,Aditya Joshi,2025-06-08,2025-06-11,Household,Cleaning,Salem,Tamil Nadu,South,8,330,0.08,2428.8,428.93,UPI,2025-06,17.66,2428.8
+SM100455,Nisha Joshi,2025-01-01,2025-01-05,Personal Care,Hair Care,New Delhi,Delhi,North,8,570,0.15,3876.0,617.23,UPI,2025-01,15.92,3876.0
+SM100456,Karan Kulkarni,2025-08-09,2025-08-13,Household,Cleaning,Durgapur,West Bengal,East,6,235,0.1,1269.0,171.54,Credit Card,2025-08,13.52,1269.0
+SM100457,Neha Bhosale,2025-11-27,2025-12-02,Household,Kitchen,Rajkot,Gujarat,West,2,690,0.02,1352.4,254.69,Debit Card,2025-11,18.83,1352.4
+SM100458,Vikram Jadhav,2025-05-26,2025-05-27,Stationery,Pens,Warangal,Telangana,South,2,45,0.05,85.5,10.36,Cash,2025-05,12.12,85.5
+SM100459,Ishita Sharma,2025-05-20,2025-05-21,Household,Kitchen,Warangal,Telangana,South,1,315,0.1,283.5,40.02,Debit Card,2025-05,14.12,283.5
+SM100460,Rahul Gupta,2025-05-18,2025-05-20,Food,Beverages,Mangaluru,Karnataka,South,2,110,0.08,202.4,19.04,Debit Card,2025-05,9.41,202.4
+SM100461,Rohan Bhosale,2025-09-13,2025-09-14,Food,Bakery,Salem,Tamil Nadu,South,2,260,0.02,509.6,101.98,Cash,2025-09,20.01,509.6
+SM100462,Diya Bhosale,2025-02-06,2025-02-07,Household,Cleaning,New Delhi,Delhi,North,5,750,0.2,3000.0,332.64,Credit Card,2025-02,11.09,3000.0
+SM100463,Amit Kadam,2025-07-17,2025-07-18,Household,Storage,Durgapur,West Bengal,East,1,455,0.15,386.75,44.48,Credit Card,2025-07,11.5,386.75
+SM100464,Diya Joshi,2025-08-31,2025-09-05,Personal Care,Skin Care,Vadodara,Gujarat,West,1,920,0.1,828.0,165.89,Cash,2025-08,20.04,828.0
+SM100465,Rahul Patil,2025-11-23,2025-11-27,Personal Care,Skin Care,Coimbatore,Tamil Nadu,South,4,1170,0.02,4586.4,1046.58,Credit Card,2025-11,22.82,4586.4
+SM100466,Neha Deshmukh,2025-05-22,2025-05-26,Stationery,Pens,New Delhi,Delhi,North,1,195,0.1,175.5,22.72,Debit Card,2025-05,12.95,175.5
+SM100467,Anaya Pawar,2025-02-15,2025-02-16,Stationery,Pens,Mysuru,Karnataka,South,6,185,0.2,888.0,93.55,Credit Card,2025-02,10.53,888.0
+SM100468,Vikram Naik,2025-12-26,2025-12-29,Household,Kitchen,New Delhi,Delhi,North,4,545,0.1,1962.0,341.27,Credit Card,2025-12,17.39,1962.0
+SM100469,Vikram More,2025-01-11,2025-01-15,Personal Care,Oral Care,Warangal,Telangana,South,3,165,0.0,495.0,112.24,Debit Card,2025-01,22.67,495.0
+SM100470,Rohan Verma,2025-10-05,2025-10-09,Household,Storage,Warangal,Telangana,South,3,1035,0.05,2949.75,481.12,Net Banking,2025-10,16.31,2949.75
+SM100471,Vikram Patil,2025-10-11,2025-10-14,Household,Kitchen,Bengaluru,Karnataka,South,5,1245,0.1,5602.5,829.86,Net Banking,2025-10,14.81,5602.5
+SM100472,Vivaan Kadam,2025-07-14,2025-07-17,Food,Staples,Hyderabad,Telangana,South,6,635,0.02,3733.8,348.93,Net Banking,2025-07,9.35,3733.8
+SM100473,Diya Sharma,2025-07-18,2025-07-21,Household,Storage,Mangaluru,Karnataka,South,5,660,0.15,2805.0,265.41,Net Banking,2025-07,9.46,2805.0
+SM100474,Diya Patil,2025-12-04,2025-12-06,Household,Cleaning,Mumbai,Maharashtra,West,1,245,0.08,225.4,44.67,Net Banking,2025-12,19.82,225.4
+SM100475,Vivaan Patil,2025-11-25,2025-11-30,Stationery,Office Supplies,Durgapur,West Bengal,East,5,80,0.02,392.0,83.15,Credit Card,2025-11,21.21,392.0
+SM100476,Sneha Bhosale,2025-12-02,2025-12-06,Stationery,Office Supplies,Ahmedabad,Gujarat,West,1,380,0.15,323.0,34.33,UPI,2025-12,10.63,323.0
+SM100477,Diya Naik,2025-11-12,2025-11-13,Food,Bakery,Chennai,Tamil Nadu,South,2,285,0.1,513.0,66.39,Credit Card,2025-11,12.94,513.0
+SM100478,Priya Gupta,2025-09-30,2025-10-05,Household,Storage,Surat,Gujarat,West,4,1080,0.02,4233.6,841.56,UPI,2025-09,19.88,4233.6
+SM100479,Priya Gupta,2025-11-23,2025-11-25,Stationery,Office Supplies,New Delhi,Delhi,North,7,885,0.02,6071.1,1505.46,Net Banking,2025-11,24.8,6071.1
+SM100480,Pooja Bhosale,2025-06-22,2025-06-25,Stationery,Notebooks,Hyderabad,Telangana,South,6,210,0.05,1197.0,222.03,Cash,2025-06,18.55,1197.0
+SM100481,Karan Patil,2025-06-15,2025-06-19,Household,Kitchen,New Delhi,Delhi,North,5,605,0.08,2783.0,447.51,UPI,2025-06,16.08,2783.0
+SM100482,Rahul Patil,2025-05-26,2025-05-28,Household,Kitchen,New Delhi,Delhi,North,1,520,0.02,509.6,85.16,Debit Card,2025-05,16.71,509.6
+SM100483,Sneha Shah,2025-10-11,2025-10-14,Food,Snacks,New Delhi,Delhi,North,8,150,0.02,1176.0,130.35,Net Banking,2025-10,11.08,1176.0
+SM100484,Rahul Bhosale,2025-05-08,2025-05-09,Personal Care,Skin Care,Hubballi,Karnataka,South,7,725,0.02,4973.5,1174.18,Cash,2025-05,23.61,4973.5
+SM100485,Sneha Shah,2025-03-30,2025-04-02,Personal Care,Skin Care,Ahmedabad,Gujarat,West,7,185,0.0,1295.0,286.31,Cash,2025-03,22.11,1295.0
+SM100486,Anaya Joshi,2025-08-02,2025-08-06,Household,Storage,Kolkata,West Bengal,East,1,1185,0.15,1007.25,97.65,Net Banking,2025-08,9.69,1007.25
+SM100487,Vikram Bhosale,2025-01-22,2025-01-26,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,4,120,0.15,408.0,63.78,Net Banking,2025-01,15.63,408.0
+SM100488,Rahul Sharma,2025-10-22,2025-10-24,Household,Kitchen,New Delhi,Delhi,North,5,1200,0.02,5880.0,964.09,Cash,2025-10,16.4,5880.0
+SM100489,Aditya Singh,2025-10-20,2025-10-22,Stationery,Notebooks,Hyderabad,Telangana,South,2,165,0.08,303.6,56.52,Net Banking,2025-10,18.62,303.6
+SM100490,Rahul Kadam,2025-04-12,2025-04-16,Household,Storage,Rajkot,Gujarat,West,4,525,0.05,1995.0,398.08,Net Banking,2025-04,19.95,1995.0
+SM100491,Aarav Bhosale,2025-02-15,2025-02-20,Stationery,Notebooks,Nagpur,Maharashtra,West,6,100,0.05,570.0,89.66,Debit Card,2025-02,15.73,570.0
+SM100492,Sneha Deshmukh,2025-03-28,2025-03-30,Household,Kitchen,Salem,Tamil Nadu,South,1,1395,0.02,1367.1,311.7,UPI,2025-03,22.8,1367.1
+SM100493,Aarav Pawar,2025-02-27,2025-03-02,Household,Storage,Hyderabad,Telangana,South,3,1580,0.2,3792.0,424.45,UPI,2025-02,11.19,3792.0
+SM100494,Priya More,2025-06-06,2025-06-08,Food,Bakery,Rajkot,Gujarat,West,4,230,0.02,901.6,116.73,Debit Card,2025-06,12.95,901.6
+SM100495,Arjun Bhosale,2025-10-08,2025-10-11,Food,Dairy,Surat,Gujarat,West,1,160,0.0,160.0,31.69,Net Banking,2025-10,19.81,160.0
+SM100496,Diya Patil,2025-05-19,2025-05-22,Food,Snacks,Nagpur,Maharashtra,West,7,245,0.15,1457.75,154.48,Debit Card,2025-05,10.6,1457.75
+SM100497,Priya Sharma,2025-11-29,2025-12-04,Stationery,Office Supplies,Surat,Gujarat,West,2,905,0.08,1665.2,196.61,Credit Card,2025-11,11.81,1665.2
+SM100498,Nisha Gupta,2025-04-12,2025-04-15,Food,Snacks,New Delhi,Delhi,North,4,325,0.05,1235.0,163.94,Credit Card,2025-04,13.27,1235.0
+SM100499,Anaya Kadam,2025-01-10,2025-01-13,Personal Care,Oral Care,Madurai,Tamil Nadu,South,5,155,0.1,697.5,120.74,Debit Card,2025-01,17.31,697.5
+SM100500,Vivaan Naik,2025-07-18,2025-07-20,Personal Care,Skin Care,Kolkata,West Bengal,East,3,475,0.08,1311.0,222.12,Cash,2025-07,16.94,1311.0
+SM100501,Rahul Singh,2025-09-24,2025-09-29,Stationery,Pens,Hyderabad,Telangana,South,3,90,0.05,256.5,46.34,Net Banking,2025-09,18.07,256.5
+SM100502,Pooja Shah,2025-03-09,2025-03-11,Household,Cleaning,Mysuru,Karnataka,South,5,645,0.1,2902.5,588.44,Credit Card,2025-03,20.27,2902.5
+SM100503,Aarav Bhosale,2025-12-02,2025-12-04,Personal Care,Skin Care,New Delhi,Delhi,North,2,305,0.2,488.0,56.14,Debit Card,2025-12,11.5,488.0
+SM100504,Aditya Deshmukh,2025-07-31,2025-08-01,Stationery,Office Supplies,Vadodara,Gujarat,West,5,175,0.02,857.5,158.7,UPI,2025-07,18.51,857.5
+SM100505,Vivaan Naik,2025-11-10,2025-11-13,Household,Storage,New Delhi,Delhi,North,4,510,0.0,2040.0,374.82,Cash,2025-11,18.37,2040.0
+SM100506,Arjun Kulkarni,2025-03-10,2025-03-12,Personal Care,Skin Care,New Delhi,Delhi,North,7,640,0.02,4390.4,960.72,UPI,2025-03,21.88,4390.4
+SM100507,Vivaan Deshmukh,2025-07-29,2025-07-31,Personal Care,Hair Care,Kolkata,West Bengal,East,4,765,0.02,2998.8,648.31,Cash,2025-07,21.62,2998.8
+SM100508,Karan Naik,2025-11-12,2025-11-17,Stationery,Pens,Vadodara,Gujarat,West,7,85,0.0,595.0,94.25,Debit Card,2025-11,15.84,595.0
+SM100509,Amit More,2025-07-21,2025-07-23,Food,Dairy,New Delhi,Delhi,North,8,420,0.0,3360.0,541.68,Cash,2025-07,16.12,3360.0
+SM100510,Vikram Deshmukh,2025-01-21,2025-01-24,Food,Beverages,New Delhi,Delhi,North,5,225,0.05,1068.75,124.75,Cash,2025-01,11.67,1068.75
+SM100511,Ishita Bhosale,2025-05-31,2025-06-01,Household,Kitchen,New Delhi,Delhi,North,8,225,0.1,1620.0,262.05,Net Banking,2025-05,16.18,1620.0
+SM100512,Riya Shah,2025-12-23,2025-12-27,Stationery,Notebooks,New Delhi,Delhi,North,6,180,0.02,1058.4,179.66,Credit Card,2025-12,16.97,1058.4
+SM100513,Diya Naik,2025-08-21,2025-08-22,Personal Care,Oral Care,Kolhapur,Maharashtra,West,3,375,0.0,1125.0,263.28,Cash,2025-08,23.4,1125.0
+SM100514,Ishita Shah,2025-11-21,2025-11-22,Stationery,Office Supplies,Chennai,Tamil Nadu,South,3,395,0.08,1090.2,132.25,Debit Card,2025-11,12.13,1090.2
+SM100515,Meera Joshi,2025-10-17,2025-10-21,Household,Cleaning,Kolkata,West Bengal,East,3,710,0.0,2130.0,395.29,Cash,2025-10,18.56,2130.0
+SM100516,Aarav Singh,2025-05-28,2025-05-31,Food,Beverages,Hyderabad,Telangana,South,4,50,0.2,160.0,14.22,Cash,2025-05,8.89,160.0
+SM100517,Pooja Singh,2025-09-13,2025-09-17,Stationery,Pens,New Delhi,Delhi,North,4,120,0.08,441.6,69.12,UPI,2025-09,15.65,441.6
+SM100518,Anaya Deshmukh,2025-11-04,2025-11-06,Household,Storage,New Delhi,Delhi,North,5,1160,0.1,5220.0,681.53,Credit Card,2025-11,13.06,5220.0
+SM100519,Meera Pawar,2025-01-29,2025-02-03,Food,Beverages,Warangal,Telangana,South,1,315,0.2,252.0,18.27,UPI,2025-01,7.25,252.0
+SM100520,Riya Bhosale,2025-01-26,2025-01-31,Household,Cleaning,Nagpur,Maharashtra,West,5,580,0.15,2465.0,372.92,Net Banking,2025-01,15.13,2465.0
+SM100521,Pooja Verma,2025-04-01,2025-04-02,Food,Snacks,Vadodara,Gujarat,West,5,140,0.08,644.0,52.98,Net Banking,2025-04,8.23,644.0
+SM100522,Arjun Naik,2025-02-03,2025-02-08,Household,Cleaning,Salem,Tamil Nadu,South,5,350,0.08,1610.0,285.91,Credit Card,2025-02,17.76,1610.0
+SM100523,Rohan More,2025-11-10,2025-11-13,Food,Dairy,Mumbai,Maharashtra,West,5,235,0.2,940.0,50.23,Net Banking,2025-11,5.34,940.0
+SM100524,Saanvi Naik,2025-11-16,2025-11-21,Stationery,Office Supplies,Coimbatore,Tamil Nadu,South,8,510,0.02,3998.4,740.76,Debit Card,2025-11,18.53,3998.4
+SM100525,Pooja Gupta,2025-04-10,2025-04-15,Food,Dairy,Mumbai,Maharashtra,West,2,380,0.02,744.8,98.25,UPI,2025-04,13.19,744.8
+SM100526,Meera More,2025-06-20,2025-06-23,Food,Beverages,Coimbatore,Tamil Nadu,South,5,150,0.0,750.0,86.16,Net Banking,2025-06,11.49,750.0
+SM100527,Aarav Verma,2025-06-15,2025-06-20,Food,Bakery,Kolkata,West Bengal,East,6,135,0.1,729.0,54.17,Credit Card,2025-06,7.43,729.0
+SM100528,Vikram Shah,2025-04-10,2025-04-12,Stationery,Notebooks,Madurai,Tamil Nadu,South,1,240,0.08,220.8,32.06,Net Banking,2025-04,14.52,220.8
+SM100529,Priya More,2025-06-21,2025-06-24,Food,Staples,Rajkot,Gujarat,West,5,480,0.15,2040.0,201.95,UPI,2025-06,9.9,2040.0
+SM100530,Karan Kadam,2025-04-17,2025-04-20,Personal Care,Skin Care,New Delhi,Delhi,North,3,410,0.0,1230.0,267.39,Net Banking,2025-04,21.74,1230.0
+SM100531,Rahul Naik,2025-03-26,2025-03-29,Household,Storage,New Delhi,Delhi,North,2,1575,0.2,2520.0,317.43,UPI,2025-03,12.6,2520.0
+SM100532,Amit Joshi,2025-05-20,2025-05-22,Stationery,Pens,Ahmedabad,Gujarat,West,6,95,0.05,541.5,62.79,Credit Card,2025-05,11.6,541.5
+SM100533,Amit Deshmukh,2025-02-27,2025-03-03,Household,Cleaning,Chennai,Tamil Nadu,South,8,495,0.2,3168.0,343.25,Credit Card,2025-02,10.83,3168.0
+SM100534,Arjun Naik,2025-06-24,2025-06-26,Personal Care,Skin Care,Vadodara,Gujarat,West,2,1005,0.1,1809.0,297.99,UPI,2025-06,16.47,1809.0
+SM100535,Rahul Singh,2025-08-24,2025-08-25,Food,Bakery,Ahmedabad,Gujarat,West,1,215,0.1,193.5,19.1,UPI,2025-08,9.87,193.5
+SM100536,Arjun Kulkarni,2025-02-22,2025-02-25,Food,Staples,New Delhi,Delhi,North,5,535,0.02,2621.5,398.95,Debit Card,2025-02,15.22,2621.5
+SM100537,Diya Patil,2025-05-22,2025-05-25,Stationery,Office Supplies,New Delhi,Delhi,North,2,295,0.02,578.2,86.43,Net Banking,2025-05,14.95,578.2
+SM100538,Meera Jadhav,2025-10-14,2025-10-16,Household,Storage,New Delhi,Delhi,North,6,1045,0.05,5956.5,1000.01,Credit Card,2025-10,16.79,5956.5
+SM100539,Anaya Sharma,2025-03-29,2025-04-02,Personal Care,Oral Care,Kolhapur,Maharashtra,West,8,75,0.0,600.0,159.09,Cash,2025-03,26.52,600.0
+SM100540,Arjun Naik,2025-01-28,2025-01-31,Stationery,Pens,Nagpur,Maharashtra,West,8,125,0.05,950.0,135.92,Net Banking,2025-01,14.31,950.0
+SM100541,Nisha Kulkarni,2025-02-10,2025-02-14,Household,Cleaning,Durgapur,West Bengal,East,8,160,0.05,1216.0,241.25,Credit Card,2025-02,19.84,1216.0
+SM100542,Rahul Singh,2025-03-15,2025-03-18,Personal Care,Hair Care,Durgapur,West Bengal,East,3,725,0.15,1848.75,266.7,Cash,2025-03,14.43,1848.75
+SM100543,Sneha Jadhav,2025-01-16,2025-01-19,Food,Bakery,Nagpur,Maharashtra,West,8,155,0.02,1215.2,199.59,Net Banking,2025-01,16.42,1215.2
+SM100544,Meera More,2025-03-07,2025-03-08,Stationery,Office Supplies,New Delhi,Delhi,North,2,345,0.15,586.5,87.12,Cash,2025-03,14.85,586.5
+SM100545,Vivaan Pawar,2025-07-25,2025-07-29,Household,Storage,New Delhi,Delhi,North,4,1040,0.08,3827.2,391.17,Credit Card,2025-07,10.22,3827.2
+SM100546,Vivaan Naik,2025-12-22,2025-12-24,Stationery,Office Supplies,New Delhi,Delhi,North,6,560,0.02,3292.8,497.47,Net Banking,2025-12,15.11,3292.8
+SM100547,Karan Sharma,2025-09-07,2025-09-10,Stationery,Notebooks,Nashik,Maharashtra,West,2,295,0.02,578.2,107.21,Net Banking,2025-09,18.54,578.2
+SM100548,Riya Shah,2025-02-25,2025-02-27,Personal Care,Hair Care,Warangal,Telangana,South,1,165,0.2,132.0,19.13,UPI,2025-02,14.49,132.0
+SM100549,Arjun Kulkarni,2025-03-17,2025-03-21,Stationery,Office Supplies,Hyderabad,Telangana,South,5,410,0.1,1845.0,266.19,Debit Card,2025-03,14.43,1845.0
+SM100550,Neha More,2025-06-03,2025-06-04,Stationery,Office Supplies,New Delhi,Delhi,North,6,990,0.1,5346.0,640.99,Cash,2025-06,11.99,5346.0
+SM100551,Diya Verma,2025-03-07,2025-03-10,Food,Bakery,Durgapur,West Bengal,East,1,30,0.1,27.0,3.36,Debit Card,2025-03,12.44,27.0
+SM100552,Pooja More,2025-01-16,2025-01-20,Stationery,Office Supplies,Mangaluru,Karnataka,South,6,720,0.08,3974.4,556.85,Credit Card,2025-01,14.01,3974.4
+SM100553,Aditya Joshi,2025-12-06,2025-12-10,Household,Cleaning,Mangaluru,Karnataka,South,7,770,0.05,5120.5,1058.38,Credit Card,2025-12,20.67,5120.5
+SM100554,Aditya Kadam,2025-03-10,2025-03-11,Food,Beverages,Mumbai,Maharashtra,West,8,315,0.02,2469.6,388.62,Cash,2025-03,15.74,2469.6
+SM100555,Sneha Kulkarni,2025-08-22,2025-08-26,Household,Kitchen,Durgapur,West Bengal,East,7,875,0.08,5635.0,971.7,Credit Card,2025-08,17.24,5635.0
+SM100556,Priya Jadhav,2025-08-06,2025-08-10,Stationery,Office Supplies,New Delhi,Delhi,North,4,720,0.05,2736.0,402.75,Debit Card,2025-08,14.72,2736.0
+SM100557,Aditya Naik,2025-01-18,2025-01-19,Stationery,Office Supplies,Nashik,Maharashtra,West,6,140,0.08,772.8,101.86,Net Banking,2025-01,13.18,772.8
+SM100558,Priya Bhosale,2025-05-24,2025-05-25,Food,Beverages,Ahmedabad,Gujarat,West,8,300,0.15,2040.0,166.64,Net Banking,2025-05,8.17,2040.0
+SM100559,Riya Naik,2025-06-09,2025-06-13,Personal Care,Oral Care,New Delhi,Delhi,North,1,260,0.1,234.0,47.94,Debit Card,2025-06,20.49,234.0
+SM100560,Riya Joshi,2025-08-04,2025-08-07,Personal Care,Skin Care,Madurai,Tamil Nadu,South,1,865,0.1,778.5,143.61,UPI,2025-08,18.45,778.5
+SM100561,Amit Sharma,2025-11-19,2025-11-21,Food,Bakery,Surat,Gujarat,West,1,105,0.0,105.0,17.67,Debit Card,2025-11,16.83,105.0
+SM100562,Riya Naik,2025-05-10,2025-05-12,Personal Care,Hair Care,Hubballi,Karnataka,South,1,760,0.1,684.0,168.87,Credit Card,2025-05,24.69,684.0
+SM100563,Anaya Pawar,2025-12-04,2025-12-09,Household,Kitchen,Vadodara,Gujarat,West,4,780,0.2,2496.0,328.92,UPI,2025-12,13.18,2496.0
+SM100564,Arjun Jadhav,2025-03-16,2025-03-18,Stationery,Notebooks,New Delhi,Delhi,North,7,115,0.08,740.6,100.61,Debit Card,2025-03,13.58,740.6
+SM100565,Nisha Naik,2025-01-28,2025-01-31,Food,Snacks,Warangal,Telangana,South,3,185,0.08,510.6,78.65,Net Banking,2025-01,15.4,510.6
+SM100566,Meera Shah,2025-04-30,2025-05-01,Stationery,Notebooks,Rajkot,Gujarat,West,3,205,0.08,565.8,75.7,Cash,2025-04,13.38,565.8
+SM100567,Rohan Pawar,2025-07-15,2025-07-20,Food,Snacks,Warangal,Telangana,South,6,335,0.08,1849.2,135.08,Debit Card,2025-07,7.3,1849.2
+SM100568,Riya Bhosale,2025-05-17,2025-05-19,Personal Care,Oral Care,Kolkata,West Bengal,East,7,255,0.15,1517.25,223.49,Credit Card,2025-05,14.73,1517.25
+SM100569,Aarav Gupta,2025-09-24,2025-09-25,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,1,355,0.2,284.0,29.32,UPI,2025-09,10.32,284.0
+SM100570,Neha Sharma,2025-09-26,2025-09-27,Personal Care,Skin Care,Nagpur,Maharashtra,West,5,375,0.0,1875.0,433.52,UPI,2025-09,23.12,1875.0
+SM100571,Riya Bhosale,2025-11-01,2025-11-05,Food,Snacks,Hyderabad,Telangana,South,2,305,0.02,597.8,90.54,Credit Card,2025-11,15.15,597.8
+SM100572,Rohan Bhosale,2025-02-26,2025-03-02,Personal Care,Hair Care,Hyderabad,Telangana,South,8,690,0.0,5520.0,1556.15,Cash,2025-02,28.19,5520.0
+SM100573,Karan Pawar,2025-12-21,2025-12-25,Personal Care,Skin Care,Warangal,Telangana,South,2,405,0.0,810.0,201.02,UPI,2025-12,24.82,810.0
+SM100574,Karan Deshmukh,2025-05-13,2025-05-18,Household,Kitchen,Durgapur,West Bengal,East,2,790,0.02,1548.4,287.26,Cash,2025-05,18.55,1548.4
+SM100575,Diya Patil,2025-02-25,2025-02-28,Household,Storage,Mangaluru,Karnataka,South,2,1655,0.15,2813.5,431.13,UPI,2025-02,15.32,2813.5
+SM100576,Anaya Kadam,2025-02-06,2025-02-07,Stationery,Pens,New Delhi,Delhi,North,8,40,0.15,272.0,15.56,Cash,2025-02,5.72,272.0
+SM100577,Nisha Gupta,2025-05-17,2025-05-21,Stationery,Office Supplies,Hubballi,Karnataka,South,1,530,0.2,424.0,40.66,Cash,2025-05,9.59,424.0
+SM100578,Rahul Kadam,2025-02-05,2025-02-08,Food,Dairy,New Delhi,Delhi,North,8,95,0.1,684.0,91.84,Debit Card,2025-02,13.43,684.0
+SM100579,Arjun Deshmukh,2025-07-25,2025-07-28,Personal Care,Oral Care,Mumbai,Maharashtra,West,6,85,0.08,469.2,78.37,Net Banking,2025-07,16.7,469.2
+SM100580,Nisha Sharma,2025-01-21,2025-01-24,Personal Care,Oral Care,Surat,Gujarat,West,7,455,0.15,2707.25,544.41,Cash,2025-01,20.11,2707.25
+SM100581,Meera Singh,2025-04-08,2025-04-13,Household,Cleaning,Bengaluru,Karnataka,South,4,480,0.0,1920.0,400.25,Net Banking,2025-04,20.85,1920.0
+SM100582,Diya Kulkarni,2025-08-19,2025-08-23,Personal Care,Skin Care,Mumbai,Maharashtra,West,6,965,0.0,5790.0,1329.49,Net Banking,2025-08,22.96,5790.0
+SM100583,Nisha Shah,2025-08-23,2025-08-24,Household,Cleaning,Hyderabad,Telangana,South,1,685,0.08,630.2,113.32,Net Banking,2025-08,17.98,630.2
+SM100584,Vikram Jadhav,2025-01-24,2025-01-25,Food,Beverages,Mysuru,Karnataka,South,1,410,0.2,328.0,41.58,Credit Card,2025-01,12.68,328.0
+SM100585,Rahul Bhosale,2025-10-30,2025-11-03,Food,Dairy,Mumbai,Maharashtra,West,4,70,0.02,274.4,42.68,Cash,2025-10,15.55,274.4
+SM100586,Rahul Sharma,2025-06-16,2025-06-18,Household,Kitchen,Nashik,Maharashtra,West,4,1170,0.1,4212.0,679.0,UPI,2025-06,16.12,4212.0
+SM100587,Riya Patil,2025-05-21,2025-05-23,Household,Storage,Mangaluru,Karnataka,South,6,1050,0.08,5796.0,883.98,Credit Card,2025-05,15.25,5796.0
+SM100588,Vivaan Naik,2025-02-21,2025-02-23,Household,Cleaning,Durgapur,West Bengal,East,8,145,0.0,1160.0,207.35,Net Banking,2025-02,17.88,1160.0
+SM100589,Pooja Kulkarni,2025-05-26,2025-05-30,Household,Cleaning,Rajkot,Gujarat,West,3,605,0.1,1633.5,287.1,Credit Card,2025-05,17.58,1633.5
+SM100590,Sneha Gupta,2025-11-09,2025-11-12,Household,Storage,Hyderabad,Telangana,South,8,1150,0.0,9200.0,1643.1,UPI,2025-11,17.86,9200.0
+SM100591,Amit Kulkarni,2025-10-13,2025-10-18,Food,Staples,Mysuru,Karnataka,South,2,520,0.2,832.0,59.73,Cash,2025-10,7.18,832.0
+SM100592,Nisha Deshmukh,2025-11-17,2025-11-21,Personal Care,Skin Care,Hyderabad,Telangana,South,4,225,0.02,882.0,193.21,Credit Card,2025-11,21.91,882.0
+SM100593,Vikram Patil,2025-12-10,2025-12-15,Personal Care,Hair Care,Mumbai,Maharashtra,West,4,480,0.05,1824.0,418.56,UPI,2025-12,22.95,1824.0
+SM100594,Vikram Jadhav,2025-01-27,2025-01-29,Household,Cleaning,New Delhi,Delhi,North,8,500,0.0,4000.0,833.37,Net Banking,2025-01,20.83,4000.0
+SM100595,Pooja Verma,2025-06-16,2025-06-18,Personal Care,Skin Care,Surat,Gujarat,West,2,460,0.0,920.0,244.66,Credit Card,2025-06,26.59,920.0
+SM100596,Arjun Shah,2025-07-12,2025-07-14,Stationery,Office Supplies,Bengaluru,Karnataka,South,8,85,0.08,625.6,82.11,Net Banking,2025-07,13.12,625.6
+SM100597,Rohan Kulkarni,2025-08-21,2025-08-24,Personal Care,Skin Care,Mangaluru,Karnataka,South,8,890,0.15,6052.0,1003.14,Debit Card,2025-08,16.58,6052.0
+SM100598,Pooja Deshmukh,2025-03-07,2025-03-11,Food,Bakery,Nashik,Maharashtra,West,3,60,0.08,165.6,16.48,Debit Card,2025-03,9.95,165.6
+SM100599,Nisha Verma,2025-04-23,2025-04-28,Household,Storage,Coimbatore,Tamil Nadu,South,4,265,0.2,848.0,83.86,Credit Card,2025-04,9.89,848.0
+SM100600,Rahul Gupta,2025-10-30,2025-11-01,Personal Care,Skin Care,Rajkot,Gujarat,West,7,910,0.02,6242.6,1500.92,Net Banking,2025-10,24.04,6242.6
+SM100601,Anaya Gupta,2025-04-24,2025-04-29,Food,Dairy,New Delhi,Delhi,North,1,60,0.08,55.2,9.12,Net Banking,2025-04,16.52,55.2
+SM100602,Pooja Kulkarni,2025-07-21,2025-07-22,Stationery,Notebooks,Ahmedabad,Gujarat,West,4,65,0.2,208.0,13.92,Credit Card,2025-07,6.69,208.0
+SM100603,Riya Naik,2025-07-03,2025-07-07,Food,Snacks,Coimbatore,Tamil Nadu,South,8,245,0.02,1920.8,331.8,Net Banking,2025-07,17.27,1920.8
+SM100604,Vikram Naik,2025-01-13,2025-01-16,Household,Storage,Rajkot,Gujarat,West,7,430,0.2,2408.0,346.49,UPI,2025-01,14.39,2408.0
+SM100605,Neha More,2025-11-18,2025-11-21,Personal Care,Oral Care,Nagpur,Maharashtra,West,1,185,0.2,148.0,23.73,Net Banking,2025-11,16.03,148.0
+SM100606,Anaya Sharma,2025-04-17,2025-04-20,Personal Care,Oral Care,Kolkata,West Bengal,East,1,280,0.15,238.0,52.22,Cash,2025-04,21.94,238.0
+SM100607,Priya Naik,2025-07-07,2025-07-08,Personal Care,Hair Care,Ahmedabad,Gujarat,West,3,675,0.15,1721.25,263.62,Credit Card,2025-07,15.32,1721.25
+SM100608,Rahul Pawar,2025-03-12,2025-03-14,Food,Dairy,Coimbatore,Tamil Nadu,South,4,385,0.2,1232.0,47.9,Debit Card,2025-03,3.89,1232.0
+SM100609,Amit More,2025-09-15,2025-09-19,Personal Care,Skin Care,Warangal,Telangana,South,2,510,0.08,938.4,149.7,UPI,2025-09,15.95,938.4
+SM100610,Arjun Shah,2025-08-29,2025-08-30,Stationery,Office Supplies,Warangal,Telangana,South,6,805,0.15,4105.5,615.42,Cash,2025-08,14.99,4105.5
+SM100611,Aditya Singh,2025-02-14,2025-02-15,Household,Kitchen,Nagpur,Maharashtra,West,2,255,0.05,484.5,93.92,Credit Card,2025-02,19.38,484.5
+SM100612,Aarav Joshi,2025-04-15,2025-04-19,Personal Care,Hair Care,New Delhi,Delhi,North,3,515,0.08,1421.4,287.99,Credit Card,2025-04,20.26,1421.4
+SM100613,Nisha Jadhav,2025-02-02,2025-02-05,Personal Care,Hair Care,Pune,Maharashtra,West,6,685,0.2,3288.0,516.21,Net Banking,2025-02,15.7,3288.0
+SM100614,Rohan Kulkarni,2025-10-08,2025-10-10,Personal Care,Oral Care,Rajkot,Gujarat,West,3,455,0.05,1296.75,245.56,Cash,2025-10,18.94,1296.75
+SM100615,Ishita Naik,2025-07-10,2025-07-15,Household,Kitchen,Chennai,Tamil Nadu,South,5,740,0.02,3626.0,914.27,Net Banking,2025-07,25.21,3626.0
+SM100616,Aditya Singh,2025-05-27,2025-06-01,Household,Cleaning,Mysuru,Karnataka,South,4,175,0.05,665.0,120.19,Debit Card,2025-05,18.07,665.0
+SM100617,Ishita More,2025-07-09,2025-07-14,Food,Bakery,Mysuru,Karnataka,South,6,70,0.08,386.4,48.97,Debit Card,2025-07,12.67,386.4
+SM100618,Priya More,2025-03-04,2025-03-05,Stationery,Pens,Nagpur,Maharashtra,West,8,185,0.02,1450.4,274.33,Debit Card,2025-03,18.91,1450.4
+SM100619,Rahul Naik,2025-11-28,2025-12-02,Stationery,Notebooks,Warangal,Telangana,South,3,290,0.15,739.5,92.09,UPI,2025-11,12.45,739.5
+SM100620,Vikram Pawar,2025-09-03,2025-09-05,Food,Bakery,Pune,Maharashtra,West,1,140,0.2,112.0,8.51,UPI,2025-09,7.6,112.0
+SM100621,Arjun Patil,2025-06-17,2025-06-20,Household,Storage,Nashik,Maharashtra,West,4,1435,0.2,4592.0,414.37,UPI,2025-06,9.02,4592.0
+SM100622,Neha More,2025-10-03,2025-10-08,Food,Staples,Durgapur,West Bengal,East,7,205,0.05,1363.25,203.52,UPI,2025-10,14.93,1363.25
+SM100623,Meera Pawar,2025-12-08,2025-12-09,Household,Storage,Salem,Tamil Nadu,South,7,740,0.05,4921.0,1105.01,Debit Card,2025-12,22.45,4921.0
+SM100624,Meera Deshmukh,2025-06-07,2025-06-11,Household,Storage,Ahmedabad,Gujarat,West,8,1365,0.08,10046.4,1985.53,Cash,2025-06,19.76,10046.4
+SM100625,Rahul Sharma,2025-08-01,2025-08-06,Household,Cleaning,Bengaluru,Karnataka,South,5,470,0.2,1880.0,281.68,Net Banking,2025-08,14.98,1880.0
+SM100626,Riya Bhosale,2025-07-12,2025-07-16,Stationery,Office Supplies,Mumbai,Maharashtra,West,5,430,0.1,1935.0,236.49,Credit Card,2025-07,12.22,1935.0
+SM100627,Riya Joshi,2025-04-13,2025-04-16,Personal Care,Oral Care,Mangaluru,Karnataka,South,8,70,0.2,448.0,56.12,Cash,2025-04,12.53,448.0
+SM100628,Diya Kadam,2025-10-14,2025-10-18,Household,Cleaning,Warangal,Telangana,South,1,205,0.05,194.75,33.96,Debit Card,2025-10,17.44,194.75
+SM100629,Neha Naik,2025-08-02,2025-08-03,Household,Cleaning,Mangaluru,Karnataka,South,2,705,0.08,1297.2,214.55,Debit Card,2025-08,16.54,1297.2
+SM100630,Sneha More,2025-10-25,2025-10-26,Personal Care,Oral Care,Rajkot,Gujarat,West,8,490,0.2,3136.0,556.18,Net Banking,2025-10,17.74,3136.0
+SM100631,Sneha Deshmukh,2025-01-09,2025-01-11,Household,Storage,Durgapur,West Bengal,East,1,365,0.08,335.8,40.86,UPI,2025-01,12.17,335.8
+SM100632,Amit Kulkarni,2025-05-20,2025-05-21,Personal Care,Skin Care,Salem,Tamil Nadu,South,5,420,0.15,1785.0,376.17,Credit Card,2025-05,21.07,1785.0
+SM100633,Diya More,2025-02-18,2025-02-21,Personal Care,Hair Care,New Delhi,Delhi,North,5,330,0.15,1402.5,236.39,Net Banking,2025-02,16.85,1402.5
+SM100634,Rahul Shah,2025-06-30,2025-07-04,Food,Beverages,Kolkata,West Bengal,East,5,200,0.08,920.0,104.26,Credit Card,2025-06,11.33,920.0
+SM100635,Aditya Shah,2025-02-22,2025-02-23,Household,Cleaning,Mysuru,Karnataka,South,2,420,0.0,840.0,146.75,UPI,2025-02,17.47,840.0
+SM100636,Rahul Deshmukh,2025-09-03,2025-09-08,Personal Care,Skin Care,Madurai,Tamil Nadu,South,8,1080,0.1,7776.0,1194.62,Debit Card,2025-09,15.36,7776.0
+SM100637,Arjun Deshmukh,2025-01-15,2025-01-17,Household,Cleaning,Hyderabad,Telangana,South,3,645,0.05,1838.25,364.12,UPI,2025-01,19.81,1838.25
+SM100638,Diya Patil,2025-08-06,2025-08-08,Food,Snacks,Hyderabad,Telangana,South,8,275,0.0,2200.0,356.03,Net Banking,2025-08,16.18,2200.0
+SM100639,Diya Bhosale,2025-10-31,2025-11-01,Food,Bakery,Nagpur,Maharashtra,West,1,50,0.15,42.5,0.06,UPI,2025-10,0.14,42.5
+SM100640,Riya Pawar,2025-11-05,2025-11-08,Household,Storage,Mysuru,Karnataka,South,6,170,0.02,999.6,158.56,Debit Card,2025-11,15.86,999.6
+SM100641,Meera Deshmukh,2025-03-24,2025-03-26,Food,Snacks,Kolkata,West Bengal,East,1,205,0.15,174.25,14.66,Net Banking,2025-03,8.41,174.25
+SM100642,Vikram Kadam,2025-01-03,2025-01-05,Household,Storage,Hyderabad,Telangana,South,8,735,0.1,5292.0,1041.07,UPI,2025-01,19.67,5292.0
+SM100643,Rahul Sharma,2025-04-03,2025-04-04,Stationery,Notebooks,Durgapur,West Bengal,East,4,200,0.08,736.0,101.21,Cash,2025-04,13.75,736.0
+SM100644,Rahul Singh,2025-02-26,2025-02-27,Stationery,Notebooks,New Delhi,Delhi,North,5,215,0.0,1075.0,153.1,UPI,2025-02,14.24,1075.0
+SM100645,Pooja Kulkarni,2025-07-17,2025-07-20,Personal Care,Oral Care,Salem,Tamil Nadu,South,8,150,0.08,1104.0,218.43,UPI,2025-07,19.79,1104.0
+SM100646,Amit Kadam,2025-09-01,2025-09-05,Household,Cleaning,Warangal,Telangana,South,8,630,0.08,4636.8,728.82,UPI,2025-09,15.72,4636.8
+SM100647,Sneha Kulkarni,2025-03-03,2025-03-04,Stationery,Office Supplies,Mangaluru,Karnataka,South,2,750,0.02,1470.0,152.26,Debit Card,2025-03,10.36,1470.0
+SM100648,Riya Joshi,2025-04-13,2025-04-18,Food,Beverages,New Delhi,Delhi,North,7,340,0.05,2261.0,307.82,Cash,2025-04,13.61,2261.0
+SM100649,Diya Joshi,2025-07-02,2025-07-03,Stationery,Office Supplies,Rajkot,Gujarat,West,5,175,0.08,805.0,111.27,Cash,2025-07,13.82,805.0
+SM100650,Ishita Gupta,2025-09-12,2025-09-13,Food,Snacks,Mysuru,Karnataka,South,1,295,0.08,271.4,38.38,Net Banking,2025-09,14.14,271.4
+SM100651,Nisha Bhosale,2025-12-14,2025-12-19,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,2,390,0.15,663.0,145.01,Cash,2025-12,21.87,663.0
+SM100652,Priya Patil,2025-04-14,2025-04-19,Stationery,Office Supplies,Salem,Tamil Nadu,South,5,555,0.2,2220.0,262.32,UPI,2025-04,11.82,2220.0
+SM100653,Ishita More,2025-08-09,2025-08-10,Stationery,Notebooks,Nagpur,Maharashtra,West,7,175,0.0,1225.0,212.27,Debit Card,2025-08,17.33,1225.0
+SM100654,Riya Kadam,2025-12-28,2025-12-29,Stationery,Pens,Mangaluru,Karnataka,South,5,145,0.08,667.0,77.6,Cash,2025-12,11.63,667.0
+SM100655,Nisha Jadhav,2025-12-04,2025-12-07,Stationery,Office Supplies,New Delhi,Delhi,North,3,520,0.08,1435.2,299.0,Cash,2025-12,20.83,1435.2
+SM100656,Sneha Pawar,2025-11-12,2025-11-14,Personal Care,Hair Care,Warangal,Telangana,South,1,105,0.0,105.0,25.38,Net Banking,2025-11,24.17,105.0
+SM100657,Sneha Patil,2025-01-14,2025-01-18,Stationery,Pens,Durgapur,West Bengal,East,7,75,0.05,498.75,78.73,Credit Card,2025-01,15.79,498.75
+SM100658,Priya Pawar,2025-05-07,2025-05-08,Food,Snacks,Hubballi,Karnataka,South,5,75,0.02,367.5,55.27,UPI,2025-05,15.04,367.5
+SM100659,Rahul Gupta,2025-08-24,2025-08-25,Stationery,Notebooks,Warangal,Telangana,South,1,255,0.1,229.5,32.12,Net Banking,2025-08,14.0,229.5
+SM100660,Ishita Jadhav,2025-07-19,2025-07-22,Stationery,Pens,Chennai,Tamil Nadu,South,4,75,0.1,270.0,35.48,Debit Card,2025-07,13.14,270.0
+SM100661,Meera Joshi,2025-07-06,2025-07-08,Stationery,Office Supplies,Surat,Gujarat,West,2,845,0.1,1521.0,183.52,UPI,2025-07,12.07,1521.0
+SM100662,Riya Pawar,2025-06-02,2025-06-03,Household,Storage,New Delhi,Delhi,North,2,1325,0.1,2385.0,337.07,Debit Card,2025-06,14.13,2385.0
+SM100663,Amit Bhosale,2025-02-04,2025-02-07,Stationery,Pens,New Delhi,Delhi,North,6,160,0.15,816.0,91.13,Debit Card,2025-02,11.17,816.0
+SM100664,Priya Deshmukh,2025-08-10,2025-08-14,Household,Kitchen,Warangal,Telangana,South,7,450,0.1,2835.0,400.91,UPI,2025-08,14.14,2835.0
+SM100665,Neha Verma,2025-11-18,2025-11-23,Stationery,Pens,Hyderabad,Telangana,South,8,60,0.15,408.0,38.63,Cash,2025-11,9.47,408.0
+SM100666,Pooja Gupta,2025-10-17,2025-10-20,Household,Kitchen,Hyderabad,Telangana,South,8,305,0.02,2391.2,463.08,Debit Card,2025-10,19.37,2391.2
+SM100667,Saanvi Gupta,2025-02-02,2025-02-07,Stationery,Notebooks,Hyderabad,Telangana,South,5,240,0.05,1140.0,172.28,Credit Card,2025-02,15.11,1140.0
+SM100668,Pooja Kadam,2025-02-28,2025-03-04,Food,Beverages,Mysuru,Karnataka,South,5,235,0.1,1057.5,161.37,UPI,2025-02,15.26,1057.5
+SM100669,Ishita Kadam,2025-04-14,2025-04-19,Household,Cleaning,Hubballi,Karnataka,South,5,730,0.05,3467.5,385.68,UPI,2025-04,11.12,3467.5
+SM100670,Pooja Shah,2025-09-06,2025-09-07,Food,Snacks,Kolkata,West Bengal,East,6,225,0.2,1080.0,105.07,Debit Card,2025-09,9.73,1080.0
+SM100671,Diya More,2025-12-10,2025-12-15,Stationery,Office Supplies,Hyderabad,Telangana,South,3,260,0.1,702.0,116.64,Net Banking,2025-12,16.62,702.0
+SM100672,Riya Naik,2025-09-26,2025-09-29,Food,Beverages,Salem,Tamil Nadu,South,2,360,0.05,684.0,58.6,Cash,2025-09,8.57,684.0
+SM100673,Pooja Joshi,2025-05-01,2025-05-05,Household,Cleaning,Surat,Gujarat,West,3,255,0.05,726.75,122.77,Net Banking,2025-05,16.89,726.75
+SM100674,Aditya Pawar,2025-01-29,2025-02-01,Food,Bakery,Vadodara,Gujarat,West,7,160,0.02,1097.6,155.55,Cash,2025-01,14.17,1097.6
+SM100675,Saanvi Joshi,2025-07-08,2025-07-09,Food,Staples,Durgapur,West Bengal,East,1,685,0.15,582.25,33.37,Net Banking,2025-07,5.73,582.25
+SM100676,Karan Shah,2025-07-16,2025-07-17,Food,Staples,Madurai,Tamil Nadu,South,4,695,0.08,2557.6,267.41,Debit Card,2025-07,10.46,2557.6
+SM100677,Pooja Bhosale,2025-06-04,2025-06-07,Personal Care,Skin Care,Pune,Maharashtra,West,3,1105,0.15,2817.75,407.83,UPI,2025-06,14.47,2817.75
+SM100678,Diya Verma,2025-05-21,2025-05-25,Stationery,Notebooks,Kolkata,West Bengal,East,7,325,0.05,2161.25,435.07,Credit Card,2025-05,20.13,2161.25
+SM100679,Ishita Kadam,2025-12-24,2025-12-25,Personal Care,Hair Care,Chennai,Tamil Nadu,South,6,495,0.0,2970.0,782.27,Cash,2025-12,26.34,2970.0
+SM100680,Ishita Kulkarni,2025-11-25,2025-11-26,Stationery,Pens,Bengaluru,Karnataka,South,5,70,0.0,350.0,74.13,Net Banking,2025-11,21.18,350.0
+SM100681,Rohan Deshmukh,2025-11-29,2025-12-01,Stationery,Notebooks,Kolkata,West Bengal,East,8,190,0.15,1292.0,168.66,Net Banking,2025-11,13.05,1292.0
+SM100682,Riya Kulkarni,2025-06-17,2025-06-21,Household,Cleaning,Durgapur,West Bengal,East,7,380,0.08,2447.2,332.27,UPI,2025-06,13.58,2447.2
+SM100683,Anaya Gupta,2025-01-12,2025-01-14,Food,Dairy,New Delhi,Delhi,North,4,160,0.2,512.0,29.13,Net Banking,2025-01,5.69,512.0
+SM100684,Aarav Naik,2025-08-08,2025-08-09,Household,Cleaning,New Delhi,Delhi,North,6,220,0.1,1188.0,198.67,Net Banking,2025-08,16.72,1188.0
+SM100685,Meera Naik,2025-08-11,2025-08-14,Stationery,Pens,Durgapur,West Bengal,East,4,145,0.02,568.4,79.83,Cash,2025-08,14.04,568.4
+SM100686,Pooja Deshmukh,2025-07-15,2025-07-17,Household,Storage,Mangaluru,Karnataka,South,4,1790,0.05,6802.0,1328.6,Cash,2025-07,19.53,6802.0
+SM100687,Vikram Sharma,2025-03-16,2025-03-21,Personal Care,Skin Care,Kolhapur,Maharashtra,West,8,1100,0.05,8360.0,1768.07,UPI,2025-03,21.15,8360.0
+SM100688,Neha Joshi,2025-08-29,2025-09-02,Stationery,Office Supplies,Hubballi,Karnataka,South,4,720,0.15,2448.0,252.46,UPI,2025-08,10.31,2448.0
+SM100689,Neha Naik,2025-02-18,2025-02-23,Food,Bakery,New Delhi,Delhi,North,4,155,0.05,589.0,91.46,UPI,2025-02,15.53,589.0
+SM100690,Riya Deshmukh,2025-01-03,2025-01-04,Personal Care,Hair Care,Salem,Tamil Nadu,South,6,200,0.1,1080.0,222.6,Debit Card,2025-01,20.61,1080.0
+SM100691,Pooja Deshmukh,2025-03-28,2025-04-02,Personal Care,Hair Care,New Delhi,Delhi,North,3,160,0.15,408.0,66.7,Debit Card,2025-03,16.35,408.0
+SM100692,Rohan Jadhav,2025-03-01,2025-03-04,Household,Kitchen,Chennai,Tamil Nadu,South,5,1145,0.08,5267.0,1016.44,Debit Card,2025-03,19.3,5267.0
+SM100693,Vikram Patil,2025-09-22,2025-09-27,Household,Kitchen,Salem,Tamil Nadu,South,8,1170,0.02,9172.8,1504.1,Credit Card,2025-09,16.4,9172.8
+SM100694,Pooja Sharma,2025-03-18,2025-03-22,Household,Cleaning,Pune,Maharashtra,West,8,295,0.15,2006.0,296.68,Cash,2025-03,14.79,2006.0
+SM100695,Diya Pawar,2025-01-21,2025-01-23,Stationery,Notebooks,Vadodara,Gujarat,West,8,75,0.15,510.0,64.94,UPI,2025-01,12.73,510.0
+SM100696,Arjun Jadhav,2025-04-15,2025-04-20,Household,Cleaning,Durgapur,West Bengal,East,5,540,0.15,2295.0,286.33,UPI,2025-04,12.48,2295.0
+SM100697,Rahul Patil,2025-09-27,2025-09-28,Stationery,Pens,Kolkata,West Bengal,East,4,155,0.15,527.0,63.58,Debit Card,2025-09,12.06,527.0
+SM100698,Vivaan Singh,2025-12-15,2025-12-16,Stationery,Notebooks,Hyderabad,Telangana,South,2,300,0.02,588.0,82.16,Cash,2025-12,13.97,588.0
+SM100699,Riya Deshmukh,2025-08-21,2025-08-24,Food,Bakery,Warangal,Telangana,South,1,205,0.08,188.6,27.74,Credit Card,2025-08,14.71,188.6
+SM100700,Vivaan Gupta,2025-01-25,2025-01-29,Personal Care,Skin Care,Durgapur,West Bengal,East,2,700,0.1,1260.0,239.88,Debit Card,2025-01,19.04,1260.0
+SM100701,Meera Kadam,2025-04-02,2025-04-06,Food,Snacks,Mangaluru,Karnataka,South,4,90,0.2,288.0,16.4,Credit Card,2025-04,5.69,288.0
+SM100702,Sneha Kadam,2025-03-03,2025-03-05,Stationery,Office Supplies,Salem,Tamil Nadu,South,5,905,0.1,4072.5,656.59,UPI,2025-03,16.12,4072.5
+SM100703,Pooja Sharma,2025-07-08,2025-07-13,Stationery,Notebooks,New Delhi,Delhi,North,7,190,0.1,1197.0,140.52,Cash,2025-07,11.74,1197.0
+SM100704,Vikram Kadam,2025-07-08,2025-07-11,Stationery,Office Supplies,New Delhi,Delhi,North,7,120,0.1,756.0,75.44,Credit Card,2025-07,9.98,756.0
+SM100705,Nisha Joshi,2025-11-28,2025-11-29,Stationery,Office Supplies,Hyderabad,Telangana,South,2,310,0.08,570.4,59.94,Credit Card,2025-11,10.51,570.4
+SM100706,Vivaan Shah,2025-03-07,2025-03-12,Household,Storage,Warangal,Telangana,South,7,615,0.0,4305.0,926.22,UPI,2025-03,21.51,4305.0
+SM100707,Rohan Pawar,2025-09-20,2025-09-25,Stationery,Notebooks,Nashik,Maharashtra,West,2,185,0.15,314.5,25.31,Debit Card,2025-09,8.05,314.5
+SM100708,Anaya Sharma,2025-10-27,2025-10-31,Food,Snacks,Nashik,Maharashtra,West,8,95,0.02,744.8,145.14,Cash,2025-10,19.49,744.8
+SM100709,Ishita Kulkarni,2025-12-27,2025-12-30,Stationery,Office Supplies,Madurai,Tamil Nadu,South,8,635,0.05,4826.0,508.91,Credit Card,2025-12,10.55,4826.0
+SM100710,Ishita Kadam,2025-02-10,2025-02-11,Food,Dairy,Warangal,Telangana,South,1,45,0.0,45.0,12.29,Cash,2025-02,27.31,45.0
+SM100711,Meera Sharma,2025-08-24,2025-08-28,Stationery,Notebooks,Warangal,Telangana,South,6,255,0.15,1300.5,153.17,Credit Card,2025-08,11.78,1300.5
+SM100712,Aditya Kadam,2025-03-11,2025-03-15,Food,Snacks,Pune,Maharashtra,West,4,305,0.02,1195.6,177.64,Credit Card,2025-03,14.86,1195.6
+SM100713,Diya Deshmukh,2025-08-12,2025-08-13,Food,Bakery,Kolkata,West Bengal,East,8,70,0.08,515.2,56.87,Credit Card,2025-08,11.04,515.2
+SM100714,Riya Verma,2025-12-26,2025-12-29,Stationery,Pens,Rajkot,Gujarat,West,8,120,0.02,940.8,170.26,Cash,2025-12,18.1,940.8
+SM100715,Neha Naik,2025-01-27,2025-02-01,Food,Dairy,Chennai,Tamil Nadu,South,7,430,0.15,2558.5,234.25,Net Banking,2025-01,9.16,2558.5
+SM100716,Aarav Gupta,2025-05-29,2025-06-03,Stationery,Notebooks,Nagpur,Maharashtra,West,8,110,0.0,880.0,182.67,Net Banking,2025-05,20.76,880.0
+SM100717,Neha Kadam,2025-06-11,2025-06-15,Personal Care,Oral Care,New Delhi,Delhi,North,7,450,0.0,3150.0,765.0,Debit Card,2025-06,24.29,3150.0
+SM100718,Vikram Kulkarni,2025-08-18,2025-08-21,Food,Beverages,Warangal,Telangana,South,5,340,0.08,1564.0,199.81,Net Banking,2025-08,12.78,1564.0
+SM100719,Sneha Bhosale,2025-04-23,2025-04-27,Stationery,Pens,New Delhi,Delhi,North,5,145,0.08,667.0,89.98,Cash,2025-04,13.49,667.0
+SM100720,Arjun Deshmukh,2025-03-24,2025-03-26,Personal Care,Oral Care,New Delhi,Delhi,North,2,350,0.02,686.0,157.49,Net Banking,2025-03,22.96,686.0
+SM100721,Sneha Shah,2025-09-09,2025-09-10,Stationery,Notebooks,Nagpur,Maharashtra,West,4,105,0.0,420.0,78.83,Debit Card,2025-09,18.77,420.0
+SM100722,Diya Jadhav,2025-07-02,2025-07-06,Household,Storage,Hyderabad,Telangana,South,1,1475,0.05,1401.25,188.81,Credit Card,2025-07,13.47,1401.25
+SM100723,Priya Joshi,2025-03-03,2025-03-04,Stationery,Notebooks,New Delhi,Delhi,North,6,285,0.2,1368.0,77.01,Credit Card,2025-03,5.63,1368.0
+SM100724,Diya Bhosale,2025-12-20,2025-12-21,Food,Dairy,Kolkata,West Bengal,East,8,485,0.2,3104.0,274.96,Net Banking,2025-12,8.86,3104.0
+SM100725,Sneha Deshmukh,2025-11-09,2025-11-11,Food,Staples,Kolkata,West Bengal,East,2,185,0.0,370.0,60.78,Debit Card,2025-11,16.43,370.0
+SM100726,Arjun Singh,2025-12-29,2025-12-30,Food,Beverages,Rajkot,Gujarat,West,6,185,0.02,1087.8,159.25,Cash,2025-12,14.64,1087.8
+SM100727,Sneha Kadam,2025-01-04,2025-01-08,Personal Care,Hair Care,Mangaluru,Karnataka,South,3,160,0.05,456.0,99.39,Credit Card,2025-01,21.8,456.0
+SM100728,Amit Bhosale,2025-03-19,2025-03-23,Household,Cleaning,Durgapur,West Bengal,East,7,420,0.08,2704.8,467.09,Debit Card,2025-03,17.27,2704.8
+SM100729,Ishita Gupta,2025-01-16,2025-01-20,Food,Staples,Surat,Gujarat,West,2,125,0.05,237.5,29.45,UPI,2025-01,12.4,237.5
+SM100730,Meera Gupta,2025-07-21,2025-07-26,Household,Storage,Kolkata,West Bengal,East,1,1765,0.15,1500.25,169.59,Cash,2025-07,11.3,1500.25
+SM100731,Aditya Naik,2025-12-15,2025-12-20,Personal Care,Hair Care,Warangal,Telangana,South,1,840,0.1,756.0,151.12,Cash,2025-12,19.99,756.0
+SM100732,Arjun Shah,2025-08-17,2025-08-21,Stationery,Office Supplies,Hyderabad,Telangana,South,6,890,0.2,4272.0,279.99,Debit Card,2025-08,6.55,4272.0
+SM100733,Arjun Sharma,2025-02-13,2025-02-16,Personal Care,Hair Care,Nashik,Maharashtra,West,3,560,0.1,1512.0,310.27,Net Banking,2025-02,20.52,1512.0
+SM100734,Rohan Kulkarni,2025-10-10,2025-10-15,Household,Cleaning,Madurai,Tamil Nadu,South,1,810,0.1,729.0,81.97,Debit Card,2025-10,11.24,729.0
+SM100735,Anaya Bhosale,2025-08-05,2025-08-06,Food,Bakery,New Delhi,Delhi,North,5,200,0.05,950.0,155.07,UPI,2025-08,16.32,950.0
+SM100736,Priya Verma,2025-08-18,2025-08-23,Stationery,Notebooks,Chennai,Tamil Nadu,South,4,290,0.1,1044.0,153.27,Net Banking,2025-08,14.68,1044.0
+SM100737,Diya Pawar,2025-04-30,2025-05-02,Personal Care,Oral Care,Madurai,Tamil Nadu,South,3,370,0.1,999.0,201.2,Net Banking,2025-04,20.14,999.0
+SM100738,Vivaan Sharma,2025-10-26,2025-10-30,Stationery,Pens,Hubballi,Karnataka,South,3,145,0.2,348.0,39.87,UPI,2025-10,11.46,348.0
+SM100739,Riya More,2025-08-06,2025-08-10,Household,Kitchen,Mangaluru,Karnataka,South,2,615,0.1,1107.0,217.68,Net Banking,2025-08,19.66,1107.0
+SM100740,Pooja Verma,2025-07-22,2025-07-26,Stationery,Office Supplies,Durgapur,West Bengal,East,7,995,0.15,5920.25,816.16,Credit Card,2025-07,13.79,5920.25
+SM100741,Amit Sharma,2025-03-15,2025-03-20,Stationery,Office Supplies,New Delhi,Delhi,North,8,155,0.15,1054.0,70.07,Credit Card,2025-03,6.65,1054.0
+SM100742,Pooja Sharma,2025-08-22,2025-08-27,Household,Storage,Ahmedabad,Gujarat,West,6,1670,0.0,10020.0,1683.47,UPI,2025-08,16.8,10020.0
+SM100743,Meera Joshi,2025-07-09,2025-07-12,Food,Staples,New Delhi,Delhi,North,3,145,0.05,413.25,50.37,Cash,2025-07,12.19,413.25
+SM100744,Arjun Deshmukh,2025-01-15,2025-01-18,Household,Storage,Kolkata,West Bengal,East,7,200,0.05,1330.0,236.94,Cash,2025-01,17.82,1330.0
+SM100745,Riya Singh,2025-01-02,2025-01-05,Personal Care,Skin Care,Nashik,Maharashtra,West,1,560,0.1,504.0,104.8,Debit Card,2025-01,20.79,504.0
+SM100746,Aditya Verma,2025-07-13,2025-07-17,Household,Storage,Surat,Gujarat,West,8,1400,0.15,9520.0,1088.67,Debit Card,2025-07,11.44,9520.0
+SM100747,Rohan Kadam,2025-02-15,2025-02-19,Stationery,Pens,Durgapur,West Bengal,East,7,75,0.0,525.0,96.95,UPI,2025-02,18.47,525.0
+SM100748,Neha More,2025-03-26,2025-03-28,Personal Care,Oral Care,Hyderabad,Telangana,South,2,340,0.0,680.0,150.36,Net Banking,2025-03,22.11,680.0
+SM100749,Aarav Joshi,2025-01-28,2025-01-30,Stationery,Office Supplies,New Delhi,Delhi,North,1,145,0.1,130.5,15.62,Credit Card,2025-01,11.97,130.5
+SM100750,Aarav Pawar,2025-05-06,2025-05-10,Food,Staples,Durgapur,West Bengal,East,6,355,0.0,2130.0,265.9,Cash,2025-05,12.48,2130.0
+SM100751,Ishita Joshi,2025-04-03,2025-04-08,Personal Care,Hair Care,Ahmedabad,Gujarat,West,5,165,0.0,825.0,178.96,Credit Card,2025-04,21.69,825.0
+SM100752,Rahul Deshmukh,2025-04-04,2025-04-09,Household,Kitchen,Chennai,Tamil Nadu,South,7,1050,0.0,7350.0,1221.63,UPI,2025-04,16.62,7350.0
+SM100753,Karan Verma,2025-01-30,2025-02-02,Food,Bakery,Salem,Tamil Nadu,South,3,140,0.05,399.0,45.13,UPI,2025-01,11.31,399.0
+SM100754,Rahul Singh,2025-01-27,2025-01-28,Household,Kitchen,Mysuru,Karnataka,South,7,1430,0.05,9509.5,1938.43,Net Banking,2025-01,20.38,9509.5
+SM100755,Priya Jadhav,2025-07-28,2025-07-31,Food,Dairy,Nagpur,Maharashtra,West,4,460,0.0,1840.0,250.73,UPI,2025-07,13.63,1840.0
+SM100756,Arjun Bhosale,2025-05-07,2025-05-12,Personal Care,Oral Care,Kolkata,West Bengal,East,7,250,0.2,1400.0,302.13,Credit Card,2025-05,21.58,1400.0
+SM100757,Anaya Patil,2025-07-11,2025-07-15,Household,Storage,New Delhi,Delhi,North,7,1735,0.1,10930.5,1829.03,Cash,2025-07,16.73,10930.5
+SM100758,Sneha Verma,2025-11-14,2025-11-18,Food,Snacks,Coimbatore,Tamil Nadu,South,8,125,0.05,950.0,135.01,Credit Card,2025-11,14.21,950.0
+SM100759,Aditya Naik,2025-10-27,2025-10-28,Food,Beverages,Durgapur,West Bengal,East,2,170,0.08,312.8,32.07,Net Banking,2025-10,10.25,312.8
+SM100760,Rohan Kulkarni,2025-05-24,2025-05-28,Personal Care,Oral Care,Surat,Gujarat,West,6,335,0.2,1608.0,269.35,Debit Card,2025-05,16.75,1608.0
+SM100761,Nisha Patil,2025-06-24,2025-06-29,Personal Care,Skin Care,Mangaluru,Karnataka,South,3,810,0.0,2430.0,548.23,UPI,2025-06,22.56,2430.0
+SM100762,Priya Patil,2025-12-11,2025-12-12,Stationery,Notebooks,Mangaluru,Karnataka,South,2,285,0.15,484.5,55.98,Cash,2025-12,11.55,484.5
+SM100763,Diya Singh,2025-12-11,2025-12-12,Stationery,Office Supplies,Kolhapur,Maharashtra,West,6,405,0.2,1944.0,299.38,Debit Card,2025-12,15.4,1944.0
+SM100764,Arjun Sharma,2025-04-09,2025-04-12,Household,Storage,Ahmedabad,Gujarat,West,1,1395,0.15,1185.75,154.26,Net Banking,2025-04,13.01,1185.75
+SM100765,Arjun Patil,2025-11-17,2025-11-22,Household,Kitchen,Coimbatore,Tamil Nadu,South,6,150,0.08,828.0,159.58,Credit Card,2025-11,19.27,828.0
+SM100766,Neha Jadhav,2025-11-23,2025-11-28,Personal Care,Oral Care,Ahmedabad,Gujarat,West,8,125,0.02,980.0,209.15,Credit Card,2025-11,21.34,980.0
+SM100767,Amit Naik,2025-02-03,2025-02-05,Food,Beverages,New Delhi,Delhi,North,5,425,0.2,1700.0,117.51,Debit Card,2025-02,6.91,1700.0
+SM100768,Rahul Gupta,2025-04-09,2025-04-10,Personal Care,Oral Care,Kolkata,West Bengal,East,8,50,0.08,368.0,91.36,Cash,2025-04,24.83,368.0
+SM100769,Anaya Joshi,2025-05-21,2025-05-23,Stationery,Notebooks,Nashik,Maharashtra,West,6,200,0.0,1200.0,197.19,Cash,2025-05,16.43,1200.0
+SM100770,Saanvi Naik,2025-09-30,2025-10-01,Food,Dairy,Vadodara,Gujarat,West,4,195,0.1,702.0,112.54,Cash,2025-09,16.03,702.0
+SM100771,Aarav Singh,2025-02-08,2025-02-09,Household,Kitchen,Mysuru,Karnataka,South,5,190,0.15,807.5,121.28,Cash,2025-02,15.02,807.5
+SM100772,Rahul More,2025-01-13,2025-01-14,Personal Care,Skin Care,New Delhi,Delhi,North,2,620,0.05,1178.0,239.65,Credit Card,2025-01,20.34,1178.0
+SM100773,Karan Pawar,2025-02-07,2025-02-08,Food,Dairy,Durgapur,West Bengal,East,2,80,0.0,160.0,28.13,UPI,2025-02,17.58,160.0
+SM100774,Priya Patil,2025-03-07,2025-03-08,Food,Bakery,Nagpur,Maharashtra,West,7,50,0.15,297.5,34.75,Debit Card,2025-03,11.68,297.5
+SM100775,Neha Jadhav,2025-07-15,2025-07-19,Stationery,Pens,Ahmedabad,Gujarat,West,1,95,0.08,87.4,14.45,UPI,2025-07,16.53,87.4
+SM100776,Aarav Jadhav,2025-06-23,2025-06-24,Stationery,Office Supplies,Hyderabad,Telangana,South,6,600,0.0,3600.0,506.68,UPI,2025-06,14.07,3600.0
+SM100777,Vikram Deshmukh,2025-10-31,2025-11-05,Household,Storage,Kolkata,West Bengal,East,5,715,0.08,3289.0,479.61,Credit Card,2025-10,14.58,3289.0
+SM100778,Meera Jadhav,2025-03-12,2025-03-15,Food,Beverages,Kolkata,West Bengal,East,5,285,0.1,1282.5,139.55,Net Banking,2025-03,10.88,1282.5
+SM100779,Riya Kadam,2025-03-16,2025-03-21,Personal Care,Oral Care,Mangaluru,Karnataka,South,6,180,0.0,1080.0,257.19,Credit Card,2025-03,23.81,1080.0
+SM100780,Vivaan Pawar,2025-01-30,2025-02-01,Stationery,Notebooks,Bengaluru,Karnataka,South,4,345,0.15,1173.0,150.16,Credit Card,2025-01,12.8,1173.0
+SM100781,Ishita Sharma,2025-12-08,2025-12-11,Personal Care,Oral Care,Rajkot,Gujarat,West,6,325,0.08,1794.0,373.95,Cash,2025-12,20.84,1794.0
+SM100782,Nisha Naik,2025-01-22,2025-01-24,Food,Beverages,Surat,Gujarat,West,4,235,0.02,921.2,108.35,Debit Card,2025-01,11.76,921.2
+SM100783,Priya Sharma,2025-07-12,2025-07-13,Household,Cleaning,Mangaluru,Karnataka,South,6,90,0.05,513.0,95.93,Credit Card,2025-07,18.7,513.0
+SM100784,Saanvi Shah,2025-05-29,2025-05-31,Personal Care,Skin Care,Surat,Gujarat,West,1,320,0.05,304.0,70.76,Debit Card,2025-05,23.28,304.0
+SM100785,Aarav Verma,2025-03-31,2025-04-01,Household,Cleaning,Coimbatore,Tamil Nadu,South,1,225,0.05,213.75,40.93,Credit Card,2025-03,19.15,213.75
+SM100786,Ishita More,2025-07-14,2025-07-17,Personal Care,Skin Care,Hyderabad,Telangana,South,5,600,0.05,2850.0,696.88,Net Banking,2025-07,24.45,2850.0
+SM100787,Karan Naik,2025-08-11,2025-08-16,Food,Beverages,Hyderabad,Telangana,South,3,370,0.02,1087.8,186.94,Debit Card,2025-08,17.19,1087.8
+SM100788,Rahul Kulkarni,2025-06-12,2025-06-14,Household,Cleaning,New Delhi,Delhi,North,4,780,0.05,2964.0,560.14,UPI,2025-06,18.9,2964.0
+SM100789,Neha Sharma,2025-11-19,2025-11-23,Household,Storage,Durgapur,West Bengal,East,8,470,0.0,3760.0,745.4,Credit Card,2025-11,19.82,3760.0
+SM100790,Amit Naik,2025-09-18,2025-09-21,Stationery,Office Supplies,Vadodara,Gujarat,West,8,205,0.15,1394.0,98.94,Cash,2025-09,7.1,1394.0
+SM100791,Saanvi Gupta,2025-09-11,2025-09-15,Stationery,Office Supplies,Vadodara,Gujarat,West,1,230,0.02,225.4,40.96,Credit Card,2025-09,18.17,225.4
+SM100792,Meera Singh,2025-06-06,2025-06-07,Household,Kitchen,Rajkot,Gujarat,West,5,870,0.02,4263.0,836.37,Net Banking,2025-06,19.62,4263.0
+SM100793,Pooja Pawar,2025-06-30,2025-07-04,Stationery,Office Supplies,Bengaluru,Karnataka,South,6,445,0.08,2456.4,370.4,Cash,2025-06,15.08,2456.4
+SM100794,Sneha Shah,2025-06-12,2025-06-13,Food,Beverages,Salem,Tamil Nadu,South,8,145,0.15,986.0,59.73,UPI,2025-06,6.06,986.0
+SM100795,Priya Kulkarni,2025-05-31,2025-06-01,Personal Care,Skin Care,Kolkata,West Bengal,East,2,230,0.05,437.0,83.24,Debit Card,2025-05,19.05,437.0
+SM100796,Priya Shah,2025-04-11,2025-04-13,Personal Care,Hair Care,Warangal,Telangana,South,5,255,0.1,1147.5,253.97,Debit Card,2025-04,22.13,1147.5
+SM100797,Aarav Singh,2025-01-05,2025-01-10,Personal Care,Hair Care,Durgapur,West Bengal,East,7,950,0.2,5320.0,792.74,Net Banking,2025-01,14.9,5320.0
+SM100798,Priya Bhosale,2025-03-18,2025-03-23,Household,Cleaning,Durgapur,West Bengal,East,4,470,0.1,1692.0,291.09,Cash,2025-03,17.2,1692.0
+SM100799,Arjun Singh,2025-08-25,2025-08-29,Personal Care,Skin Care,Chennai,Tamil Nadu,South,7,945,0.15,5622.75,973.91,Cash,2025-08,17.32,5622.75
+SM100800,Nisha Bhosale,2025-10-13,2025-10-14,Household,Storage,Kolhapur,Maharashtra,West,3,635,0.15,1619.25,215.76,Debit Card,2025-10,13.32,1619.25
+SM100801,Meera Pawar,2025-06-23,2025-06-28,Stationery,Office Supplies,Mangaluru,Karnataka,South,7,770,0.15,4581.5,622.89,Net Banking,2025-06,13.6,4581.5
+SM100802,Neha Jadhav,2025-01-12,2025-01-17,Household,Cleaning,New Delhi,Delhi,North,6,545,0.2,2616.0,254.01,Cash,2025-01,9.71,2616.0
+SM100803,Riya Singh,2025-07-15,2025-07-18,Food,Staples,Mangaluru,Karnataka,South,7,200,0.0,1400.0,227.36,Debit Card,2025-07,16.24,1400.0
+SM100804,Karan Joshi,2025-02-17,2025-02-18,Household,Cleaning,Bengaluru,Karnataka,South,8,100,0.02,784.0,140.68,Credit Card,2025-02,17.94,784.0
+SM100805,Pooja Gupta,2025-04-30,2025-05-03,Stationery,Pens,Chennai,Tamil Nadu,South,6,110,0.02,646.8,103.58,Credit Card,2025-04,16.01,646.8
+SM100806,Aditya Verma,2025-02-26,2025-02-28,Stationery,Office Supplies,Mangaluru,Karnataka,South,2,405,0.2,648.0,53.31,Credit Card,2025-02,8.23,648.0
+SM100807,Rohan Kulkarni,2025-06-08,2025-06-12,Household,Storage,Rajkot,Gujarat,West,5,1105,0.1,4972.5,798.35,UPI,2025-06,16.06,4972.5
+SM100808,Vikram Singh,2025-03-15,2025-03-19,Stationery,Office Supplies,Ahmedabad,Gujarat,West,4,540,0.1,1944.0,239.17,Net Banking,2025-03,12.3,1944.0
+SM100809,Karan Jadhav,2025-01-21,2025-01-24,Personal Care,Oral Care,Hyderabad,Telangana,South,8,205,0.2,1312.0,237.99,Credit Card,2025-01,18.14,1312.0
+SM100810,Diya Gupta,2025-08-01,2025-08-06,Stationery,Notebooks,Mysuru,Karnataka,South,7,320,0.02,2195.2,326.28,UPI,2025-08,14.86,2195.2
+SM100811,Nisha Gupta,2025-05-03,2025-05-05,Personal Care,Oral Care,Kolkata,West Bengal,East,5,350,0.0,1750.0,411.82,Net Banking,2025-05,23.53,1750.0
+SM100812,Arjun More,2025-03-04,2025-03-07,Food,Staples,Chennai,Tamil Nadu,South,6,365,0.02,2146.2,300.48,UPI,2025-03,14.0,2146.2
+SM100813,Karan Patil,2025-08-25,2025-08-27,Stationery,Notebooks,Mumbai,Maharashtra,West,6,270,0.2,1296.0,163.52,UPI,2025-08,12.62,1296.0
+SM100814,Priya Kadam,2025-05-09,2025-05-10,Personal Care,Oral Care,Pune,Maharashtra,West,8,270,0.0,2160.0,529.01,Credit Card,2025-05,24.49,2160.0
+SM100815,Ishita Joshi,2025-08-13,2025-08-14,Personal Care,Skin Care,Mangaluru,Karnataka,South,3,1020,0.1,2754.0,608.07,UPI,2025-08,22.08,2754.0
+SM100816,Sneha Deshmukh,2025-10-01,2025-10-05,Household,Cleaning,Warangal,Telangana,South,1,635,0.02,622.3,95.75,Credit Card,2025-10,15.39,622.3
+SM100817,Diya Gupta,2025-01-18,2025-01-23,Stationery,Office Supplies,Hyderabad,Telangana,South,1,840,0.2,672.0,64.97,Debit Card,2025-01,9.67,672.0
+SM100818,Saanvi Kulkarni,2025-08-16,2025-08-19,Food,Snacks,Nashik,Maharashtra,West,7,280,0.02,1920.8,332.76,UPI,2025-08,17.32,1920.8
+SM100819,Diya Bhosale,2025-01-09,2025-01-11,Food,Bakery,Ahmedabad,Gujarat,West,4,215,0.0,860.0,139.37,Credit Card,2025-01,16.21,860.0
+SM100820,Arjun Shah,2025-03-27,2025-04-01,Food,Bakery,Nagpur,Maharashtra,West,6,180,0.02,1058.4,188.01,Net Banking,2025-03,17.76,1058.4
+SM100821,Karan Kadam,2025-07-22,2025-07-23,Household,Cleaning,Ahmedabad,Gujarat,West,2,370,0.02,725.2,129.13,Debit Card,2025-07,17.81,725.2
+SM100822,Sneha Patil,2025-01-07,2025-01-12,Stationery,Pens,Surat,Gujarat,West,2,135,0.05,256.5,49.44,UPI,2025-01,19.27,256.5
+SM100823,Rahul Kadam,2025-04-22,2025-04-27,Stationery,Pens,Vadodara,Gujarat,West,3,60,0.0,180.0,42.75,Cash,2025-04,23.75,180.0
+SM100824,Vivaan Pawar,2025-12-14,2025-12-18,Personal Care,Skin Care,Kolkata,West Bengal,East,6,1175,0.15,5992.5,979.35,UPI,2025-12,16.34,5992.5
+SM100825,Saanvi Patil,2025-11-08,2025-11-09,Stationery,Office Supplies,New Delhi,Delhi,North,4,520,0.15,1768.0,179.21,Net Banking,2025-11,10.14,1768.0
+SM100826,Meera Kulkarni,2025-03-05,2025-03-09,Stationery,Pens,Coimbatore,Tamil Nadu,South,2,20,0.05,38.0,10.35,Credit Card,2025-03,27.24,38.0
+SM100827,Rohan Pawar,2025-07-12,2025-07-14,Household,Storage,Bengaluru,Karnataka,South,8,1360,0.05,10336.0,2242.8,UPI,2025-07,21.7,10336.0
+SM100828,Saanvi Kulkarni,2025-09-24,2025-09-27,Personal Care,Skin Care,Durgapur,West Bengal,East,4,1030,0.05,3914.0,800.13,Net Banking,2025-09,20.44,3914.0
+SM100829,Aarav Sharma,2025-01-28,2025-02-01,Household,Storage,Hyderabad,Telangana,South,7,995,0.02,6825.7,1232.01,Cash,2025-01,18.05,6825.7
+SM100830,Arjun Kulkarni,2025-02-05,2025-02-10,Household,Cleaning,Bengaluru,Karnataka,South,3,155,0.1,418.5,61.92,Net Banking,2025-02,14.8,418.5
+SM100831,Saanvi Joshi,2025-02-10,2025-02-15,Personal Care,Skin Care,Rajkot,Gujarat,West,4,370,0.02,1450.4,286.29,Debit Card,2025-02,19.74,1450.4
+SM100832,Karan Deshmukh,2025-10-23,2025-10-27,Personal Care,Hair Care,Surat,Gujarat,West,2,955,0.05,1814.5,352.98,Cash,2025-10,19.45,1814.5
+SM100833,Meera Jadhav,2025-08-14,2025-08-15,Household,Kitchen,Rajkot,Gujarat,West,1,1165,0.08,1071.8,148.87,Net Banking,2025-08,13.89,1071.8
+SM100834,Priya Jadhav,2025-03-20,2025-03-24,Personal Care,Hair Care,New Delhi,Delhi,North,8,360,0.05,2736.0,542.56,Cash,2025-03,19.83,2736.0
+SM100835,Amit Naik,2025-02-06,2025-02-07,Stationery,Pens,Coimbatore,Tamil Nadu,South,3,185,0.0,555.0,99.42,Debit Card,2025-02,17.91,555.0
+SM100836,Vivaan Gupta,2025-09-09,2025-09-14,Stationery,Office Supplies,Rajkot,Gujarat,West,6,405,0.05,2308.5,377.11,UPI,2025-09,16.34,2308.5
+SM100837,Amit Naik,2025-03-05,2025-03-08,Household,Kitchen,Surat,Gujarat,West,5,1180,0.2,4720.0,702.16,Cash,2025-03,14.88,4720.0
+SM100838,Anaya Shah,2025-11-22,2025-11-26,Food,Dairy,Warangal,Telangana,South,7,380,0.02,2606.8,328.56,Debit Card,2025-11,12.6,2606.8
+SM100839,Saanvi Jadhav,2025-11-20,2025-11-23,Household,Kitchen,Hyderabad,Telangana,South,8,1420,0.02,11132.8,2400.32,Net Banking,2025-11,21.56,11132.8
+SM100840,Riya Shah,2025-12-06,2025-12-10,Food,Snacks,Kolkata,West Bengal,East,2,240,0.08,441.6,52.4,UPI,2025-12,11.87,441.6
+SM100841,Karan Jadhav,2025-09-23,2025-09-28,Household,Kitchen,Mangaluru,Karnataka,South,5,1070,0.1,4815.0,740.37,Debit Card,2025-09,15.38,4815.0
+SM100842,Karan Naik,2025-07-30,2025-08-01,Food,Staples,Kolkata,West Bengal,East,6,665,0.05,3790.5,585.14,Debit Card,2025-07,15.44,3790.5
+SM100843,Pooja Kadam,2025-01-04,2025-01-09,Food,Snacks,Mangaluru,Karnataka,South,2,280,0.08,515.2,49.42,Debit Card,2025-01,9.59,515.2
+SM100844,Diya Singh,2025-08-09,2025-08-14,Personal Care,Skin Care,Mysuru,Karnataka,South,3,320,0.02,940.8,226.32,Net Banking,2025-08,24.06,940.8
+SM100845,Vikram Kadam,2025-04-19,2025-04-23,Food,Beverages,Mysuru,Karnataka,South,4,155,0.2,496.0,36.78,Net Banking,2025-04,7.42,496.0
+SM100846,Rahul Patil,2025-02-25,2025-02-26,Food,Bakery,Kolkata,West Bengal,East,2,130,0.05,247.0,37.0,Net Banking,2025-02,14.98,247.0
+SM100847,Anaya Sharma,2025-05-01,2025-05-06,Food,Snacks,Rajkot,Gujarat,West,1,120,0.0,120.0,20.07,Credit Card,2025-05,16.73,120.0
+SM100848,Neha Gupta,2025-09-25,2025-09-28,Stationery,Office Supplies,Kolkata,West Bengal,East,5,935,0.08,4301.0,883.35,Debit Card,2025-09,20.54,4301.0
+SM100849,Anaya Pawar,2025-07-09,2025-07-14,Personal Care,Skin Care,Warangal,Telangana,South,6,830,0.08,4581.6,861.6,Debit Card,2025-07,18.81,4581.6
+SM100850,Rohan Naik,2025-02-21,2025-02-26,Stationery,Office Supplies,Nagpur,Maharashtra,West,3,55,0.0,165.0,27.51,Credit Card,2025-02,16.67,165.0
+SM100851,Aarav Kadam,2025-07-08,2025-07-11,Stationery,Office Supplies,Rajkot,Gujarat,West,4,35,0.15,119.0,11.52,Debit Card,2025-07,9.68,119.0
+SM100852,Sneha Gupta,2025-01-24,2025-01-25,Stationery,Pens,Durgapur,West Bengal,East,8,85,0.1,612.0,74.12,Cash,2025-01,12.11,612.0
+SM100853,Riya Bhosale,2025-12-04,2025-12-09,Stationery,Notebooks,Kolkata,West Bengal,East,4,260,0.2,832.0,61.62,Net Banking,2025-12,7.41,832.0
+SM100854,Nisha Kadam,2025-01-17,2025-01-18,Food,Bakery,Mangaluru,Karnataka,South,8,75,0.08,552.0,84.86,Net Banking,2025-01,15.37,552.0
+SM100855,Ishita Shah,2025-05-04,2025-05-05,Household,Storage,Mysuru,Karnataka,South,2,295,0.15,501.5,84.26,Debit Card,2025-05,16.8,501.5
+SM100856,Aditya Shah,2025-07-16,2025-07-17,Household,Storage,Durgapur,West Bengal,East,5,1240,0.15,5270.0,623.08,Net Banking,2025-07,11.82,5270.0
+SM100857,Vivaan Kadam,2025-11-21,2025-11-26,Food,Bakery,Warangal,Telangana,South,4,280,0.2,896.0,44.08,Debit Card,2025-11,4.92,896.0
+SM100858,Diya Sharma,2025-07-13,2025-07-14,Stationery,Pens,Warangal,Telangana,South,4,60,0.05,228.0,38.6,Debit Card,2025-07,16.93,228.0
+SM100859,Meera Patil,2025-10-31,2025-11-01,Personal Care,Skin Care,Bengaluru,Karnataka,South,6,1150,0.1,6210.0,1125.22,Net Banking,2025-10,18.12,6210.0
+SM100860,Amit Kadam,2025-10-02,2025-10-04,Stationery,Notebooks,Mangaluru,Karnataka,South,6,285,0.2,1368.0,144.77,Net Banking,2025-10,10.58,1368.0
+SM100861,Saanvi Singh,2025-10-30,2025-11-02,Stationery,Pens,Bengaluru,Karnataka,South,8,70,0.2,448.0,42.59,Cash,2025-10,9.51,448.0
+SM100862,Diya Joshi,2025-03-17,2025-03-22,Household,Storage,New Delhi,Delhi,North,1,1125,0.05,1068.75,149.2,Net Banking,2025-03,13.96,1068.75
+SM100863,Aditya Verma,2025-09-02,2025-09-05,Stationery,Notebooks,Hyderabad,Telangana,South,7,60,0.2,336.0,43.24,Credit Card,2025-09,12.87,336.0
+SM100864,Aarav More,2025-04-26,2025-04-28,Household,Kitchen,Hyderabad,Telangana,South,7,520,0.2,2912.0,451.06,Cash,2025-04,15.49,2912.0
+SM100865,Meera Naik,2025-06-22,2025-06-25,Personal Care,Hair Care,Rajkot,Gujarat,West,7,145,0.15,862.75,135.61,Credit Card,2025-06,15.72,862.75
+SM100866,Meera Singh,2025-12-25,2025-12-26,Food,Beverages,Durgapur,West Bengal,East,6,350,0.1,1890.0,199.03,Credit Card,2025-12,10.53,1890.0
+SM100867,Aarav Pawar,2025-10-23,2025-10-25,Stationery,Notebooks,Mangaluru,Karnataka,South,3,105,0.2,252.0,24.48,Net Banking,2025-10,9.71,252.0
+SM100868,Nisha Deshmukh,2025-02-22,2025-02-25,Stationery,Notebooks,Hyderabad,Telangana,South,3,325,0.0,975.0,183.65,UPI,2025-02,18.84,975.0
+SM100869,Karan Singh,2025-03-02,2025-03-04,Stationery,Pens,New Delhi,Delhi,North,7,55,0.0,385.0,75.64,Debit Card,2025-03,19.65,385.0
+SM100870,Rohan Kadam,2025-12-19,2025-12-23,Stationery,Office Supplies,New Delhi,Delhi,North,2,785,0.2,1256.0,176.16,Cash,2025-12,14.03,1256.0
+SM100871,Saanvi Patil,2025-07-08,2025-07-13,Food,Snacks,Mumbai,Maharashtra,West,2,190,0.15,323.0,28.45,Net Banking,2025-07,8.81,323.0
+SM100872,Nisha Kadam,2025-10-21,2025-10-25,Personal Care,Oral Care,New Delhi,Delhi,North,2,405,0.02,793.8,167.53,Cash,2025-10,21.1,793.8
+SM100873,Ishita Gupta,2025-06-02,2025-06-07,Food,Bakery,New Delhi,Delhi,North,2,225,0.2,360.0,12.79,UPI,2025-06,3.55,360.0
+SM100874,Ishita Verma,2025-07-21,2025-07-22,Food,Staples,New Delhi,Delhi,North,2,620,0.02,1215.2,161.29,Net Banking,2025-07,13.27,1215.2
+SM100875,Ishita Sharma,2025-12-22,2025-12-24,Stationery,Notebooks,Bengaluru,Karnataka,South,2,50,0.1,90.0,12.05,Net Banking,2025-12,13.39,90.0
+SM100876,Pooja Kadam,2025-05-12,2025-05-14,Food,Snacks,Kolkata,West Bengal,East,5,155,0.1,697.5,111.51,UPI,2025-05,15.99,697.5
+SM100877,Amit Shah,2025-05-08,2025-05-11,Personal Care,Oral Care,Chennai,Tamil Nadu,South,8,115,0.08,846.4,161.71,Debit Card,2025-05,19.11,846.4
+SM100878,Arjun Deshmukh,2025-11-07,2025-11-10,Food,Snacks,New Delhi,Delhi,North,4,50,0.02,196.0,30.69,Net Banking,2025-11,15.66,196.0
+SM100879,Karan Kadam,2025-10-10,2025-10-13,Personal Care,Skin Care,Hubballi,Karnataka,South,7,180,0.05,1197.0,259.86,Credit Card,2025-10,21.71,1197.0
+SM100880,Arjun Sharma,2025-07-24,2025-07-29,Personal Care,Oral Care,Ahmedabad,Gujarat,West,7,475,0.02,3258.5,849.52,Debit Card,2025-07,26.07,3258.5
+SM100881,Pooja Gupta,2025-11-21,2025-11-24,Personal Care,Oral Care,Hyderabad,Telangana,South,3,240,0.02,705.6,207.57,UPI,2025-11,29.42,705.6
+SM100882,Rahul Kadam,2025-11-06,2025-11-07,Personal Care,Skin Care,Bengaluru,Karnataka,South,2,850,0.08,1564.0,298.3,UPI,2025-11,19.07,1564.0
+SM100883,Karan Sharma,2025-07-05,2025-07-07,Household,Cleaning,Madurai,Tamil Nadu,South,5,90,0.08,414.0,62.83,UPI,2025-07,15.18,414.0
+SM100884,Priya Joshi,2025-03-31,2025-04-03,Stationery,Pens,New Delhi,Delhi,North,6,145,0.2,696.0,80.81,Net Banking,2025-03,11.61,696.0
+SM100885,Priya Jadhav,2025-02-20,2025-02-25,Personal Care,Hair Care,Pune,Maharashtra,West,3,400,0.15,1020.0,193.34,Cash,2025-02,18.95,1020.0
+SM100886,Riya Naik,2025-09-02,2025-09-06,Personal Care,Skin Care,New Delhi,Delhi,North,3,825,0.02,2425.5,672.27,Debit Card,2025-09,27.72,2425.5
+SM100887,Sneha Bhosale,2025-01-28,2025-02-01,Household,Storage,Warangal,Telangana,South,7,1305,0.02,8952.3,1840.58,Cash,2025-01,20.56,8952.3
+SM100888,Meera Gupta,2025-09-15,2025-09-16,Stationery,Office Supplies,Madurai,Tamil Nadu,South,4,325,0.2,1040.0,84.26,Debit Card,2025-09,8.1,1040.0
+SM100889,Meera More,2025-02-16,2025-02-17,Food,Beverages,Hyderabad,Telangana,South,2,115,0.0,230.0,40.2,Cash,2025-02,17.48,230.0
+SM100890,Aarav Naik,2025-01-06,2025-01-08,Stationery,Notebooks,Surat,Gujarat,West,2,165,0.1,297.0,48.33,Cash,2025-01,16.27,297.0
+SM100891,Saanvi Deshmukh,2025-12-26,2025-12-31,Household,Storage,New Delhi,Delhi,North,1,1140,0.02,1117.2,236.3,UPI,2025-12,21.15,1117.2
+SM100892,Diya Pawar,2025-07-07,2025-07-10,Personal Care,Skin Care,Kolkata,West Bengal,East,7,645,0.02,4424.7,1078.22,Credit Card,2025-07,24.37,4424.7
+SM100893,Riya Gupta,2025-10-04,2025-10-05,Personal Care,Hair Care,Kolkata,West Bengal,East,8,350,0.02,2744.0,707.04,Credit Card,2025-10,25.77,2744.0
+SM100894,Vikram Pawar,2025-06-06,2025-06-11,Stationery,Office Supplies,Hyderabad,Telangana,South,8,85,0.0,680.0,142.28,Debit Card,2025-06,20.92,680.0
+SM100895,Pooja Singh,2025-07-01,2025-07-02,Personal Care,Oral Care,Mumbai,Maharashtra,West,3,230,0.0,690.0,189.44,Credit Card,2025-07,27.46,690.0
+SM100896,Saanvi Singh,2025-02-13,2025-02-16,Stationery,Pens,New Delhi,Delhi,North,8,10,0.2,64.0,7.71,Cash,2025-02,12.05,64.0
+SM100897,Ishita Deshmukh,2025-07-11,2025-07-15,Stationery,Pens,Madurai,Tamil Nadu,South,5,30,0.08,138.0,19.3,Debit Card,2025-07,13.99,138.0
+SM100898,Pooja Naik,2025-08-11,2025-08-15,Household,Cleaning,Kolhapur,Maharashtra,West,4,315,0.02,1234.8,240.38,Debit Card,2025-08,19.47,1234.8
+SM100899,Nisha Bhosale,2025-01-17,2025-01-22,Stationery,Office Supplies,Mysuru,Karnataka,South,5,145,0.08,667.0,116.17,Credit Card,2025-01,17.42,667.0
+SM100900,Aditya Deshmukh,2025-06-16,2025-06-17,Stationery,Pens,Durgapur,West Bengal,East,2,190,0.2,304.0,21.15,Debit Card,2025-06,6.96,304.0
+SM100901,Pooja Singh,2025-09-14,2025-09-15,Food,Bakery,Pune,Maharashtra,West,7,295,0.15,1755.25,178.54,Debit Card,2025-09,10.17,1755.25
+SM100902,Rohan Bhosale,2025-05-25,2025-05-27,Stationery,Pens,Ahmedabad,Gujarat,West,3,150,0.02,441.0,71.07,UPI,2025-05,16.12,441.0
+SM100903,Amit Jadhav,2025-05-15,2025-05-16,Stationery,Pens,Hyderabad,Telangana,South,8,145,0.2,928.0,84.19,Credit Card,2025-05,9.07,928.0
+SM100904,Aditya Gupta,2025-04-07,2025-04-09,Household,Cleaning,Kolkata,West Bengal,East,3,410,0.05,1168.5,244.76,UPI,2025-04,20.95,1168.5
+SM100905,Saanvi Pawar,2025-11-12,2025-11-14,Food,Dairy,Bengaluru,Karnataka,South,7,280,0.15,1666.0,162.06,Cash,2025-11,9.73,1666.0
+SM100906,Rohan Pawar,2025-09-03,2025-09-06,Stationery,Office Supplies,Nashik,Maharashtra,West,1,325,0.05,308.75,48.99,Cash,2025-09,15.87,308.75
+SM100907,Arjun Joshi,2025-05-07,2025-05-10,Household,Cleaning,Chennai,Tamil Nadu,South,1,125,0.15,106.25,10.0,Cash,2025-05,9.41,106.25
+SM100908,Meera Sharma,2025-05-24,2025-05-27,Stationery,Pens,New Delhi,Delhi,North,5,190,0.05,902.5,158.98,UPI,2025-05,17.62,902.5
+SM100909,Amit Jadhav,2025-12-09,2025-12-14,Household,Kitchen,Nashik,Maharashtra,West,6,1140,0.05,6498.0,1258.25,Debit Card,2025-12,19.36,6498.0
+SM100910,Neha Sharma,2025-05-02,2025-05-04,Household,Storage,Warangal,Telangana,South,7,265,0.0,1855.0,471.32,UPI,2025-05,25.41,1855.0
+SM100911,Neha Pawar,2025-10-28,2025-11-02,Household,Storage,Hyderabad,Telangana,South,8,1675,0.0,13400.0,2576.89,Debit Card,2025-10,19.23,13400.0
+SM100912,Priya Pawar,2025-08-31,2025-09-03,Household,Cleaning,Kolkata,West Bengal,East,3,235,0.1,634.5,101.82,Debit Card,2025-08,16.05,634.5
+SM100913,Ishita Jadhav,2025-08-18,2025-08-19,Stationery,Pens,Hyderabad,Telangana,South,8,90,0.1,648.0,91.52,Debit Card,2025-08,14.12,648.0
+SM100914,Karan Singh,2025-12-23,2025-12-25,Food,Staples,Hubballi,Karnataka,South,1,650,0.15,552.5,72.89,Net Banking,2025-12,13.19,552.5
+SM100915,Neha Joshi,2025-09-20,2025-09-24,Stationery,Office Supplies,Pune,Maharashtra,West,7,575,0.08,3703.0,524.41,Credit Card,2025-09,14.16,3703.0
+SM100916,Vikram More,2025-04-05,2025-04-10,Household,Storage,Pune,Maharashtra,West,1,1595,0.2,1276.0,149.26,Net Banking,2025-04,11.7,1276.0
+SM100917,Anaya More,2025-05-13,2025-05-15,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,5,300,0.02,1470.0,361.91,Credit Card,2025-05,24.62,1470.0
+SM100918,Arjun More,2025-05-30,2025-06-01,Personal Care,Skin Care,Pune,Maharashtra,West,5,1060,0.0,5300.0,1296.73,UPI,2025-05,24.47,5300.0
+SM100919,Aditya Gupta,2025-01-01,2025-01-04,Personal Care,Hair Care,Warangal,Telangana,South,2,950,0.1,1710.0,314.36,Net Banking,2025-01,18.38,1710.0
+SM100920,Rohan Patil,2025-05-31,2025-06-02,Food,Bakery,Chennai,Tamil Nadu,South,4,225,0.05,855.0,121.71,Net Banking,2025-05,14.24,855.0
+SM100921,Priya Kulkarni,2025-12-03,2025-12-08,Stationery,Office Supplies,Kolkata,West Bengal,East,5,875,0.15,3718.75,518.17,Cash,2025-12,13.93,3718.75
+SM100922,Sneha Deshmukh,2025-04-23,2025-04-27,Household,Storage,Madurai,Tamil Nadu,South,7,380,0.02,2606.8,431.0,Cash,2025-04,16.53,2606.8
+SM100923,Meera Patil,2025-02-17,2025-02-19,Stationery,Pens,Surat,Gujarat,West,3,45,0.08,124.2,18.3,Debit Card,2025-02,14.73,124.2
+SM100924,Karan Sharma,2025-03-25,2025-03-29,Household,Cleaning,Mangaluru,Karnataka,South,3,140,0.02,411.6,71.41,Net Banking,2025-03,17.35,411.6
+SM100925,Anaya Deshmukh,2025-03-12,2025-03-13,Food,Dairy,Hyderabad,Telangana,South,7,50,0.2,280.0,27.97,Credit Card,2025-03,9.99,280.0
+SM100926,Vivaan Kulkarni,2025-02-12,2025-02-15,Food,Snacks,Coimbatore,Tamil Nadu,South,2,210,0.2,336.0,10.73,Credit Card,2025-02,3.19,336.0
+SM100927,Priya Naik,2025-09-03,2025-09-04,Household,Kitchen,Durgapur,West Bengal,East,6,770,0.02,4527.6,801.51,Debit Card,2025-09,17.7,4527.6
+SM100928,Pooja Deshmukh,2025-11-18,2025-11-23,Food,Snacks,New Delhi,Delhi,North,2,210,0.0,420.0,71.16,UPI,2025-11,16.94,420.0
+SM100929,Karan Kadam,2025-04-25,2025-04-27,Stationery,Notebooks,Pune,Maharashtra,West,3,150,0.05,427.5,84.06,UPI,2025-04,19.66,427.5
+SM100930,Diya Pawar,2025-09-09,2025-09-12,Household,Cleaning,Bengaluru,Karnataka,South,5,375,0.1,1687.5,258.79,UPI,2025-09,15.34,1687.5
+SM100931,Aditya Shah,2025-01-23,2025-01-27,Household,Kitchen,New Delhi,Delhi,North,6,940,0.15,4794.0,568.66,Debit Card,2025-01,11.86,4794.0
+SM100932,Rohan Bhosale,2025-11-16,2025-11-19,Personal Care,Skin Care,Durgapur,West Bengal,East,5,1110,0.15,4717.5,1035.63,UPI,2025-11,21.95,4717.5
+SM100933,Vivaan Sharma,2025-01-02,2025-01-06,Household,Kitchen,Kolkata,West Bengal,East,3,645,0.15,1644.75,158.39,Net Banking,2025-01,9.63,1644.75
+SM100934,Sneha Pawar,2025-08-07,2025-08-11,Household,Cleaning,Warangal,Telangana,South,6,895,0.02,5262.6,715.87,Cash,2025-08,13.6,5262.6
+SM100935,Priya More,2025-08-06,2025-08-10,Personal Care,Skin Care,Rajkot,Gujarat,West,4,520,0.1,1872.0,385.63,Cash,2025-08,20.6,1872.0
+SM100936,Vivaan Kulkarni,2025-09-30,2025-10-02,Stationery,Pens,New Delhi,Delhi,North,7,110,0.2,616.0,47.71,Debit Card,2025-09,7.75,616.0
+SM100937,Sneha Pawar,2025-01-02,2025-01-03,Personal Care,Oral Care,Bengaluru,Karnataka,South,8,480,0.0,3840.0,823.56,Credit Card,2025-01,21.45,3840.0
+SM100938,Diya Naik,2025-05-31,2025-06-02,Stationery,Pens,Surat,Gujarat,West,4,165,0.0,660.0,130.49,Credit Card,2025-05,19.77,660.0
+SM100939,Vivaan Singh,2025-07-13,2025-07-18,Stationery,Notebooks,Hyderabad,Telangana,South,1,255,0.15,216.75,25.71,Net Banking,2025-07,11.86,216.75
+SM100940,Pooja Deshmukh,2025-03-22,2025-03-27,Personal Care,Skin Care,Pune,Maharashtra,West,2,370,0.0,740.0,167.16,Credit Card,2025-03,22.59,740.0
+SM100941,Meera Sharma,2025-08-29,2025-08-30,Personal Care,Hair Care,Hyderabad,Telangana,South,7,745,0.08,4797.8,825.19,Credit Card,2025-08,17.2,4797.8
+SM100942,Vikram More,2025-01-31,2025-02-04,Household,Storage,Hyderabad,Telangana,South,3,140,0.2,336.0,44.29,Debit Card,2025-01,13.18,336.0
+SM100943,Karan Deshmukh,2025-10-20,2025-10-25,Household,Kitchen,New Delhi,Delhi,North,3,480,0.0,1440.0,311.41,Credit Card,2025-10,21.63,1440.0
+SM100944,Vivaan Verma,2025-07-25,2025-07-30,Household,Kitchen,New Delhi,Delhi,North,3,1250,0.1,3375.0,514.76,Cash,2025-07,15.25,3375.0
+SM100945,Arjun Joshi,2025-09-02,2025-09-06,Stationery,Pens,Salem,Tamil Nadu,South,1,165,0.15,140.25,22.25,UPI,2025-09,15.86,140.25
+SM100946,Vivaan Kulkarni,2025-02-23,2025-02-24,Personal Care,Skin Care,Kolhapur,Maharashtra,West,4,410,0.1,1476.0,248.33,Net Banking,2025-02,16.82,1476.0
+SM100947,Rohan Sharma,2025-01-06,2025-01-08,Household,Storage,Durgapur,West Bengal,East,4,1190,0.0,4760.0,770.46,Net Banking,2025-01,16.19,4760.0
+SM100948,Sneha Bhosale,2025-10-17,2025-10-18,Stationery,Pens,Nashik,Maharashtra,West,1,70,0.05,66.5,8.4,Debit Card,2025-10,12.63,66.5
+SM100949,Rahul Gupta,2025-07-23,2025-07-24,Personal Care,Hair Care,New Delhi,Delhi,North,6,975,0.15,4972.5,852.09,Net Banking,2025-07,17.14,4972.5
+SM100950,Meera Deshmukh,2025-02-21,2025-02-22,Food,Staples,New Delhi,Delhi,North,7,415,0.2,2324.0,176.82,Credit Card,2025-02,7.61,2324.0
+SM100951,Ishita More,2025-12-16,2025-12-18,Food,Beverages,Ahmedabad,Gujarat,West,4,375,0.15,1275.0,110.25,Net Banking,2025-12,8.65,1275.0
+SM100952,Anaya Shah,2025-11-08,2025-11-12,Stationery,Pens,Warangal,Telangana,South,6,65,0.1,351.0,50.47,Cash,2025-11,14.38,351.0
+SM100953,Meera More,2025-05-03,2025-05-05,Household,Storage,Bengaluru,Karnataka,South,8,285,0.0,2280.0,384.66,UPI,2025-05,16.87,2280.0
+SM100954,Sneha Pawar,2025-09-13,2025-09-18,Personal Care,Skin Care,Nagpur,Maharashtra,West,5,280,0.05,1330.0,337.28,UPI,2025-09,25.36,1330.0
+SM100955,Diya Jadhav,2025-02-06,2025-02-08,Personal Care,Hair Care,Mangaluru,Karnataka,South,5,780,0.08,3588.0,724.58,Cash,2025-02,20.19,3588.0
+SM100956,Rahul Pawar,2025-01-21,2025-01-26,Stationery,Notebooks,Madurai,Tamil Nadu,South,3,175,0.1,472.5,76.99,UPI,2025-01,16.29,472.5
+SM100957,Saanvi Naik,2025-12-16,2025-12-17,Personal Care,Oral Care,Rajkot,Gujarat,West,1,330,0.15,280.5,50.79,Net Banking,2025-12,18.11,280.5
+SM100958,Saanvi Gupta,2025-01-05,2025-01-06,Personal Care,Hair Care,Bengaluru,Karnataka,South,3,605,0.2,1452.0,234.38,Cash,2025-01,16.14,1452.0
+SM100959,Karan Bhosale,2025-12-09,2025-12-10,Stationery,Notebooks,Kolhapur,Maharashtra,West,8,75,0.02,588.0,108.92,Cash,2025-12,18.52,588.0
+SM100960,Nisha Sharma,2025-04-13,2025-04-15,Food,Bakery,Vadodara,Gujarat,West,6,300,0.08,1656.0,223.88,Debit Card,2025-04,13.52,1656.0
+SM100961,Anaya Jadhav,2025-08-21,2025-08-26,Household,Kitchen,Nashik,Maharashtra,West,3,995,0.05,2835.75,548.91,Cash,2025-08,19.36,2835.75
+SM100962,Pooja Joshi,2025-02-01,2025-02-02,Stationery,Notebooks,Durgapur,West Bengal,East,4,55,0.2,176.0,21.69,Debit Card,2025-02,12.32,176.0
+SM100963,Pooja More,2025-11-22,2025-11-26,Household,Cleaning,Bengaluru,Karnataka,South,5,410,0.05,1947.5,355.25,Credit Card,2025-11,18.24,1947.5
+SM100964,Ishita Kulkarni,2025-12-09,2025-12-12,Food,Snacks,Coimbatore,Tamil Nadu,South,7,145,0.2,812.0,71.23,Debit Card,2025-12,8.77,812.0
+SM100965,Karan Verma,2025-08-03,2025-08-08,Household,Storage,Rajkot,Gujarat,West,7,715,0.15,4254.25,554.14,UPI,2025-08,13.03,4254.25
+SM100966,Aarav Deshmukh,2025-10-15,2025-10-18,Food,Staples,Kolkata,West Bengal,East,3,300,0.2,720.0,76.32,Cash,2025-10,10.6,720.0
+SM100967,Aditya Kadam,2025-03-17,2025-03-21,Food,Dairy,Vadodara,Gujarat,West,5,280,0.0,1400.0,200.33,Cash,2025-03,14.31,1400.0
+SM100968,Neha Gupta,2025-11-24,2025-11-26,Food,Beverages,New Delhi,Delhi,North,4,220,0.1,792.0,126.74,Credit Card,2025-11,16.0,792.0
+SM100969,Diya Naik,2025-06-28,2025-07-03,Food,Bakery,Mysuru,Karnataka,South,6,35,0.05,199.5,27.23,Cash,2025-06,13.65,199.5
+SM100970,Rahul Sharma,2025-11-29,2025-12-04,Stationery,Notebooks,Rajkot,Gujarat,West,6,295,0.08,1628.4,176.24,Credit Card,2025-11,10.82,1628.4
+SM100971,Pooja Kadam,2025-08-23,2025-08-26,Household,Storage,Vadodara,Gujarat,West,3,1030,0.08,2842.8,475.32,Debit Card,2025-08,16.72,2842.8
+SM100972,Diya Singh,2025-12-26,2025-12-30,Food,Snacks,New Delhi,Delhi,North,2,240,0.1,432.0,42.32,Net Banking,2025-12,9.8,432.0
+SM100973,Priya Gupta,2025-10-06,2025-10-10,Food,Bakery,Nagpur,Maharashtra,West,7,85,0.2,476.0,43.32,UPI,2025-10,9.1,476.0
+SM100974,Aarav Pawar,2025-04-11,2025-04-15,Food,Bakery,Durgapur,West Bengal,East,8,140,0.2,896.0,48.1,Credit Card,2025-04,5.37,896.0
+SM100975,Anaya Patil,2025-09-17,2025-09-21,Personal Care,Hair Care,Madurai,Tamil Nadu,South,7,700,0.0,4900.0,1121.34,UPI,2025-09,22.88,4900.0
+SM100976,Priya Gupta,2025-03-20,2025-03-22,Personal Care,Hair Care,Durgapur,West Bengal,East,3,960,0.08,2649.6,415.36,Credit Card,2025-03,15.68,2649.6
+SM100977,Ishita Gupta,2025-11-12,2025-11-16,Food,Staples,Warangal,Telangana,South,7,155,0.15,922.25,74.88,Debit Card,2025-11,8.12,922.25
+SM100978,Karan Verma,2025-09-22,2025-09-27,Household,Cleaning,Mangaluru,Karnataka,South,3,495,0.15,1262.25,90.76,Debit Card,2025-09,7.19,1262.25
+SM100979,Aditya Patil,2025-10-11,2025-10-16,Household,Cleaning,Hubballi,Karnataka,South,2,100,0.0,200.0,32.08,Net Banking,2025-10,16.04,200.0
+SM100980,Ishita Kulkarni,2025-12-29,2026-01-01,Stationery,Pens,New Delhi,Delhi,North,3,195,0.15,497.25,65.39,Credit Card,2025-12,13.15,497.25
+SM100981,Riya Verma,2025-06-02,2025-06-03,Stationery,Notebooks,Mysuru,Karnataka,South,1,125,0.02,122.5,23.35,UPI,2025-06,19.06,122.5
+SM100982,Vivaan Singh,2025-02-26,2025-02-27,Food,Beverages,Ahmedabad,Gujarat,West,5,155,0.02,759.5,122.76,Debit Card,2025-02,16.16,759.5
+SM100983,Arjun Kadam,2025-04-17,2025-04-18,Stationery,Pens,Ahmedabad,Gujarat,West,7,25,0.15,148.75,13.14,Cash,2025-04,8.83,148.75
+SM100984,Neha Verma,2025-07-12,2025-07-17,Household,Cleaning,Salem,Tamil Nadu,South,5,90,0.02,441.0,83.7,UPI,2025-07,18.98,441.0
+SM100985,Diya Kulkarni,2025-03-02,2025-03-05,Stationery,Office Supplies,Madurai,Tamil Nadu,South,1,185,0.15,157.25,17.68,Net Banking,2025-03,11.24,157.25
+SM100986,Rahul Deshmukh,2025-01-16,2025-01-17,Household,Cleaning,New Delhi,Delhi,North,6,175,0.02,1029.0,166.74,Credit Card,2025-01,16.2,1029.0
+SM100987,Priya Kadam,2025-02-12,2025-02-15,Personal Care,Hair Care,Hyderabad,Telangana,South,8,265,0.0,2120.0,588.48,Debit Card,2025-02,27.76,2120.0
+SM100988,Arjun Kadam,2025-08-28,2025-08-30,Stationery,Office Supplies,Warangal,Telangana,South,7,925,0.05,6151.25,1103.74,Debit Card,2025-08,17.94,6151.25
+SM100989,Vikram Gupta,2025-07-21,2025-07-25,Personal Care,Skin Care,Nashik,Maharashtra,West,4,1150,0.08,4232.0,839.95,Net Banking,2025-07,19.85,4232.0
+SM100990,Sneha Shah,2025-05-20,2025-05-23,Food,Staples,Durgapur,West Bengal,East,7,380,0.1,2394.0,276.92,UPI,2025-05,11.57,2394.0
+SM100991,Sneha Gupta,2025-08-19,2025-08-24,Personal Care,Oral Care,Bengaluru,Karnataka,South,7,180,0.2,1008.0,156.45,UPI,2025-08,15.52,1008.0
+SM100992,Sneha Deshmukh,2025-02-28,2025-03-03,Stationery,Pens,Hubballi,Karnataka,South,6,55,0.02,323.4,38.79,Debit Card,2025-02,11.99,323.4
+SM100993,Saanvi More,2025-03-04,2025-03-07,Food,Bakery,Kolhapur,Maharashtra,West,4,155,0.2,496.0,31.66,UPI,2025-03,6.38,496.0
+SM100994,Riya Shah,2025-07-17,2025-07-18,Household,Cleaning,Coimbatore,Tamil Nadu,South,5,665,0.2,2660.0,247.25,Cash,2025-07,9.3,2660.0
+SM100995,Nisha Patil,2025-12-16,2025-12-20,Personal Care,Hair Care,Durgapur,West Bengal,East,4,260,0.2,832.0,103.97,Debit Card,2025-12,12.5,832.0
+SM100996,Aarav Joshi,2025-08-04,2025-08-09,Stationery,Pens,Mumbai,Maharashtra,West,6,120,0.02,705.6,115.7,UPI,2025-08,16.4,705.6
+SM100997,Priya Shah,2025-11-26,2025-11-27,Stationery,Notebooks,Kolkata,West Bengal,East,3,300,0.08,828.0,156.44,Net Banking,2025-11,18.89,828.0
+SM100998,Rohan Pawar,2025-01-21,2025-01-24,Food,Dairy,Chennai,Tamil Nadu,South,2,420,0.08,772.8,108.21,Debit Card,2025-01,14.0,772.8
+SM100999,Nisha Verma,2025-07-24,2025-07-28,Personal Care,Hair Care,Nashik,Maharashtra,West,1,440,0.15,374.0,59.17,UPI,2025-07,15.82,374.0
+SM101000,Rahul Verma,2025-07-11,2025-07-12,Food,Beverages,New Delhi,Delhi,North,1,380,0.02,372.4,61.56,Cash,2025-07,16.53,372.4
+SM101001,Anaya Joshi,2025-04-26,2025-04-27,Household,Storage,Bengaluru,Karnataka,South,6,1490,0.1,8046.0,1528.61,UPI,2025-04,19.0,8046.0
+SM101002,Rohan Naik,2025-02-26,2025-03-02,Food,Bakery,Kolhapur,Maharashtra,West,6,215,0.2,1032.0,96.1,Credit Card,2025-02,9.31,1032.0
+SM101003,Pooja Kadam,2025-03-12,2025-03-17,Food,Beverages,New Delhi,Delhi,North,6,395,0.2,1896.0,135.55,Cash,2025-03,7.15,1896.0
+SM101004,Nisha Kulkarni,2025-12-09,2025-12-12,Household,Storage,Nashik,Maharashtra,West,8,1230,0.05,9348.0,1508.08,UPI,2025-12,16.13,9348.0
+SM101005,Vivaan Sharma,2025-05-16,2025-05-18,Food,Bakery,Durgapur,West Bengal,East,4,210,0.15,714.0,78.51,Cash,2025-05,11.0,714.0
+SM101006,Arjun Verma,2025-01-31,2025-02-03,Household,Kitchen,Bengaluru,Karnataka,South,7,365,0.0,2555.0,536.13,Net Banking,2025-01,20.98,2555.0
+SM101007,Diya Shah,2025-09-28,2025-10-03,Personal Care,Oral Care,New Delhi,Delhi,North,8,345,0.2,2208.0,380.61,Credit Card,2025-09,17.24,2208.0
+SM101008,Rohan Gupta,2025-04-23,2025-04-24,Stationery,Office Supplies,Salem,Tamil Nadu,South,4,785,0.02,3077.2,575.06,Credit Card,2025-04,18.69,3077.2
+SM101009,Vikram Deshmukh,2025-12-18,2025-12-19,Household,Kitchen,Chennai,Tamil Nadu,South,2,1145,0.02,2244.2,487.53,Debit Card,2025-12,21.72,2244.2
+SM101010,Pooja Kulkarni,2025-01-15,2025-01-18,Personal Care,Hair Care,Rajkot,Gujarat,West,2,935,0.0,1870.0,423.78,Credit Card,2025-01,22.66,1870.0
+SM101011,Karan Naik,2025-07-23,2025-07-24,Personal Care,Skin Care,New Delhi,Delhi,North,8,400,0.0,3200.0,873.39,Cash,2025-07,27.29,3200.0
+SM101012,Pooja Sharma,2025-04-10,2025-04-15,Stationery,Pens,Coimbatore,Tamil Nadu,South,5,110,0.08,506.0,75.36,UPI,2025-04,14.89,506.0
+SM101013,Saanvi Sharma,2025-11-27,2025-11-30,Household,Cleaning,Bengaluru,Karnataka,South,1,815,0.1,733.5,151.75,Net Banking,2025-11,20.69,733.5
+SM101014,Nisha Kulkarni,2025-02-21,2025-02-24,Stationery,Notebooks,Coimbatore,Tamil Nadu,South,7,70,0.15,416.5,39.68,Credit Card,2025-02,9.53,416.5
+SM101015,Nisha Naik,2025-04-15,2025-04-20,Personal Care,Oral Care,Madurai,Tamil Nadu,South,1,90,0.1,81.0,21.0,Debit Card,2025-04,25.93,81.0
+SM101016,Aditya Patil,2025-12-19,2025-12-23,Personal Care,Oral Care,Mysuru,Karnataka,South,2,125,0.05,237.5,52.83,Cash,2025-12,22.24,237.5
+SM101017,Neha Pawar,2025-08-08,2025-08-09,Household,Kitchen,Chennai,Tamil Nadu,South,2,340,0.2,544.0,50.98,Cash,2025-08,9.37,544.0
+SM101018,Meera Verma,2025-10-26,2025-10-31,Household,Kitchen,Nagpur,Maharashtra,West,2,165,0.0,330.0,62.01,Credit Card,2025-10,18.79,330.0
+SM101019,Vikram Singh,2025-09-26,2025-09-29,Household,Cleaning,New Delhi,Delhi,North,2,330,0.15,561.0,69.84,Debit Card,2025-09,12.45,561.0
+SM101020,Rahul Shah,2025-10-07,2025-10-10,Personal Care,Hair Care,Salem,Tamil Nadu,South,8,90,0.05,684.0,156.02,Net Banking,2025-10,22.81,684.0
+SM101021,Aditya Pawar,2025-12-06,2025-12-08,Food,Bakery,Durgapur,West Bengal,East,1,70,0.08,64.4,9.55,Cash,2025-12,14.83,64.4
+SM101022,Rohan Shah,2025-01-16,2025-01-17,Personal Care,Skin Care,Mangaluru,Karnataka,South,2,315,0.08,579.6,109.93,Net Banking,2025-01,18.97,579.6
+SM101023,Pooja Joshi,2025-08-19,2025-08-24,Personal Care,Oral Care,New Delhi,Delhi,North,6,450,0.08,2484.0,505.22,Debit Card,2025-08,20.34,2484.0
+SM101024,Sneha Joshi,2025-04-08,2025-04-13,Personal Care,Oral Care,Nashik,Maharashtra,West,2,245,0.08,450.8,116.11,UPI,2025-04,25.76,450.8
+SM101025,Priya Kadam,2025-01-05,2025-01-10,Stationery,Office Supplies,Surat,Gujarat,West,3,535,0.05,1524.75,306.0,Credit Card,2025-01,20.07,1524.75
+SM101026,Riya Sharma,2025-06-05,2025-06-08,Food,Bakery,Vadodara,Gujarat,West,1,155,0.02,151.9,24.59,UPI,2025-06,16.19,151.9
+SM101027,Meera Bhosale,2025-09-08,2025-09-11,Stationery,Notebooks,Chennai,Tamil Nadu,South,1,55,0.02,53.9,9.33,Net Banking,2025-09,17.31,53.9
+SM101028,Riya Shah,2025-12-07,2025-12-11,Food,Bakery,Kolkata,West Bengal,East,3,300,0.02,882.0,135.83,UPI,2025-12,15.4,882.0
+SM101029,Pooja Gupta,2025-05-29,2025-06-02,Stationery,Notebooks,Bengaluru,Karnataka,South,4,290,0.15,986.0,126.05,UPI,2025-05,12.78,986.0
+SM101030,Aditya Kadam,2025-05-14,2025-05-19,Household,Storage,Madurai,Tamil Nadu,South,7,1260,0.05,8379.0,1273.02,Credit Card,2025-05,15.19,8379.0
+SM101031,Priya Deshmukh,2025-05-09,2025-05-13,Household,Kitchen,Mangaluru,Karnataka,South,5,220,0.1,990.0,147.08,Cash,2025-05,14.86,990.0
+SM101032,Vikram Pawar,2025-08-12,2025-08-15,Stationery,Office Supplies,Pune,Maharashtra,West,6,520,0.15,2652.0,187.72,Cash,2025-08,7.08,2652.0
+SM101033,Aditya Jadhav,2025-08-27,2025-08-28,Stationery,Pens,Rajkot,Gujarat,West,1,190,0.08,174.8,26.92,Debit Card,2025-08,15.4,174.8
+SM101034,Aditya Gupta,2025-05-05,2025-05-09,Household,Storage,New Delhi,Delhi,North,5,210,0.2,840.0,105.99,UPI,2025-05,12.62,840.0
+SM101035,Rahul Jadhav,2025-08-25,2025-08-26,Food,Snacks,Durgapur,West Bengal,East,1,125,0.15,106.25,8.38,UPI,2025-08,7.89,106.25
+SM101036,Anaya Naik,2025-05-29,2025-06-03,Personal Care,Skin Care,New Delhi,Delhi,North,2,915,0.15,1555.5,329.53,Credit Card,2025-05,21.18,1555.5
+SM101037,Nisha Jadhav,2025-09-22,2025-09-23,Household,Cleaning,Mangaluru,Karnataka,South,3,325,0.05,926.25,136.03,Credit Card,2025-09,14.69,926.25
+SM101038,Diya Singh,2025-02-28,2025-03-02,Household,Storage,Mumbai,Maharashtra,West,2,995,0.02,1950.2,301.09,UPI,2025-02,15.44,1950.2
+SM101039,Priya Joshi,2025-09-16,2025-09-18,Food,Snacks,Rajkot,Gujarat,West,5,165,0.02,808.5,126.62,Net Banking,2025-09,15.66,808.5
+SM101040,Ishita More,2025-12-15,2025-12-17,Stationery,Pens,Ahmedabad,Gujarat,West,1,45,0.2,36.0,6.38,Net Banking,2025-12,17.72,36.0
+SM101041,Rohan Gupta,2025-04-13,2025-04-16,Personal Care,Hair Care,Rajkot,Gujarat,West,2,960,0.08,1766.4,434.71,Cash,2025-04,24.61,1766.4
+SM101042,Diya Jadhav,2025-12-24,2025-12-28,Stationery,Notebooks,Kolkata,West Bengal,East,7,85,0.05,565.25,82.54,Cash,2025-12,14.6,565.25
+SM101043,Vikram Shah,2025-01-06,2025-01-08,Food,Staples,New Delhi,Delhi,North,8,90,0.05,684.0,112.5,Cash,2025-01,16.45,684.0
+SM101044,Karan More,2025-05-22,2025-05-27,Personal Care,Oral Care,Pune,Maharashtra,West,4,205,0.15,697.0,119.56,UPI,2025-05,17.15,697.0
+SM101045,Rohan Bhosale,2025-03-31,2025-04-02,Personal Care,Oral Care,Hyderabad,Telangana,South,6,255,0.2,1224.0,178.32,Debit Card,2025-03,14.57,1224.0
+SM101046,Rohan Deshmukh,2025-07-21,2025-07-26,Stationery,Notebooks,Nagpur,Maharashtra,West,3,220,0.1,594.0,93.31,Debit Card,2025-07,15.71,594.0
+SM101047,Saanvi Sharma,2025-10-29,2025-10-31,Stationery,Pens,New Delhi,Delhi,North,1,15,0.15,12.75,3.39,UPI,2025-10,26.59,12.75
+SM101048,Pooja Shah,2025-09-13,2025-09-17,Personal Care,Skin Care,Warangal,Telangana,South,4,215,0.02,842.8,161.47,UPI,2025-09,19.16,842.8
+SM101049,Aarav Shah,2025-02-01,2025-02-06,Food,Snacks,New Delhi,Delhi,North,2,175,0.05,332.5,57.99,Credit Card,2025-02,17.44,332.5
+SM101050,Meera Kulkarni,2025-06-14,2025-06-18,Stationery,Pens,Nagpur,Maharashtra,West,4,45,0.08,165.6,29.56,Credit Card,2025-06,17.85,165.6
+SM101051,Arjun Patil,2025-03-24,2025-03-25,Food,Staples,Surat,Gujarat,West,1,525,0.15,446.25,34.3,Credit Card,2025-03,7.69,446.25
+SM101052,Nisha Kulkarni,2025-01-03,2025-01-08,Food,Bakery,Salem,Tamil Nadu,South,3,215,0.15,548.25,56.14,Credit Card,2025-01,10.24,548.25
+SM101053,Karan Verma,2025-10-20,2025-10-24,Personal Care,Hair Care,Durgapur,West Bengal,East,3,815,0.08,2249.4,486.66,UPI,2025-10,21.64,2249.4
+SM101054,Priya Pawar,2025-10-19,2025-10-24,Personal Care,Skin Care,Pune,Maharashtra,West,2,650,0.0,1300.0,320.47,UPI,2025-10,24.65,1300.0
+SM101055,Meera Sharma,2025-04-25,2025-04-27,Personal Care,Hair Care,Durgapur,West Bengal,East,6,145,0.2,696.0,94.82,Net Banking,2025-04,13.62,696.0
+SM101056,Nisha Shah,2025-10-22,2025-10-27,Stationery,Office Supplies,Hubballi,Karnataka,South,1,560,0.0,560.0,91.4,Debit Card,2025-10,16.32,560.0
+SM101057,Aditya Kulkarni,2025-12-01,2025-12-02,Personal Care,Hair Care,Mumbai,Maharashtra,West,5,265,0.2,1060.0,158.32,Net Banking,2025-12,14.94,1060.0
+SM101058,Anaya Pawar,2025-06-18,2025-06-23,Household,Kitchen,Kolkata,West Bengal,East,2,1230,0.1,2214.0,408.08,UPI,2025-06,18.43,2214.0
+SM101059,Nisha More,2025-08-02,2025-08-03,Stationery,Pens,New Delhi,Delhi,North,5,145,0.0,725.0,140.35,Credit Card,2025-08,19.36,725.0
+SM101060,Arjun More,2025-11-29,2025-11-30,Stationery,Notebooks,Salem,Tamil Nadu,South,4,45,0.0,180.0,30.73,Net Banking,2025-11,17.07,180.0
+SM101061,Pooja Naik,2025-07-14,2025-07-16,Stationery,Pens,Hyderabad,Telangana,South,7,155,0.15,922.25,121.55,Cash,2025-07,13.18,922.25
+SM101062,Anaya Kulkarni,2025-10-09,2025-10-13,Stationery,Pens,Bengaluru,Karnataka,South,6,75,0.05,427.5,36.89,Credit Card,2025-10,8.63,427.5
+SM101063,Anaya Sharma,2025-02-17,2025-02-19,Household,Kitchen,New Delhi,Delhi,North,1,1485,0.0,1485.0,339.65,UPI,2025-02,22.87,1485.0
+SM101064,Meera Deshmukh,2025-03-06,2025-03-08,Personal Care,Skin Care,Surat,Gujarat,West,6,485,0.15,2473.5,319.1,Net Banking,2025-03,12.9,2473.5
+SM101065,Sneha Shah,2025-07-23,2025-07-27,Food,Snacks,Ahmedabad,Gujarat,West,5,330,0.02,1617.0,229.52,Credit Card,2025-07,14.19,1617.0
+SM101066,Rohan Pawar,2025-08-16,2025-08-21,Personal Care,Oral Care,Warangal,Telangana,South,5,440,0.02,2156.0,437.69,Net Banking,2025-08,20.3,2156.0
+SM101067,Amit Kulkarni,2025-09-15,2025-09-17,Personal Care,Hair Care,Mumbai,Maharashtra,West,8,335,0.02,2626.4,521.69,Debit Card,2025-09,19.86,2626.4
+SM101068,Vikram Sharma,2025-10-11,2025-10-15,Personal Care,Oral Care,Bengaluru,Karnataka,South,3,65,0.02,191.1,49.69,UPI,2025-10,26.0,191.1
+SM101069,Rohan Verma,2025-09-13,2025-09-14,Personal Care,Hair Care,Kolkata,West Bengal,East,7,355,0.0,2485.0,567.34,Net Banking,2025-09,22.83,2485.0
+SM101070,Ishita Kadam,2025-07-16,2025-07-20,Stationery,Notebooks,Ahmedabad,Gujarat,West,8,55,0.02,431.2,77.47,Cash,2025-07,17.97,431.2
+SM101071,Rohan Bhosale,2025-09-30,2025-10-03,Food,Staples,Kolhapur,Maharashtra,West,6,755,0.1,4077.0,464.07,Net Banking,2025-09,11.38,4077.0
+SM101072,Diya More,2025-04-21,2025-04-22,Personal Care,Oral Care,Kolkata,West Bengal,East,7,440,0.2,2464.0,398.99,Cash,2025-04,16.19,2464.0
+SM101073,Saanvi Deshmukh,2025-12-14,2025-12-18,Stationery,Office Supplies,Salem,Tamil Nadu,South,5,190,0.08,874.0,127.53,UPI,2025-12,14.59,874.0
+SM101074,Neha Joshi,2025-05-24,2025-05-25,Food,Beverages,Durgapur,West Bengal,East,5,185,0.08,851.0,78.23,Debit Card,2025-05,9.19,851.0
+SM101075,Ishita Singh,2025-05-18,2025-05-21,Food,Snacks,Warangal,Telangana,South,5,215,0.05,1021.25,165.86,Cash,2025-05,16.24,1021.25
+SM101076,Arjun Gupta,2025-01-09,2025-01-14,Stationery,Pens,Ahmedabad,Gujarat,West,6,100,0.2,480.0,37.27,UPI,2025-01,7.76,480.0
+SM101077,Rohan Verma,2025-10-24,2025-10-27,Personal Care,Skin Care,Kolhapur,Maharashtra,West,8,300,0.2,1920.0,213.28,Cash,2025-10,11.11,1920.0
+SM101078,Ishita Kadam,2025-03-07,2025-03-08,Household,Storage,Mysuru,Karnataka,South,1,510,0.15,433.5,52.8,Net Banking,2025-03,12.18,433.5
+SM101079,Rohan Patil,2025-08-14,2025-08-17,Food,Staples,New Delhi,Delhi,North,4,105,0.15,357.0,46.42,Debit Card,2025-08,13.0,357.0
+SM101080,Amit Sharma,2025-10-04,2025-10-05,Household,Kitchen,Hyderabad,Telangana,South,2,210,0.08,386.4,71.58,Credit Card,2025-10,18.52,386.4
+SM101081,Rahul Jadhav,2025-04-15,2025-04-16,Stationery,Pens,Madurai,Tamil Nadu,South,7,175,0.02,1200.5,194.82,Debit Card,2025-04,16.23,1200.5
+SM101082,Aditya Shah,2025-06-21,2025-06-24,Stationery,Notebooks,Vadodara,Gujarat,West,1,90,0.0,90.0,15.15,Net Banking,2025-06,16.83,90.0
+SM101083,Anaya Kadam,2025-01-14,2025-01-19,Household,Kitchen,Nashik,Maharashtra,West,6,1415,0.08,7810.8,1218.17,Credit Card,2025-01,15.6,7810.8
+SM101084,Anaya Jadhav,2025-07-15,2025-07-20,Food,Beverages,Kolkata,West Bengal,East,7,265,0.0,1855.0,393.11,Cash,2025-07,21.19,1855.0
+SM101085,Rahul Kulkarni,2025-12-04,2025-12-06,Personal Care,Hair Care,New Delhi,Delhi,North,4,850,0.05,3230.0,733.37,Debit Card,2025-12,22.7,3230.0
+SM101086,Vivaan Pawar,2025-04-29,2025-05-02,Food,Beverages,Vadodara,Gujarat,West,8,345,0.08,2539.2,342.16,Net Banking,2025-04,13.48,2539.2
+SM101087,Riya Verma,2025-09-16,2025-09-18,Stationery,Office Supplies,Kolhapur,Maharashtra,West,4,465,0.08,1711.2,290.49,Credit Card,2025-09,16.98,1711.2
+SM101088,Diya Sharma,2025-10-03,2025-10-06,Household,Storage,Mangaluru,Karnataka,South,5,1455,0.05,6911.25,1268.01,Cash,2025-10,18.35,6911.25
+SM101089,Ishita Sharma,2025-08-04,2025-08-05,Stationery,Office Supplies,New Delhi,Delhi,North,4,905,0.08,3330.4,458.01,Cash,2025-08,13.75,3330.4
+SM101090,Vivaan Deshmukh,2025-05-15,2025-05-17,Food,Beverages,Durgapur,West Bengal,East,1,385,0.0,385.0,59.71,Net Banking,2025-05,15.51,385.0
+SM101091,Diya Pawar,2025-09-29,2025-10-02,Personal Care,Skin Care,Rajkot,Gujarat,West,7,865,0.02,5933.9,1360.11,Debit Card,2025-09,22.92,5933.9
+SM101092,Pooja Joshi,2025-10-30,2025-11-03,Food,Snacks,New Delhi,Delhi,North,6,335,0.08,1849.2,227.58,Cash,2025-10,12.31,1849.2
+SM101093,Karan Pawar,2025-12-25,2025-12-29,Food,Beverages,Mysuru,Karnataka,South,1,285,0.05,270.75,42.15,Cash,2025-12,15.57,270.75
+SM101094,Amit Shah,2025-04-01,2025-04-06,Food,Beverages,New Delhi,Delhi,North,5,245,0.0,1225.0,197.59,Net Banking,2025-04,16.13,1225.0
+SM101095,Anaya Verma,2025-10-24,2025-10-26,Personal Care,Hair Care,New Delhi,Delhi,North,7,375,0.02,2572.5,641.37,Credit Card,2025-10,24.93,2572.5
+SM101096,Rohan Singh,2025-08-09,2025-08-12,Personal Care,Skin Care,New Delhi,Delhi,North,6,415,0.0,2490.0,592.58,Cash,2025-08,23.8,2490.0
+SM101097,Aditya Sharma,2025-04-25,2025-04-28,Personal Care,Oral Care,Hubballi,Karnataka,South,2,465,0.15,790.5,137.92,Credit Card,2025-04,17.45,790.5
+SM101098,Arjun Patil,2025-10-10,2025-10-15,Food,Staples,Kolkata,West Bengal,East,1,770,0.1,693.0,45.08,Cash,2025-10,6.51,693.0
+SM101099,Vikram Joshi,2025-01-14,2025-01-16,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,7,380,0.1,2394.0,521.67,UPI,2025-01,21.79,2394.0
+SM101100,Rohan Naik,2025-12-28,2025-12-30,Stationery,Notebooks,Kolkata,West Bengal,East,8,120,0.2,768.0,75.77,UPI,2025-12,9.87,768.0
+SM101101,Rohan Singh,2025-07-01,2025-07-04,Household,Storage,Kolkata,West Bengal,East,2,670,0.1,1206.0,217.02,Net Banking,2025-07,18.0,1206.0
+SM101102,Rahul Kulkarni,2025-12-11,2025-12-16,Personal Care,Skin Care,Kolkata,West Bengal,East,7,210,0.15,1249.5,125.07,Net Banking,2025-12,10.01,1249.5
+SM101103,Arjun Joshi,2025-12-05,2025-12-07,Food,Beverages,Kolkata,West Bengal,East,3,285,0.2,684.0,83.59,Cash,2025-12,12.22,684.0
+SM101104,Arjun Patil,2025-03-19,2025-03-24,Stationery,Notebooks,Surat,Gujarat,West,3,100,0.0,300.0,52.95,Cash,2025-03,17.65,300.0
+SM101105,Riya Kulkarni,2025-02-04,2025-02-08,Household,Cleaning,Surat,Gujarat,West,7,645,0.1,4063.5,742.42,Debit Card,2025-02,18.27,4063.5
+SM101106,Neha Pawar,2025-09-05,2025-09-09,Personal Care,Skin Care,New Delhi,Delhi,North,5,835,0.08,3841.0,683.71,Net Banking,2025-09,17.8,3841.0
+SM101107,Saanvi Kadam,2025-09-04,2025-09-07,Household,Cleaning,Chennai,Tamil Nadu,South,5,425,0.08,1955.0,350.57,Cash,2025-09,17.93,1955.0
+SM101108,Nisha Verma,2025-03-01,2025-03-03,Personal Care,Oral Care,Mangaluru,Karnataka,South,2,205,0.08,377.2,67.02,Cash,2025-03,17.77,377.2
+SM101109,Anaya More,2025-11-04,2025-11-08,Food,Bakery,Surat,Gujarat,West,5,165,0.2,660.0,35.91,Debit Card,2025-11,5.44,660.0
+SM101110,Rohan Singh,2025-05-14,2025-05-15,Stationery,Notebooks,Warangal,Telangana,South,8,170,0.05,1292.0,265.31,Credit Card,2025-05,20.53,1292.0
+SM101111,Arjun Bhosale,2025-06-23,2025-06-28,Personal Care,Hair Care,Hyderabad,Telangana,South,7,285,0.02,1955.1,442.31,UPI,2025-06,22.62,1955.1
+SM101112,Vivaan Bhosale,2025-11-11,2025-11-15,Household,Storage,New Delhi,Delhi,North,1,1715,0.0,1715.0,352.32,Debit Card,2025-11,20.54,1715.0
+SM101113,Priya Gupta,2025-06-30,2025-07-02,Food,Staples,Kolkata,West Bengal,East,4,330,0.02,1293.6,223.47,Credit Card,2025-06,17.28,1293.6
+SM101114,Aarav Patil,2025-05-29,2025-05-31,Personal Care,Hair Care,Kolkata,West Bengal,East,7,280,0.15,1666.0,308.03,UPI,2025-05,18.49,1666.0
+SM101115,Saanvi Kadam,2025-09-27,2025-09-28,Stationery,Notebooks,Nashik,Maharashtra,West,1,90,0.05,85.5,13.92,Credit Card,2025-09,16.28,85.5
+SM101116,Vivaan Sharma,2025-01-18,2025-01-21,Stationery,Office Supplies,Chennai,Tamil Nadu,South,7,155,0.15,922.25,112.17,UPI,2025-01,12.16,922.25
+SM101117,Arjun Verma,2025-09-16,2025-09-20,Food,Snacks,Warangal,Telangana,South,3,70,0.1,189.0,33.09,Net Banking,2025-09,17.51,189.0
+SM101118,Diya Joshi,2025-06-09,2025-06-11,Stationery,Office Supplies,Durgapur,West Bengal,East,1,325,0.08,299.0,42.63,Net Banking,2025-06,14.26,299.0
+SM101119,Nisha Joshi,2025-08-30,2025-09-02,Stationery,Pens,Vadodara,Gujarat,West,4,195,0.1,702.0,98.3,Net Banking,2025-08,14.0,702.0
+SM101120,Diya Singh,2025-09-17,2025-09-22,Food,Dairy,Mangaluru,Karnataka,South,7,480,0.2,2688.0,258.76,Credit Card,2025-09,9.63,2688.0
+SM101121,Rahul Deshmukh,2025-10-23,2025-10-26,Household,Kitchen,Nagpur,Maharashtra,West,6,770,0.0,4620.0,1051.69,UPI,2025-10,22.76,4620.0
+SM101122,Nisha More,2025-02-18,2025-02-23,Household,Kitchen,New Delhi,Delhi,North,4,215,0.08,791.2,153.24,Net Banking,2025-02,19.37,791.2
+SM101123,Anaya Pawar,2025-04-30,2025-05-02,Personal Care,Hair Care,Nagpur,Maharashtra,West,5,760,0.2,3040.0,504.54,Net Banking,2025-04,16.6,3040.0
+SM101124,Priya Singh,2025-11-03,2025-11-07,Personal Care,Oral Care,Ahmedabad,Gujarat,West,4,390,0.2,1248.0,151.54,Debit Card,2025-11,12.14,1248.0
+SM101125,Diya Gupta,2025-11-30,2025-12-01,Stationery,Office Supplies,Hubballi,Karnataka,South,8,530,0.2,3392.0,443.79,UPI,2025-11,13.08,3392.0
+SM101126,Anaya Shah,2025-07-12,2025-07-13,Household,Storage,Bengaluru,Karnataka,South,2,400,0.08,736.0,99.61,Cash,2025-07,13.53,736.0
+SM101127,Pooja Joshi,2025-09-11,2025-09-12,Household,Storage,Mangaluru,Karnataka,South,7,790,0.05,5253.5,972.24,Debit Card,2025-09,18.51,5253.5
+SM101128,Sneha More,2025-09-25,2025-09-30,Household,Cleaning,Madurai,Tamil Nadu,South,5,510,0.02,2499.0,430.19,Net Banking,2025-09,17.21,2499.0
+SM101129,Aarav Pawar,2025-05-09,2025-05-13,Household,Kitchen,Rajkot,Gujarat,West,3,330,0.15,841.5,110.15,Cash,2025-05,13.09,841.5
+SM101130,Priya Singh,2025-04-02,2025-04-03,Food,Snacks,Mangaluru,Karnataka,South,5,255,0.02,1249.5,198.94,Debit Card,2025-04,15.92,1249.5
+SM101131,Saanvi Pawar,2025-02-18,2025-02-23,Stationery,Office Supplies,Nashik,Maharashtra,West,3,95,0.15,242.25,29.2,UPI,2025-02,12.05,242.25
+SM101132,Rohan More,2025-04-09,2025-04-13,Stationery,Office Supplies,Madurai,Tamil Nadu,South,5,385,0.2,1540.0,154.84,Net Banking,2025-04,10.05,1540.0
+SM101133,Ishita Joshi,2025-11-25,2025-11-28,Food,Staples,Hyderabad,Telangana,South,3,135,0.02,396.9,75.94,Net Banking,2025-11,19.13,396.9
+SM101134,Nisha Kulkarni,2025-02-22,2025-02-27,Personal Care,Oral Care,Mangaluru,Karnataka,South,5,485,0.15,2061.25,378.94,Credit Card,2025-02,18.38,2061.25
+SM101135,Rahul Sharma,2025-01-02,2025-01-03,Household,Cleaning,Kolkata,West Bengal,East,3,200,0.08,552.0,87.16,UPI,2025-01,15.79,552.0
+SM101136,Saanvi More,2025-03-12,2025-03-13,Stationery,Office Supplies,New Delhi,Delhi,North,8,345,0.1,2484.0,395.21,Cash,2025-03,15.91,2484.0
+SM101137,Vivaan Shah,2025-07-13,2025-07-18,Stationery,Notebooks,Durgapur,West Bengal,East,5,300,0.05,1425.0,266.81,Net Banking,2025-07,18.72,1425.0
+SM101138,Diya More,2025-04-20,2025-04-23,Household,Kitchen,Hubballi,Karnataka,South,8,785,0.2,5024.0,398.45,Cash,2025-04,7.93,5024.0
+SM101139,Arjun Jadhav,2025-11-30,2025-12-04,Food,Bakery,Coimbatore,Tamil Nadu,South,8,240,0.05,1824.0,278.04,Net Banking,2025-11,15.24,1824.0
+SM101140,Arjun Patil,2025-04-08,2025-04-13,Household,Storage,Vadodara,Gujarat,West,1,450,0.05,427.5,83.38,Net Banking,2025-04,19.5,427.5
+SM101141,Nisha Gupta,2025-06-08,2025-06-11,Personal Care,Hair Care,Chennai,Tamil Nadu,South,1,640,0.0,640.0,148.84,UPI,2025-06,23.26,640.0
+SM101142,Nisha Jadhav,2025-12-23,2025-12-24,Personal Care,Oral Care,Warangal,Telangana,South,1,485,0.2,388.0,71.54,Cash,2025-12,18.44,388.0
+SM101143,Ishita Verma,2025-09-09,2025-09-11,Food,Snacks,Mangaluru,Karnataka,South,6,50,0.15,255.0,22.63,Credit Card,2025-09,8.87,255.0
+SM101144,Rohan Verma,2025-02-12,2025-02-17,Food,Dairy,Ahmedabad,Gujarat,West,1,185,0.2,148.0,10.82,Credit Card,2025-02,7.31,148.0
+SM101145,Sneha More,2025-12-02,2025-12-07,Personal Care,Oral Care,New Delhi,Delhi,North,6,455,0.02,2675.4,606.44,UPI,2025-12,22.67,2675.4
+SM101146,Rohan Sharma,2025-12-07,2025-12-09,Food,Snacks,Rajkot,Gujarat,West,4,295,0.1,1062.0,122.54,Credit Card,2025-12,11.54,1062.0
+SM101147,Meera Joshi,2025-08-16,2025-08-17,Household,Storage,Kolhapur,Maharashtra,West,7,410,0.15,2439.5,256.37,Net Banking,2025-08,10.51,2439.5
+SM101148,Diya Shah,2025-06-29,2025-06-30,Stationery,Office Supplies,Kolhapur,Maharashtra,West,2,580,0.08,1067.2,115.26,UPI,2025-06,10.8,1067.2
+SM101149,Arjun Kadam,2025-04-04,2025-04-05,Household,Kitchen,Hyderabad,Telangana,South,1,1175,0.2,940.0,140.87,Debit Card,2025-04,14.99,940.0
+SM101150,Meera Patil,2025-08-24,2025-08-26,Personal Care,Oral Care,Pune,Maharashtra,West,4,385,0.15,1309.0,198.09,Cash,2025-08,15.13,1309.0
+SM101151,Rohan Shah,2025-12-28,2025-12-30,Personal Care,Skin Care,Coimbatore,Tamil Nadu,South,6,555,0.2,2664.0,333.57,Credit Card,2025-12,12.52,2664.0
+SM101152,Sneha Bhosale,2025-04-01,2025-04-04,Stationery,Notebooks,Madurai,Tamil Nadu,South,2,190,0.1,342.0,27.76,Net Banking,2025-04,8.12,342.0
+SM101153,Pooja Pawar,2025-08-19,2025-08-21,Food,Staples,Kolkata,West Bengal,East,7,175,0.1,1102.5,109.18,Debit Card,2025-08,9.9,1102.5
+SM101154,Anaya Shah,2025-04-17,2025-04-20,Food,Staples,Madurai,Tamil Nadu,South,4,250,0.08,920.0,83.65,UPI,2025-04,9.09,920.0
+SM101155,Karan Kadam,2025-09-22,2025-09-27,Stationery,Pens,Hyderabad,Telangana,South,8,120,0.05,912.0,181.08,Net Banking,2025-09,19.86,912.0
+SM101156,Diya Deshmukh,2025-01-18,2025-01-21,Personal Care,Skin Care,Chennai,Tamil Nadu,South,3,565,0.05,1610.25,390.88,Debit Card,2025-01,24.27,1610.25
+SM101157,Riya Naik,2025-06-06,2025-06-11,Household,Cleaning,Mangaluru,Karnataka,South,8,745,0.08,5483.2,804.91,Cash,2025-06,14.68,5483.2
+SM101158,Meera Patil,2025-07-24,2025-07-28,Personal Care,Oral Care,Surat,Gujarat,West,6,320,0.08,1766.4,459.81,Credit Card,2025-07,26.03,1766.4
+SM101159,Ishita Shah,2025-09-17,2025-09-22,Stationery,Notebooks,Nagpur,Maharashtra,West,7,225,0.02,1543.5,301.82,Debit Card,2025-09,19.55,1543.5
+SM101160,Meera Bhosale,2025-11-02,2025-11-03,Household,Cleaning,Hyderabad,Telangana,South,6,725,0.0,4350.0,834.67,Credit Card,2025-11,19.19,4350.0
+SM101161,Meera Joshi,2025-06-27,2025-06-29,Household,Kitchen,Rajkot,Gujarat,West,1,1020,0.02,999.6,128.46,UPI,2025-06,12.85,999.6
+SM101162,Aarav Singh,2025-04-05,2025-04-08,Stationery,Pens,Mysuru,Karnataka,South,4,40,0.1,144.0,27.69,Credit Card,2025-04,19.23,144.0
+SM101163,Vikram Naik,2025-06-26,2025-06-30,Stationery,Office Supplies,Nagpur,Maharashtra,West,4,915,0.15,3111.0,241.91,Credit Card,2025-06,7.78,3111.0
+SM101164,Neha Gupta,2025-02-19,2025-02-23,Personal Care,Skin Care,Surat,Gujarat,West,7,950,0.05,6317.5,1114.19,Net Banking,2025-02,17.64,6317.5
+SM101165,Rahul More,2025-02-06,2025-02-09,Food,Beverages,Salem,Tamil Nadu,South,3,355,0.05,1011.75,164.98,UPI,2025-02,16.31,1011.75
+SM101166,Meera Gupta,2025-11-09,2025-11-11,Food,Beverages,New Delhi,Delhi,North,3,250,0.0,750.0,165.75,UPI,2025-11,22.1,750.0
+SM101167,Anaya Joshi,2025-06-23,2025-06-27,Stationery,Pens,Surat,Gujarat,West,5,70,0.15,297.5,43.76,Cash,2025-06,14.71,297.5
+SM101168,Karan Bhosale,2025-04-02,2025-04-03,Food,Dairy,Mangaluru,Karnataka,South,2,200,0.15,340.0,36.24,UPI,2025-04,10.66,340.0
+SM101169,Pooja Bhosale,2025-03-24,2025-03-28,Stationery,Office Supplies,Coimbatore,Tamil Nadu,South,8,40,0.15,272.0,34.64,UPI,2025-03,12.74,272.0
+SM101170,Rahul Verma,2025-06-05,2025-06-09,Food,Staples,Vadodara,Gujarat,West,8,430,0.2,2752.0,251.35,Net Banking,2025-06,9.13,2752.0
+SM101171,Aarav Pawar,2025-07-06,2025-07-08,Stationery,Office Supplies,Pune,Maharashtra,West,7,875,0.0,6125.0,1218.71,Net Banking,2025-07,19.9,6125.0
+SM101172,Vikram Pawar,2025-05-13,2025-05-17,Stationery,Pens,Mangaluru,Karnataka,South,8,65,0.0,520.0,97.26,UPI,2025-05,18.7,520.0
+SM101173,Priya Joshi,2025-11-03,2025-11-04,Personal Care,Hair Care,Warangal,Telangana,South,6,700,0.2,3360.0,512.75,Credit Card,2025-11,15.26,3360.0
+SM101174,Diya Pawar,2025-05-31,2025-06-05,Food,Dairy,Salem,Tamil Nadu,South,6,175,0.0,1050.0,166.36,UPI,2025-05,15.84,1050.0
+SM101175,Nisha Gupta,2025-09-30,2025-10-02,Household,Cleaning,Warangal,Telangana,South,2,520,0.02,1019.2,175.46,Debit Card,2025-09,17.22,1019.2
+SM101176,Neha Naik,2025-06-26,2025-06-28,Stationery,Pens,Surat,Gujarat,West,2,70,0.0,140.0,24.22,UPI,2025-06,17.3,140.0
+SM101177,Rohan Naik,2025-07-15,2025-07-17,Personal Care,Oral Care,New Delhi,Delhi,North,5,240,0.0,1200.0,237.21,UPI,2025-07,19.77,1200.0
+SM101178,Riya Singh,2025-08-10,2025-08-13,Personal Care,Hair Care,Pune,Maharashtra,West,4,720,0.0,2880.0,684.12,Credit Card,2025-08,23.75,2880.0
+SM101179,Rohan Patil,2025-08-12,2025-08-15,Personal Care,Oral Care,Coimbatore,Tamil Nadu,South,1,320,0.02,313.6,64.69,Cash,2025-08,20.63,313.6
+SM101180,Diya Kulkarni,2025-04-17,2025-04-20,Household,Kitchen,Nagpur,Maharashtra,West,5,745,0.2,2980.0,245.58,Credit Card,2025-04,8.24,2980.0
+SM101181,Riya Gupta,2025-01-10,2025-01-14,Household,Cleaning,Warangal,Telangana,South,5,675,0.1,3037.5,484.47,Net Banking,2025-01,15.95,3037.5
+SM101182,Vikram Deshmukh,2025-06-18,2025-06-21,Stationery,Office Supplies,New Delhi,Delhi,North,1,365,0.05,346.75,66.68,Cash,2025-06,19.23,346.75
+SM101183,Vivaan Kadam,2025-09-13,2025-09-18,Stationery,Notebooks,Mysuru,Karnataka,South,7,50,0.2,280.0,31.63,Cash,2025-09,11.3,280.0
+SM101184,Vikram Kadam,2025-10-15,2025-10-18,Household,Storage,Chennai,Tamil Nadu,South,6,630,0.2,3024.0,213.91,Cash,2025-10,7.07,3024.0
+SM101185,Meera More,2025-01-16,2025-01-17,Personal Care,Oral Care,Mysuru,Karnataka,South,7,235,0.2,1316.0,164.84,Cash,2025-01,12.53,1316.0
+SM101186,Diya Jadhav,2025-05-01,2025-05-03,Stationery,Office Supplies,Surat,Gujarat,West,2,125,0.02,245.0,47.66,Debit Card,2025-05,19.45,245.0
+SM101187,Neha Joshi,2025-04-02,2025-04-06,Stationery,Office Supplies,Kolkata,West Bengal,East,7,370,0.02,2538.2,371.69,Debit Card,2025-04,14.64,2538.2
+SM101188,Vikram Joshi,2025-07-05,2025-07-09,Personal Care,Oral Care,Hyderabad,Telangana,South,7,150,0.08,966.0,191.64,Cash,2025-07,19.84,966.0
+SM101189,Ishita Kadam,2025-03-22,2025-03-26,Stationery,Notebooks,Kolkata,West Bengal,East,1,205,0.05,194.75,33.35,UPI,2025-03,17.12,194.75
+SM101190,Aditya Jadhav,2025-07-16,2025-07-18,Stationery,Notebooks,New Delhi,Delhi,North,4,235,0.1,846.0,93.73,Net Banking,2025-07,11.08,846.0
+SM101191,Nisha Kadam,2025-09-15,2025-09-20,Stationery,Pens,Nashik,Maharashtra,West,6,125,0.02,735.0,127.62,UPI,2025-09,17.36,735.0
+SM101192,Sneha Naik,2025-07-09,2025-07-13,Stationery,Office Supplies,Nashik,Maharashtra,West,4,855,0.02,3351.6,461.35,Credit Card,2025-07,13.77,3351.6
+SM101193,Riya Singh,2025-03-31,2025-04-02,Personal Care,Skin Care,Surat,Gujarat,West,5,170,0.0,850.0,191.22,Cash,2025-03,22.5,850.0
+SM101194,Rahul Verma,2025-05-06,2025-05-11,Household,Cleaning,Warangal,Telangana,South,8,490,0.0,3920.0,815.34,Credit Card,2025-05,20.8,3920.0
+SM101195,Vivaan Bhosale,2025-05-06,2025-05-10,Food,Snacks,Ahmedabad,Gujarat,West,7,310,0.08,1996.4,168.05,Cash,2025-05,8.42,1996.4
+SM101196,Karan Verma,2025-05-14,2025-05-17,Food,Dairy,Hyderabad,Telangana,South,8,420,0.0,3360.0,574.6,UPI,2025-05,17.1,3360.0
+SM101197,Diya Naik,2025-07-06,2025-07-11,Stationery,Pens,Rajkot,Gujarat,West,2,40,0.05,76.0,11.91,Credit Card,2025-07,15.67,76.0
+SM101198,Vivaan Singh,2025-07-07,2025-07-10,Household,Cleaning,Vadodara,Gujarat,West,8,250,0.0,2000.0,427.62,Cash,2025-07,21.38,2000.0
+SM101199,Riya Joshi,2025-05-06,2025-05-09,Personal Care,Hair Care,Durgapur,West Bengal,East,8,385,0.08,2833.6,593.92,Net Banking,2025-05,20.96,2833.6
+SM101200,Sneha Naik,2025-01-19,2025-01-24,Household,Storage,Kolkata,West Bengal,East,5,165,0.05,783.75,165.84,Debit Card,2025-01,21.16,783.75
